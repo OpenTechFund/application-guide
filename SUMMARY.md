@@ -2,31 +2,27 @@
 
 * [Introduction](README.md)
 
-  * Acknowledgements
+  * Guide usage
   * FAQ
-  * General workflow
+  * Overall criteria
+  * General pointers
 
+  * Application workflow
+  * General Oversight
+  * Acknowledgements
+  * Intellectual property
+
+* Application types
+  * Funds
+  * Fellowships
+  * Labs
 * [Considerations](chapter1.md)
 
   * [Overall criteria](overall-criteria.md)
-  * Application pointers
-
-* Specific applications
-
-  * Concept note
-  * Proposal
-  * Rapid response
-  * ICFP fellowship
-  * DIFP fellowship
-  * Community lab
-  * Red team
 
 * Project oversight
+
 * [Other guides](other-guides.md)
-* Intellectual property
-* Test
-* Test 1
-  * Test 2
 
 
 
