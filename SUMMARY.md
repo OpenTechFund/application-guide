@@ -1,8 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
+  * Acknowledgements
+  * FAQ
 * General workflow
-* FAQ
+
 * [Considerations](chapter1.md)
   * [Overall criteria](overall-criteria.md)
   * Application pointers
@@ -17,4 +19,6 @@
 * Project oversight
 * [Other guides](other-guides.md)
 * Intellectual property
+
+
 
