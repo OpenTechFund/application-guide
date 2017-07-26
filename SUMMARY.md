@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * General workflow
-* Application pointers
 * FAQ
 * [Considerations](chapter1.md)
   * [Overall criteria](overall-criteria.md)
+  * Application pointers
 * Specific applications
   * Concept note
   * Proposal
