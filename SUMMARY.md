@@ -16,18 +16,23 @@
   * Labs
 
 * Applicant types
+
   * Individuals
   * Organizations
+
 * Project oversight
 
   * Projects
   * Fellows
   * Service Partners
+  * Monitoring & evaluation
 
 * Specific guidance
+
   * Deploying communications infrastructure
   * Training and capacity building efforts
   * Country limitations
+
 * [Other resources](other-guides.md)
 
 
