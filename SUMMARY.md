@@ -10,14 +10,20 @@
   * Intellectual property
   * Acknowledgements
 * [Application types](application-types.md)
+
   * Funds
   * Fellowships
   * Labs
 
+* Applicant types
+  * Individuals
+  * Organizations
 * Project oversight
+
   * Projects
   * Fellows
   * Service Partners
+
 * Specific guidance
   * Deploying communications infrastructure
   * Training and capacity building efforts
