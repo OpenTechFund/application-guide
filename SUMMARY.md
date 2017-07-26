@@ -9,8 +9,8 @@
   * General oversight
   * Acknowledgements
   * Intellectual property
-* Application types
-* * Funds
+* [Application types](application-types.md)
+  * Funds
   * Fellowships
   * Labs
 * Project oversight
