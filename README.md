@@ -1,4 +1,4 @@
 # Application & Oversight Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This document is for new applicants and approved efforts. The goal is to provide the all the information needed to submit a great application and to know what to expect if it is approved.
 
