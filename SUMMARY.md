@@ -7,10 +7,10 @@
   * General pointers
   * Application workflow
   * General oversight
-  * Acknowledgements
   * Intellectual property
+  * Acknowledgements
 * [Application types](application-types.md)
-  * Funds
+* * Funds
   * Fellowships
   * Labs
 * Project oversight
