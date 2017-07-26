@@ -4,7 +4,6 @@
 * Overview of our process
 * [General considerations](chapter1.md)
   * [Overall criteria](overall-criteria.md)
-
 * Specific applications
   * Concept note
   * Proposal
@@ -13,7 +12,5 @@
   * DIFP fellowship
   * Community lab
   * Red team
-* [Project oversight](https://www.gitbook.com/book/otf/application-guide/edit#)
-
-
+* Project oversight
 
