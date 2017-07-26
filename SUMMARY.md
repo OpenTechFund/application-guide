@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * Guide usage
+  * [Guide usage](guide-usage.md)
   * [FAQ](faq.md)
   * [Overall criteria](overall-criteria.md)
   * General pointers
