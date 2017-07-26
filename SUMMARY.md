@@ -8,7 +8,7 @@
   * Application workflow
   * General oversight
   * Intellectual property
-  * Contributing to this guide
+  * [Contributing to this guide](contributing-to-this-guide.md)
   * Acknowledgements
 * [Application types](application-types.md)
   * Funds
@@ -27,6 +27,4 @@
   * Training and capacity building efforts
   * Country limitations
 * [Other resources](other-guides.md)
-
-
 
