@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
   * Guide usage
-  * FAQ
+  * [FAQ](faq.md)
   * [Overall criteria](overall-criteria.md)
   * General pointers
   * Application workflow
