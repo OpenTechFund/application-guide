@@ -15,6 +15,6 @@
   * Community lab
   * Red team
 * Project oversight
-
-
+* [Other guides](other-guides.md)
+* Intellectual property
 
