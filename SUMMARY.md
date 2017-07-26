@@ -3,11 +3,13 @@
 * [Introduction](README.md)
   * Acknowledgements
   * FAQ
-* General workflow
+  * General workflow
 
 * [Considerations](chapter1.md)
+
   * [Overall criteria](overall-criteria.md)
   * Application pointers
+
 * Specific applications
   * Concept note
   * Proposal
