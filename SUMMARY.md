@@ -6,16 +6,22 @@
   * [Overall criteria](overall-criteria.md)
   * General pointers
   * Application workflow
-  * General Oversight
+  * General oversight
   * Acknowledgements
   * Intellectual property
 * Application types
-  * Funds
+* * Funds
   * Fellowships
   * Labs
-* [Consideration](chapter1.md)
 * Project oversight
-* [Other guides](other-guides.md)
+  * Projects
+  * Fellows
+  * Service Partners
+* Specific guidance
+  * Deploying communications infrastructure
+  * Training and capacity building efforts
+  * Country limitations
+* [Other resources](other-guides.md)
 
 
 
