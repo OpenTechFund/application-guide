@@ -12,7 +12,7 @@
 
 
 
-**What types of efforts does OTF support?**<a id="#01"></a>
+##What types of efforts does OTF support?<a id="#01"></a>
 
 OTF supports research, development, and implementation efforts focused on increasing:  
 \*_Access_to the internet, including circumvention tools;  
@@ -37,7 +37,7 @@ _Fellowships_
 
 
 
-**Does my project sound like something OTF would support?**  
+## Does my project sound like something OTF would support? 
 OTF encourages any potential applicant to first explore OTF’s[mission, goals, and primary focus areas](https://www.opentech.fund/about/program). If it sounds like your project might be a good fit, you’ll want to identify which[fund or fellowship](https://www.opentech.fund/funding)is most appropriate for you. From there, submitting a concept note is the best next step.
 
 
@@ -99,7 +99,7 @@ Attaching a resume or CV is required for first time applicants. If you’re appl
 
 
 
-**In what language should I submit my application?**<a id="#11"></a>
+## In what language should I submit my application?<a id="#11"></a>
   
 Please note that English is the language of record for all applications, and those submitted in other languages may not be reviewed as competitively as those submitted in English.
 
