@@ -13,6 +13,7 @@
 
 
 **What types of efforts does OTF support?**<a id="#01"></a>
+
 OTF supports research, development, and implementation efforts focused on increasing:  
 \*_Access_to the internet, including circumvention tools;  
 \*_Awareness_of access, privacy, or security threats, including research, censorship detection, measurement platforms, and increasing digital security know-how among targeted groups;  
