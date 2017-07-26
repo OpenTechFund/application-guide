@@ -8,7 +8,7 @@
   * Application workflow
   * General oversight
   * Intellectual property
-  * [Contributing to this guide](contributing-to-this-guide.md)
+  * [Contributing to this guide](contributing.md)
   * Acknowledgements
 * [Application types](application-types.md)
   * Funds
