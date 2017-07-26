@@ -12,7 +12,7 @@
 
 
 
-**What types of efforts does OTF support?**<a id="#01"></a>
+**What types of efforts does OTF support?** <a id="#01"></a>
 
 OTF supports research, development, and implementation efforts focused on increasing:  
 \*_Access_to the internet, including circumvention tools;  
