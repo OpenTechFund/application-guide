@@ -2,29 +2,23 @@
 
 * [Introduction](README.md)
   * [Table of Contents](guide-usage.md)
+  * [Acknowledgements](acknowledgements.md)
+* [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
-  * [Overall criteria](overall-criteria.md)
-  * [General pointers](general-pointers.md)
-  * [Application workflow](application-workflow.md)
-  * [General oversight](general-oversight.md)
-  * Intellectual property
-  * [Contributing to this guide](contributing.md)
-  * Acknowledgements
-* [Application types](application-types.md)
-  * [Funds](application-types/funds.md)
-  * [Fellowships](application-types/fellowships.md)
-  * [Labs](application-types/labs.md)
-* [Applicant types](applicant-types.md)
-  * [Individuals](applicant-types/individuals.md)
-  * [Organizations](applicant-types/organizations.md)
-* [Project oversight](project-oversight.md)
-  * [Projects](project-oversight/projects.md)
-  * [Fellows](project-oversight/fellows.md)
-  * [Service Partners](project-oversight/service-partners.md)
-  * Monitoring & evaluation
-* [Specific guidance](specific-guidance.md)
-  * [Deploying communications infrastructure](specific-guidance/deploying-communications-infrastructure.md)
-  * [Training and capacity building efforts](specific-guidance/training-and-capacity-building-efforts.md)
-  * [Country limitations](specific-guidance/country-limitations.md)
+  * [OTF Mission & Focus Areas](project-oversight/fellows.md)
+  * [Funding Guidelines](project-oversight/service-partners.md)
+  * [Application Workflows](application-types/labs.md)
+  * [Concept Note Guidelines](concept-note-guidelines.md)
+  * Proposal Guidelines
+  * Evaluation Worksheet
+  * OTF Contract Template & USG Provisions
+  * Alternative Support Sources
+* [Section II: For Newly Approved Projects and Fellows](specific-guidance.md)
+  * [Oversight](specific-guidance/deploying-communications-infrastructure.md)
+  * [Monitoring & Evaluation](specific-guidance/training-and-capacity-building-efforts.md)
+  * [External Security Auditing](specific-guidance/country-limitations.md)
+  * Deliverables & Payment
+  * Contract Amendments
 * [Other resources](other-guides.md)
+* [Contributing to this guide](contributing.md)
 
