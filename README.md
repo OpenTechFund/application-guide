@@ -1,14 +1,16 @@
 # ![](/assets/OTF Logo.jpeg)Application & Oversight Guide
 
-This document is for new applicants and approved efforts. The goal is to provide the all the information needed to submit a great application and to know what to expect if it is approved. It should not provide specific information for individual solicitations \(that's what there requests are for\), but have a general higher-level relevance for all of the solicitations OTF manages.
+**What this guide **_**is**_**    
+**This guide is designed for applicants applying to the Open Technology Fund \(OTF\) for funding, and also for newly approved projects and fellows. The goal is to provide you with all the information you need to successfully submit an application and to know what to expect if it is approved. The guidance provided herein is general and is relevant to all of the different funding solicitations published by OTF.
 
+**What this guide **_**is**_** **_**not**_**    
+**Each fund, lab, and fellowship program has its own specific criteria. This guide does not provide specific information for each individual funding mechanisms, but rather provides general guidelines relevant to any application to OTF.
 
-
-This guide is intended for two primary audiences: 1\) new applicants seeking OTF funding and 2\) newly approved projects and fellows. 
+---
 
 **For Applicants **  
-The goal of this guide is to provide you, the applicant, with all the information you need to submit a great application. This is your one-stop shop for understanding among other things general pointers about applying to OTF, our different funding mechanisms, how to best structure your concept note or proposal, and the application process workflow, for example.
+For applicants new to the process, this guide will provide you with all the information you need to successfully submit an application. This guide can act as your one-stop shop for understanding how to best structure your concept note or proposal, the application process workflow, choosing the right funding mechanism, and other general pointers about applying to OTF.
 
-**For Newly Approved Projects and Fellows  
-**So your project or idea has been approved; now what? What happens next? Here, you can find out.
+**For Newly Approved Projects and Fellows      
+**So your project or idea has been approved; now what? What happens next? This is the place to find out.
 
