@@ -1,7 +1,5 @@
 # Frequently Asked Questions
 
-## Questions
-
 * [**What types of efforts does OTF support?**](#01)
 * [**Does OTF support projects, individuals, or both?**](#02)
 * [**Does my project sound like something OTF would support?**](#03)
@@ -14,8 +12,6 @@
 * [**Do I have to include an attachment with my application?**](#10)
 * [**In what language should I submit my application?**](#11)
 
-
-## Answers
 ### What types of efforts does OTF support?<a id="01"></a>
 
 OTF supports research, development, and implementation efforts focused on increasing:  

@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Guide usage](guide-usage.md)
+  * [Table of Contents](guide-usage.md)
   * [FAQ](faq.md)
   * [Overall criteria](overall-criteria.md)
-  * General pointers
-  * Application workflow
+  * [General pointers](general-pointers.md)
+  * [Application workflow](application-workflow.md)
   * [General oversight](general-oversight.md)
   * Intellectual property
   * [Contributing to this guide](contributing.md)
