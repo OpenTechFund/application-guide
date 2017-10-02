@@ -1,4 +1,4 @@
-### Alternative Support Sources
+# Alternative Support Sources
 
 If OTF is unable to support your proposed effort, there may still be a funder that can. OTF has therefore compiled a running list of funding sources related to Internet Freedom and other related topics such as journalism, human rights, policy, and various fellowships.
 

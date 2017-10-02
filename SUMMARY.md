@@ -17,8 +17,8 @@
   * [Oversight](specific-guidance/deploying-communications-infrastructure.md)
   * [Monitoring & Evaluation](specific-guidance/training-and-capacity-building-efforts.md)
   * [External Security Auditing](specific-guidance/country-limitations.md)
-  * Deliverables & Payment
-  * Contract Amendments
+  * [Deliverables & Payment](specific-guidance/deliverables-and-payment.md)
+  * [Contract Amendments](specific-guidance/contract-amendments.md)
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 

@@ -1,8 +1,8 @@
 # Section I: For Applicants
 
-![](/assets/free_logo_10_4.jpg)
+![](/assets/free_logo_10_4.jpg)[^1]
 
 
 
-\[Original via [http://logodust.com](http://logodust.com/\)\]
+Image via [http://logodust.com](http://logodust.com/\)
 

@@ -1,22 +1,24 @@
-### **For the Internet Freedom Fund and Core Infrastructure Fund:**
+# Application Workflows
+
+### _**For the Internet Freedom Fund and Core Infrastructure Fund**_**:**
 
 ![](/assets/Workflow_Fund.png)
 
 ---
 
-### **For the Rapid Response Fund:**
+### _**For the Rapid Response Fund**_**:**
 
 ![](/assets/Workflow_RR.png)
 
 ---
 
-### **For the Information Controls and Digital Integrity Fellowship Programs:**
+### _**For the Information Controls and Digital Integrity Fellowship Programs**_**:**
 
 ![](/assets/Workflow_fellow.png)
 
 ---
 
-### \[Labs?\]
+### \[_Labs_?\]
 
 
 
