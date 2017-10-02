@@ -4,7 +4,5 @@
 
 
 
-
-
-\[Image via [http://logodust.com](http://logodust.com/\)\]
+\[Original via [http://logodust.com](http://logodust.com/\)\]
 
