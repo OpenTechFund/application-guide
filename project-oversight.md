@@ -4,5 +4,5 @@
 
 
 
-Image via [http://logodust.com](http://logodust.com/\)
+_Image via _[_http://logodust.com_](http://logodust.com/\)
 

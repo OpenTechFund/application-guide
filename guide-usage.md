@@ -1,8 +1,10 @@
-**Section I: For Applicants** 
+**Section I: For Applicants**
 
 * FAQ
 * OTF Mission & Focus Areas
 * Funding Guidelines
+  * Deadlines 
+
   * Contracts, not Grants
   * Projects, not Overhead
 * Application Workflows

@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
   * [Table of Contents](guide-usage.md)
-  * [Acknowledgements](acknowledgements.md)
 * [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
   * [OTF Mission & Focus Areas](project-oversight/fellows.md)
@@ -21,4 +20,5 @@
   * [Contract Amendments](specific-guidance/contract-amendments.md)
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
+* [Acknowledgements](acknowledgements.md)
 
