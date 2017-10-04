@@ -1,4 +1,4 @@
-# Proposal Evaluation Worksheet
+# Evaluation Worksheet \(Proposal\)
 
 _Below is the worksheet used by OTF staff and the OTF Advisory Council when evaluating proposals. The scoring system for each area is on a scale from 0-5, where 0 is considered 'not applicable,' 1 is 'poor' or 'very weak,' and 5 is 'excellent' or 'very strong.' In general, proposals with higher aggregate scores will make it farther in the process._
 
@@ -8,13 +8,13 @@ _Below is the worksheet used by OTF staff and the OTF Advisory Council when eval
 
 Here is space for the reviewer to provide any general thoughts you have after reviewing a proposal. This is a space for any comments or questions not specifically addressed elsewhere in the review worksheet. Comments and questions posted here will be aggregated back to the Advisory Council and to the proposal authors.
 
-**Things that you like about this proposal    
+**Things that you like about this proposal      
 **Provide here any specific bits that got you really excited or that you like about this proposal.
 
-**Things that concern you about this proposal    
+**Things that concern you about this proposal      
 **Provide here any specific bits that leave you feeling uneasy or that you do not like about this proposal.
 
-**Red flags    
+**Red flags      
 **Provide here anything you found to be cause for concern, dire warnings, notice of very serious dangers, and/or potential disasters.
 
 ### Specifics
