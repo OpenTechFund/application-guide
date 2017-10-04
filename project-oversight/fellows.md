@@ -3,7 +3,7 @@
 **Mission  
 **The Open Technology Fund supports open technologies and communities that increase free expression, circumvent censorship, and obstruct repressive surveillance as a way to promote human rights and open societies.
 
-**Focus Areas      
+**Focus Areas        
 **OTF supports three primary types of efforts:
 
 1\) Research  
