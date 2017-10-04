@@ -16,5 +16,5 @@ For applicants new to the process, this guide will provide you with all the info
 
 **For Newly Approved Projects and Fellows**
 
-So your project or idea has been approved; congrats! now what? What happens next? This is the place to find out.
+So your project or idea has been approved; congrats! What happens next? This is the place to find out.
 
