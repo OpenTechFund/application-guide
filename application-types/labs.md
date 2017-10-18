@@ -18,9 +18,5 @@ _From concept note to contract, depicted here is the process a successful applic
 
 ![](/assets/Workflow_fellow.png)
 
----
-
-### \[_Labs_?\]
-
 
 
