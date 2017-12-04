@@ -7,6 +7,7 @@
   * [OTF Mission & Focus Areas](project-oversight/fellows.md)
   * [Funding Guidelines](project-oversight/service-partners.md)
   * [Application Workflows](application-types/labs.md)
+  * Fund specific guidance
   * [Concept Note Guidelines](concept-note-guidelines.md)
   * [Proposal Guidelines](proposal-guidelines.md)
   * [Evaluation Worksheet \(Concept Note\)](evaluation-worksheet-concept-note.md)

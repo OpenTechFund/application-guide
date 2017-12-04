@@ -1,4 +1,4 @@
-# ![](/assets/OTF Logo.jpeg)Open Technology Fund \(OTF\) Application & Oversight Guide
+* # ![](/assets/OTF Logo.jpeg)Open Technology Fund \(OTF\) Application & Oversight Guide
 
 **What this guide **_**is**_
 
