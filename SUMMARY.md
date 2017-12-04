@@ -7,13 +7,20 @@
   * [OTF Mission & Focus Areas](project-oversight/fellows.md)
   * [Funding Guidelines](project-oversight/service-partners.md)
   * [Application Workflows](application-types/labs.md)
+  * [OTF Contract Template & USG Provisions](https://www.gitbook.com/book/otf/application-guide/edit#)
+
+  * [Alternative Support Sources](https://www.gitbook.com/book/otf/application-guide/edit#)
+
   * Fund specific guidance
-  * [Concept Note Guidelines](concept-note-guidelines.md)
-  * [Proposal Guidelines](proposal-guidelines.md)
-  * [Evaluation Worksheet \(Concept Note\)](evaluation-worksheet-concept-note.md)
-  * [Evaluation Worksheet \(Proposal\)](evaluation-worksheet.md)
-  * [OTF Contract Template & USG Provisions](otf-contract-template-and-usg-provisions.md)
-  * [Alternative Support Sources](alternative-support-sources.md)
+    * [Internet Freedom Fund](internet-freedom-fund.md)
+      * [Concept Note Guidelines](concept-note-guidelines.md)
+      * [Proposal Guidelines](proposal-guidelines.md)
+      * [Evaluation Worksheet \(Concept Note\)](evaluation-worksheet-concept-note.md)
+      * [Evaluation Worksheet \(Proposal\)](evaluation-worksheet.md)
+    * Core Infrastructure Fund
+    * Rapid Response Fund
+    * Digital Integrity Fellowship
+    * Information Controls Fellowship
 * [Section II: For Newly Approved Projects and Fellows](specific-guidance.md)
   * [Oversight](specific-guidance/deploying-communications-infrastructure.md)
   * [Monitoring & Evaluation](specific-guidance/training-and-capacity-building-efforts.md)
@@ -23,4 +30,6 @@
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 * [Acknowledgements](acknowledgements.md)
+
+
 
