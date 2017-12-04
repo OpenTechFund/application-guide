@@ -8,7 +8,7 @@
   * [Funding Guidelines](project-oversight/service-partners.md)
   * [Application Workflows](application-types/labs.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
-  * [Alternative Support Sources](https://www.gitbook.com/book/otf/application-guide/edit#)
+  * [Alternative Support Sources](/alternative-support-sources.md)
   * Fund specific guidance
     * [Internet Freedom Fund](internet-freedom-fund.md)
       * [Concept Note Guidelines](concept-note-guidelines.md)
@@ -20,11 +20,11 @@
     * [Digital Integrity Fellowship](digital-integrity-fellowship.md)
     * [Information Controls Fellowship](information-controls-fellowship.md)
   * Lab specific guidance
-    * Red Team Lab
-    * Localization Lab
-    * Community Lab
-    * Usability Lab
-    * Engineering Lab
+    * [Red Team Lab](red-team-lab.md)
+    * [Localization Lab](localization-lab.md)
+    * [Community Lab](community-lab.md)
+    * [Usability Lab](usability-lab.md)
+    * [Engineering Lab](engineering-lab.md)
 * [Section II: For Newly Approved Projects and Fellows](specific-guidance.md)
   * [Oversight](specific-guidance/deploying-communications-infrastructure.md)
   * [Monitoring & Evaluation](specific-guidance/training-and-capacity-building-efforts.md)
