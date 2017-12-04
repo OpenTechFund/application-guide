@@ -5,9 +5,9 @@
 * [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
   * [General Funding Guidelines & Guidance](/funding-guidelines.md)
-    * [OTF Mission & Focus Areas](/mission-focus.md)
-    * Clear Focus on Repressive Environments
-    * Training and Digital Capacity Building
+    * [OTF Mission, Focus Areas, and Values & Principles](/mission-focus.md)
+    * [Clear Focus on Repressive Environments](clear-focus-on-repressive-environments.md)
+    * [Training and Digital Capacity Building](training-and-digital-capacity-building.md)
     * On Providing Internet Access
   * [Application Workflows](/application-workflow.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
@@ -37,6 +37,4 @@
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 * [Acknowledgements](acknowledgements.md)
-
-
 
