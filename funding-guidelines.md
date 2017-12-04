@@ -24,3 +24,6 @@ OTF generally does not support standalone costs which are not directly associate
 
 In the very limited instances where OTF determines that an overhead cost would be permitted, such costs cannot be greater than 10 percent of the overall cost of the project. Projects seeking an exception bear the burden of clearly demonstrating how the lack of such an inclusion will prevent the completion of the project’s objectives.
 
+**\[\[Section on Guidance\]\]  
+**For example questions on what is within remit -&gt; ICT4D, trainings, "access" definition, etc. 
+
