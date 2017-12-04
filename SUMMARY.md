@@ -5,7 +5,7 @@
 * [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
   * [OTF Mission & Focus Areas](/mission-focus.md)
-  * [Funding Guidelines](/funding-guidelines.md)
+  * [Funding Guidelines & Guidance](/funding-guidelines.md)
   * [Application Workflows](/application-workflow.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
   * [Alternative Support Sources](/alternative-support-sources.md)
@@ -19,7 +19,7 @@
     * [Rapid Response Fund](rapid-response-fund.md)
     * [Digital Integrity Fellowship](digital-integrity-fellowship.md)
     * [Information Controls Fellowship](information-controls-fellowship.md)
-  * Lab specific guidance
+  * [Lab Specific Guidance](lab-specific-guidance.md)
     * [Red Team Lab](red-team-lab.md)
     * [Localization Lab](localization-lab.md)
     * [Community Lab](community-lab.md)
@@ -34,6 +34,4 @@
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 * [Acknowledgements](acknowledgements.md)
-
-
 
