@@ -4,8 +4,11 @@
   * [Table of Contents](guide-usage.md)
 * [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
-  * [OTF Mission & Focus Areas](/mission-focus.md)
   * [General Funding Guidelines & Guidance](/funding-guidelines.md)
+    * [OTF Mission & Focus Areas](/mission-focus.md)
+    * Clear Focus on Repressive Environments
+    * Training and Digital Capacity Building
+    * On Providing Internet Access
   * [Application Workflows](/application-workflow.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
   * [Alternative Support Sources](/alternative-support-sources.md)
@@ -34,4 +37,6 @@
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 * [Acknowledgements](acknowledgements.md)
+
+
 
