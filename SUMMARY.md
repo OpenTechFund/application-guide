@@ -4,7 +4,7 @@
   * [Table of Contents](guide-usage.md)
 * [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
-  * [OTF Mission & Focus Areas](project-oversight/fellows.md)
+  * [OTF Mission & Focus Areas](/project-oversight/fellows.md)
   * [Funding Guidelines](project-oversight/service-partners.md)
   * [Application Workflows](application-types/labs.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
