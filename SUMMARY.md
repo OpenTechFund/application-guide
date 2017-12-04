@@ -5,7 +5,7 @@
 * [Section I: For Applicants](project-oversight.md)
   * [FAQ](faq.md)
   * [OTF Mission & Focus Areas](/mission-focus.md)
-  * [Funding Guidelines & Guidance](/funding-guidelines.md)
+  * [General Funding Guidelines & Guidance](/funding-guidelines.md)
   * [Application Workflows](/application-workflow.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
   * [Alternative Support Sources](/alternative-support-sources.md)
