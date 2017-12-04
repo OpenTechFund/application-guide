@@ -8,9 +8,9 @@ The Open Technology Fund supports open technologies and communities that increas
 
 OTF supports three primary types of efforts:
 
-1\) Research  
-2\) Development  
-3\) Implementation
+* Research
+* Development
+* Implementation
 
 Those efforts should focus on increasing one or more of the following:
 
