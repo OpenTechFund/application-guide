@@ -6,7 +6,7 @@
   * [FAQ](faq.md)
   * [OTF Mission & Focus Areas](/mission-focus.md)
   * [Funding Guidelines](/funding-guidelines.md)
-  * [Application Workflows](application-types/labs.md)
+  * [Application Workflows](/application-workflow.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
   * [Alternative Support Sources](/alternative-support-sources.md)
   * Fund specific guidance
