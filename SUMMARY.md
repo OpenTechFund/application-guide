@@ -7,7 +7,7 @@
   * [OTF Mission & Focus Areas](project-oversight/fellows.md)
   * [Funding Guidelines](project-oversight/service-partners.md)
   * [Application Workflows](application-types/labs.md)
-  * [OTF Contract Template & USG Provisions](https://www.gitbook.com/book/otf/application-guide/edit#)
+  * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
   * [Alternative Support Sources](https://www.gitbook.com/book/otf/application-guide/edit#)
   * Fund specific guidance
     * [Internet Freedom Fund](internet-freedom-fund.md)
@@ -28,4 +28,6 @@
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 * [Acknowledgements](acknowledgements.md)
+
+
 
