@@ -19,6 +19,12 @@
     * [Rapid Response Fund](rapid-response-fund.md)
     * [Digital Integrity Fellowship](digital-integrity-fellowship.md)
     * [Information Controls Fellowship](information-controls-fellowship.md)
+  * Lab specific guidance
+    * Red Team Lab
+    * Localization Lab
+    * Community Lab
+    * Usability Lab
+    * Engineering Lab
 * [Section II: For Newly Approved Projects and Fellows](specific-guidance.md)
   * [Oversight](specific-guidance/deploying-communications-infrastructure.md)
   * [Monitoring & Evaluation](specific-guidance/training-and-capacity-building-efforts.md)
