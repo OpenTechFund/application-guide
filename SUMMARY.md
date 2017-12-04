@@ -9,7 +9,7 @@
   * [Application Workflows](application-types/labs.md)
   * [OTF Contract Template & USG Provisions](https://www.gitbook.com/book/otf/application-guide/edit#)
   * [Alternative Support Sources](https://www.gitbook.com/book/otf/application-guide/edit#)
-  * Fund specific guidance
+  * [Fund specific guidance](fund-specific-guidance.md)
     * [Internet Freedom Fund](internet-freedom-fund.md)
       * [Concept Note Guidelines](concept-note-guidelines.md)
       * [Proposal Guidelines](proposal-guidelines.md)
@@ -28,4 +28,6 @@
 * [Other resources](other-guides.md)
 * [Contributing to this guide](contributing.md)
 * [Acknowledgements](acknowledgements.md)
+
+
 
