@@ -9,7 +9,7 @@
   * [Application Workflows](/application-workflow.md)
   * [OTF Contract Template & USG Provisions](/otf-contract-template-and-usg-provisions.md)
   * [Alternative Support Sources](/alternative-support-sources.md)
-  * [Fund specific guidance](fund-specific-guidance.md)
+  * [Fund Specific Guidance](fund-specific-guidance.md)
     * [Internet Freedom Fund](internet-freedom-fund.md)
       * [Concept Note Guidelines](concept-note-guidelines.md)
       * [Proposal Guidelines](proposal-guidelines.md)
