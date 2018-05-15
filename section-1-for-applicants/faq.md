@@ -1,17 +1,5 @@
 # FAQ
 
-* [**What types of efforts does OTF support?**](faq.md#01)
-* [**Does OTF support projects, individuals, or both?**](faq.md#02)
-* [**Does my project sound like something OTF would support?**](faq.md#03)
-* [**What does OTF look for in an application?**](faq.md#04)
-* [**When does OTF accept applications? When are the deadlines?**](faq.md#05)
-* [**Is there a minimum or maximum monetary amount for funding requests?**](faq.md#06)
-* [**I submitted an application. When can I expect to hear a response from OTF?**](faq.md#07)
-* [**Does OTF support projects that are commercial or proprietary in nature?**](faq.md#08)
-* [**Does OTF support overhead costs?**](faq.md#09)
-* [**Do I have to include an attachment with my application?**](faq.md#10)
-* [**In what language should I submit my application?**](faq.md#11)
-
 ## What types of efforts does OTF support?
 
 OTF supports research, development, and implementation efforts focused on increasing:
