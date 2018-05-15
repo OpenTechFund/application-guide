@@ -34,8 +34,8 @@
   * [External Security Auditing](section-ii-for-newly-approved-projects-and-fellows/external-security-auditing.md)
   * [Deliverables & Payment](section-ii-for-newly-approved-projects-and-fellows/deliverables-and-payment.md)
   * [Contract Amendments](section-ii-for-newly-approved-projects-and-fellows/contract-amendments.md)
+* Section 3: For reviewers
 * [Other resources](other-resources.md)
 * [Contributing to this guide](contributing-to-this-guide.md)
 * [Acknowledgements](acknowledgements.md)
-* Section 3: For reviewers
 
