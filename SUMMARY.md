@@ -34,7 +34,7 @@
   * [External Security Auditing](section-2-approved-applicants/external-security-auditing.md)
   * [Deliverables & Payment](section-2-approved-applicants/deliverables-and-payment.md)
   * [Contract Amendments](section-2-approved-applicants/contract-amendments.md)
-* Section 3: For reviewers
+* [Section 3: For reviewers](section-3-reviewers/README.md)
   * [FAQ](section-3-reviewers/faq.md)
 * [Other resources](other-resources.md)
 * [Contributing to this guide](contributing-to-this-guide.md)
