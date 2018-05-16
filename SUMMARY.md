@@ -28,7 +28,7 @@
     * [Community Lab](section-1-for-applicants/lab-specific-guidance/community-lab.md)
     * [Usability Lab](section-1-for-applicants/lab-specific-guidance/usability-lab.md)
     * [Engineering Lab](section-1-for-applicants/lab-specific-guidance/engineering-lab.md)
-* [Section 2: Approved Projects and Fellows](section-2-for-newly-approved-projects-and-fellows/README.md)
+* [Section 2: Approved Applicants](section-2-for-newly-approved-projects-and-fellows/README.md)
   * [Oversight](section-2-for-newly-approved-projects-and-fellows/oversight.md)
   * [Monitoring & Evaluation](section-2-for-newly-approved-projects-and-fellows/monitoring-and-evaluation.md)
   * [External Security Auditing](section-2-for-newly-approved-projects-and-fellows/external-security-auditing.md)

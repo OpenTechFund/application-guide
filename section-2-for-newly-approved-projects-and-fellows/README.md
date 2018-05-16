@@ -1,4 +1,4 @@
-# Section 2: Approved Projects and Fellows
+# Section 2: Approved Applicants
 
 
 
