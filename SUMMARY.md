@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to our applicant and reviewer guide](README.md)
 * [Introduction](introduction.md)
 * [Section 1: For Applicants](section-1-applicants/README.md)
   * [FAQ](section-1-applicants/faq.md)
