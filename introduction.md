@@ -2,7 +2,7 @@
 
 **What this guide** _**is**_
 
-The goal of this guide is to provide you with all the information you need to successfully submit an application to the Open Technology Fund \(OTF\), and to know what to expect if it is approved. It is designed for applicants applying to OTF for funding, and also for newly approved projects and fellows. The guidance provided herein is general and relevant to all of the different funding solicitations published by OTF.
+The goal of this guide is to provide you with all the information you need to successfully submit an application to the Open Technology Fund \(OTF\), what to expect if it is approved, and what our expectations are of reviewers. It is designed for applicants applying to OTF for funding, for newly approved projects and fellows, and reviewers who are OTF team members or Advisory Council members. The guidance provided herein is general and relevant to all of the different funding solicitations published by OTF.
 
 Each OTF fund, lab, or fellowship program has its own specific criteria \(in addition to fitting within OTF's remit and one or more of our focus areas\). This guide will provide specific information for each individual funding mechanisms, while also providing general guidelines relevant to any OTF application. For information specific to individual funding mechanisms, each of these has its own dedicated request page. Links to those can be found [here](https://www.opentech.fund/requests).
 
