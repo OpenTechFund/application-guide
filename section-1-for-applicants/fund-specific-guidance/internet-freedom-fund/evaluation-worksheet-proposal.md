@@ -6,14 +6,14 @@ _Below is the worksheet used by OTF staff and the OTF Advisory Council when eval
 
 Here is space for the reviewer to provide any general thoughts you have after reviewing a proposal. This is a space for any comments or questions not specifically addressed elsewhere in the review worksheet. Comments and questions posted here will be aggregated back to the Advisory Council and to the proposal authors.
 
-**Positive Aspects    
-**Provide here any specific bits that got you really excited or that you see as positive about this proposal.
+**Positive Aspects**    
+Provide here any specific bits that got you really excited or that you see as positive about this proposal.
 
-**Concerns    
-**Provide here any specific bits that leave you feeling uneasy or that you feel warrant concern regarding this proposal.
+**Concerns**    
+Provide here any specific bits that leave you feeling uneasy or that you feel warrant concern regarding this proposal.
 
-**Items that Must be Addressed    
-**Provide here anything you found to be cause for concern, warnings, very serious dangers, and/or potential disasters.
+**Items that Must be Addressed**    
+Provide here anything you found to be cause for concern, warnings, very serious dangers, and/or potential disasters.
 
 ## Specifics
 

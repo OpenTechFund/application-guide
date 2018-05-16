@@ -1,6 +1,6 @@
 # Evaluation Worksheet \(Concept Note\)
 
-_Below is the worksheet used by OTF staff when evaluating concept notes. _
+_Below is the worksheet used by OTF staff when evaluating concept notes._ 
 
 **Goals and Principles**
 
@@ -20,6 +20,6 @@ Is the requested amount reasonable, realistic, and justified? Does the project p
 
 Rate the project in terms of how reasonable and realistic it is: \(0-5\) \_\_\_\_\_
 
-**General comments    
-**\[Space here for any additional thoughts not captured in the fields above\]
+**General comments**    
+\[Space here for any additional thoughts not captured in the fields above\]
 

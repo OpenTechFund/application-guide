@@ -1,6 +1,6 @@
 # Proposal Guidelines
 
-_Below are general guidelines to consider before submitting a proposal to OTF. You can think of this as a template or outline when putting together your proposal. This information is based off OTF's observation of proposals that were well received and successfully passed the review process. _
+_Below are general guidelines to consider before submitting a proposal to OTF. You can think of this as a template or outline when putting together your proposal. This information is based off OTF's observation of proposals that were well received and successfully passed the review process._ 
 
 ## Proposal Information
 

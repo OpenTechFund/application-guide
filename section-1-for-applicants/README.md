@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/free_logo_10_4.jpg)
 
-_Image via _[_http://logodust.com_](http://logodust.com/\)
+_Image via_ [_http://logodust.com_](http://logodust.com/\)
 

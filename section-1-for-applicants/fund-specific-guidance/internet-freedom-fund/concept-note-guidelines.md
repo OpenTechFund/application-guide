@@ -1,10 +1,10 @@
 # Concept Note Guidelines
 
-_Below are general guidelines to consider before submitting a concept note to OTF. _
+_Below are general guidelines to consider before submitting a concept note to OTF._ 
 
 There are three areas worth considering when drafting your concept note. They pertain to whether the proposed effort 1\) contributes or is relevant to OTF's mission, core values, and objectives; 2\) has technical merit; and 3\) is sustainable and fiscally realistic.
 
-## **1\) Relevance to OTF's Mission, Core Values, and Objectives **
+## **1\) Relevance to OTF's Mission, Core Values, and Objectives** 
 
 **Organizational Profile**
 
@@ -69,7 +69,7 @@ There are three areas worth considering when drafting your concept note. They pe
 * What are the unintended or illicit uses and consequences of this technology?
 * Has the project identified and/or developed any safeguards for these consequences?
 
-**Technical Human Capacity **
+**Technical Human Capacity** 
 
 * How many technologists are actively supporting the project?
 * How many of the original technologists are still with the project?
