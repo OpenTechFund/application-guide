@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Table of Contents](table-of-contents.md)
 * [Section 1: For Applicants](section-1-applicants/README.md)
   * [FAQ](section-1-applicants/faq.md)
   * [General Funding Guidelines & Guidance](section-1-applicants/general-funding-guidelines-and-guidance/README.md)
