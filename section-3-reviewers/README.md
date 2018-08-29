@@ -1,4 +1,0 @@
-# Section 3: For reviewers
-
-Thank you for offering your time to review applications as apart of the OTF Advisory Council. We are excited you have agreed to participate. While the position is voluntary in nature, reviewers play a critical role for OTF. The council serves as a vital external check on potential projects. The information and guidance OTF receives from outside experts like yourself as part of the council review often raises vital considerations for the team as we make final funding decisions. The council review is integrated into our projects approval process such that OTF does not move forward with most funding decisions without reviews from you. This document is meant to offer basic information to help new AC members understand the role they will play in the OTF program. We recognize this document could be improved and encourage you to leave comments that will help us do so. 
-

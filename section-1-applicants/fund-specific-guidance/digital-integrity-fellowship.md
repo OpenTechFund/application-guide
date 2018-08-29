@@ -1,4 +1,0 @@
-# Digital Integrity Fellowship
-
-
-

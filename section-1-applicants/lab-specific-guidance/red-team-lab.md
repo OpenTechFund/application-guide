@@ -1,4 +1,0 @@
-# Red Team Lab
-
-
-

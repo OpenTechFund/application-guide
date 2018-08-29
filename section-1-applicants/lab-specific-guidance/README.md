@@ -1,4 +1,0 @@
-# Lab Specific Guidance
-
-
-
