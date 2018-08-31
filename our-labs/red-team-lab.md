@@ -1,5 +1,5 @@
 ---
-description: Conducting independent security audits of internet freedom technologies
+description: Conducting independent security audits of Internet freedom technologies
 ---
 
 # Red Team Lab

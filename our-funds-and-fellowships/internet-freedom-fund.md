@@ -1,5 +1,5 @@
 ---
-description: OTF's flagship fund
+description: OTF's flagship funding mechanism
 ---
 
 # Internet Freedom Fund

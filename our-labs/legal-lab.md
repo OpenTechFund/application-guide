@@ -1,5 +1,5 @@
 ---
-description: Helping internet freedom projects navigate the complexities of the legal realm
+description: Helping Internet freedom projects navigate the complexities of the legal realm
 ---
 
 # Legal Lab

@@ -1,5 +1,5 @@
 ---
-description: Fast support for urgent situations
+description: Fast support for urgent digital emergencies
 ---
 
 # Rapid Response Fund

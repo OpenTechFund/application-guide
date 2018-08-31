@@ -1,3 +1,7 @@
+---
+description: Bolstering the digital security of at-risk groups through longer-term support
+---
+
 # Digital Integrity Fellowship Program \(DIFP\)
 
 OTF’s Digital Integrity Fellowship Program \(DIFP\) supports individuals capable of bolstering the digital security capabilities of at-risk organizations, groups, or communities through longer-term support, seeking to fill a gap left by common, shorter-term digital security trainings. DIFP fellows embed with an organization of their choice - ideally one that is located in the Global South, has experienced internet freedom violations in the past, and whose focus is on journalism, human rights, advocacy, activism, blogging, or a similar field.  

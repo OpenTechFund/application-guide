@@ -1,5 +1,7 @@
 ---
-description: Supporting building block Internet Freedom technologies
+description: >-
+  Supporting the development and maintenance of essential 'building block'
+  Internet freedom technologies
 ---
 
 # Core Infrastructure Fund
