@@ -27,4 +27,7 @@
   * [Keep in Touch](more-about-the-program/keep-in-touch.md)
   * [Alternative Support Sources](more-about-the-program/alternative-support-sources.md)
 * [FAQ](faq.md)
+* [Appendix I: Concept Note Considerations](appendix-i-concept-note-considerations.md)
+* [Appendix II: Proposal Guide](appendix-ii-proposal-guide.md)
+* [Appendix III: Evaluation Worksheet](appendix-iii-evaluation-worksheet.md)
 
