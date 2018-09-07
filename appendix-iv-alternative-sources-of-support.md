@@ -187,7 +187,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Snap, Inc. | [Yellow](https://www.yellowla.com/about) |
 | The Thiel Foundation | [The Thiel Fellowship](http://thielfellowship.org/) |
 | Matter | [Entrepreneur program](https://matter.vc/) |
-|  |  |
 
 ## Coding
 
@@ -307,11 +306,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | International Cities of Refuge Network \(ICORN\) | [Writers/Artists at Risk](https://icorn.org/icorn-writersartists) |
 | Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
 | Swedish Institute | [Creative Force Grants](https://si.se/en/apply/funding-grants/) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 ## Region Specific
 
