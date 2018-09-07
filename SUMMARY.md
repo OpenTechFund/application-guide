@@ -30,4 +30,5 @@
 * [Appendix I: Concept Note Considerations](appendix-i-concept-note-considerations.md)
 * [Appendix II: Proposal Guide](appendix-ii-proposal-guide.md)
 * [Appendix III: Evaluation Worksheet](appendix-iii-evaluation-worksheet.md)
+* [Appendix IV: Alternative Sources of Support](appendix-iv-alternative-sources-of-support.md)
 
