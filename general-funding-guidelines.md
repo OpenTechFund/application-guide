@@ -42,6 +42,12 @@ Our goal is to support efforts that aim to advance Internet freedom in the world
 
 One thing that separates OTF from other funders is that we do not provide grants to our supported projects. Rather, OTF administers deliverable-based contracts based on proposals and scopes of work. This means that compelling applications need to clearly propose objectives, deliverables, and timelines in order to be considered competitive. OTF does not provide “lump sum” funding of any sort - funds are disbursed following completion of previously agreed upon metrics and deliverables.
 
+## Overhead Costs
+
+**OTF supports projects, not overhead**. Generally, we do not support standalone costs which are not directly associated with the completion of objectives or deliverables. For example, indirect costs such as operational or administrative expenses are not supported. This is in part due to the contractual vehicle OTF relies upon to support projects in the internet freedom space. This policy ensures that programmatic funds are focused on the objectives specifically outlined by Congress.
+
+In the very limited instances where OTF determines that an overhead cost would be permitted, such costs cannot be greater than 10 percent of the overall cost of the project. Projects seeking an exception bear the burden of clearly demonstrating how the lack of such an inclusion will prevent the completion of the project’s objectives.
+
 ## Contract Templates & USG Provisions
 
 For an idea of what a contract between OTF and a supported project looks like, see the attached sample contract. And, as a program funded by the United States Congress, contracts between OTF and supported projects include standard provisions for U.S. Government funded agreements, which you can view in the second attachment below.
