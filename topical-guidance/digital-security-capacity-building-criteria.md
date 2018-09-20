@@ -13,7 +13,7 @@ To achieve these aims, OTF has available several funding streams in which intere
 **Overarching goals:**
 
 * OTF’s primary focus is to support the development of technology advancing the communication and digital security needs of at risk populations in repressive environments. 
-* OTF does not directly support one-off trainings, training of trainers, or organizational capacity building absent of digital security as an effort’s primary outcome. 
+* OTF does not directly support one-off trainings, training of trainers, or organizational capacity building  as an effort’s primary outcome. 
 * OTF will consider these activities if they support primary outcomes that advance the development of technology by: providing feedback loops to technology developer communities; deepening the field’s understanding of front-line challenges and existing technology limitations; and/or, strengthening the relationships between technology developers and communities in need.
 
 **For applicants seeking to apply to the Internet Freedom Fund:**
