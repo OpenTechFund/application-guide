@@ -142,6 +142,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
 |    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
 | European Commission, Democracy and Human Rights | [Calls for Proposals](https://ec.europa.eu/europeaid/node/37623_en) |
+| Microsoft | [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) |
+| Microsoft | [AI for Accessibility](https://www.microsoft.com/en-us/ai-for-accessibility) |
 
 ## Digital Safety
 
@@ -164,6 +166,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Association for Progressive Communications \(APC\) | [Access](https://www.apc.org/en/access-1) |
 | Comcast | [Innovation Fund](http://innovationfund.comcast.com/) |
 | Internet Society | [Grants & Awards](https://www.internetsociety.org/grants-and-awards) |
+| OpenCellular | [OpenCellular Grants](http://oc.telecominfraproject.com/opencellular-grant-program/) |
 
 ## Startup Assistance/Incubators
 
@@ -187,6 +190,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Snap, Inc. | [Yellow](https://www.yellowla.com/about) |
 | The Thiel Foundation | [The Thiel Fellowship](http://thielfellowship.org/) |
 | Matter | [Entrepreneur program](https://matter.vc/) |
+| SecondMuse | [M-Corps](http://www.manufacturenewyork.com/faq/) |
 
 ## Coding
 
@@ -237,6 +241,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Alexander von Humboldt Institute for Internet and Society \(HIIG\) | [Internet and Society Fellowship](https://www.hiig.de/en/fellow-programme/) |
 | Harvard Library Innovation Lab | [Summer Fellowship](https://lil.law.harvard.edu/collaborate/2018/summer/fellows/apply/) |
 | Berkman Klein Center & MIT Media Lab | [Assembly](http://bkmla.org/) |
+| Stanford PACS Digital Civil Society Lab | [Non-Resident Fellowship](https://pacscenter.stanford.edu/dcsl-non-resident-fellowships/) |
 
 ## Software and Development
 
@@ -270,6 +275,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
 | Oak Foundation | [Issues Affecting Women](http://oakfnd.org/issues-affecting-women.html) |
 | Overbrook Foundation | [Gender Rights](https://www.overbrook.org/gender-rights/) |
+| GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
 
 ## Journalism & Media
 
@@ -319,6 +325,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Asian Forum for Human Rights and Development | [About](https://www.forum-asia.org/?page_id=21481) |
 | Network of Chinese Human Rights Defenders \(CHRD\) | [About](https://www.nchrd.org/about-chinese-human-rights-defenders/) |
 | Information Society Innovation Fund Asia \(ISIF Asia\) | [About](https://isif.asia/about-isif-asia/) |
+| GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
 | **South and Latin America** |   |
 | The Colombian Commission of Jurists \(CCJ\) \(La Comisióna de Juristas\) | [About](http://www.coljuristas.org/index1.php?grupo=1) |
 | The Guatemala Human Rights Commission \(GHRC\) | [About](http://www.ghrc-usa.org/) |
