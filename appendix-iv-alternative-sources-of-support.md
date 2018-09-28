@@ -204,6 +204,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | General Assembly | [Social Impact](https://generalassemb.ly/how-we-work/social-impact) |
 | Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
 | The Walkley Foundation | [Coding Scholarships for Journalists](http://www.walkleys.com/codingscholarships/) |
+| Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
 
 ## Policy
 
