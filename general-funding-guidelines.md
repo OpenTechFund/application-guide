@@ -52,7 +52,7 @@ In the very limited instances where OTF determines that an overhead cost would b
 
 For an idea of what a contract between OTF and a supported project looks like, see the attached sample contract. And, as a program funded by the United States Congress, contracts between OTF and supported projects include standard provisions for U.S. Government funded agreements, which you can view in the second attachment below.
 
-{% file src=".gitbook/assets/otf\_contract\_template.pdf" caption="OTF sample contract" %}
+{% file src=".gitbook/assets/otf\_sample\_contract.pdf" %}
 
 {% file src=".gitbook/assets/usgprovisions.pdf" caption="US Government \(USG\) standard provisions" %}
 
