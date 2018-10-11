@@ -32,7 +32,9 @@
 * [Appendix III: Evaluation Worksheet](appendix-iii-evaluation-worksheet.md)
 * [Appendix IV: Alternative Sources of Support](appendix-iv-alternative-sources-of-support.md)
 
-## Advisory Council On-boarding and Guidance
+## Advisory Council
 
-* [Introduction](appendix-5-advisory-council-on-boarding-and-guidance/introduction.md)
+* [Introduction](advisory-council/introduction.md)
+* [FAQ](advisory-council/faq.md)
+* [Designations, benefits, expectations](advisory-council/designations-benefits-expectations.md)
 
