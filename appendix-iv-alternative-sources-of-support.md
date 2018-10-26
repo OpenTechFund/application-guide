@@ -144,6 +144,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | European Commission, Democracy and Human Rights | [Calls for Proposals](https://ec.europa.eu/europeaid/node/37623_en) |
 | Microsoft | [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) |
 | Microsoft | [AI for Accessibility](https://www.microsoft.com/en-us/ai-for-accessibility) |
+| Bond | [Funding Opportunities](https://www.bond.org.uk/hubs/funding-opportunities) |
 
 ## Digital Safety
 
