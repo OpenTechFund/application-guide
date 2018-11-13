@@ -365,5 +365,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Knight Foundation | [Technology Innovation](http://www.knightfoundation.org/programs/technology) |
 | The Reva & David Logan Foundation | [Social Justice, Scholarship, the Arts and Investigative Journalism](http://www.loganfdn.org/ourapproach.html) |
 | Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
+| Siegel Family Endowment | [About](https://siegelendowment.org/) |
 | Pineapple Fund \(closed\) | [About](https://pineapplefund.org/) |
+
+
 
