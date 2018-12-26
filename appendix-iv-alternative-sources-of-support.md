@@ -106,6 +106,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | :--- | :--- |
 | Ford Foundation | [Internet Freedom](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/) |
 | Media Democracy Fund | [Grants](http://mediademocracyfund.org/) |
+|  | [Technology Exchange Matching Fund/PhDX Fellowship Program](http://mediademocracyfund.org/matching-technology-talent-with-frontline-social-justice-organizations/) |
 | National Endowment for Democracy \(NED\) | [Grants](https://www.ned.org/apply-for-grant/en/) |
 | Swedish International Development Agency \(Sida\) | [Research Calls and Grants](https://www.sida.se/English/partners/resources-for-all-partners/Calls-and-announcements/) |
 | European Commission | [Digital Single Market Funding](https://ec.europa.eu/digital-single-market/en/newsroom-agenda/funding-opportunity) |
@@ -229,6 +230,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Internet Policy Observatory | [Research for Impact: Call For Proposals](http://globalnetpolicy.org/our-research/call-for-proposals/) |
 | Mozilla | [Network Tech Policy Fellowship](https://wiki.mozilla.org/Mozilla_Network_Tech_Policy_Fellowship) |
 | CIPESA | [ICT4Democracy Fellowship Programme](https://cipesa.org/2018/03/cipesa-ict4democracy-media-fellowship-programme/) |
+| New America | [Public Interest Technology Fellowship](https://www.newamerica.org/public-interest-technology/public-interest-technology-fellowship/) |
 
 ## Fellowships \(Research and Multidisciplinary\)
 
@@ -244,6 +246,14 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Harvard Library Innovation Lab | [Summer Fellowship](https://lil.law.harvard.edu/collaborate/2018/summer/fellows/apply/) |
 | Berkman Klein Center & MIT Media Lab | [Assembly](http://bkmla.org/) |
 | Stanford PACS Digital Civil Society Lab | [Non-Resident Fellowship](https://pacscenter.stanford.edu/dcsl-non-resident-fellowships/) |
+| Koya Partners  | [ReWork](https://koyapartners.com/services/rework-by-koya/)  |
+| Venture for America \(VFA\) | [VFA Fellowship](https://ventureforamerica.org/apply/) |
+| American Association for the Advancement of Science \(AAAS\) | [Science & Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) |
+| Azavea | [Summer of Maps](https://www.summerofmaps.com/) |
+| Eisenhower Fellowships | [Global Programs](https://www.efworld.org/our-programs/international) |
+|   | [USA Programs](https://www.efworld.org/our-programs/usa) |
+| Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
+|   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
 
 ## Software and Development
 
@@ -314,6 +324,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | International Cities of Refuge Network \(ICORN\) | [Writers/Artists at Risk](https://icorn.org/icorn-writersartists) |
 | Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
 | Swedish Institute | [Creative Force Grants](https://si.se/en/apply/funding-grants/) |
+| Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/news-notes/2018/apply-now/) |
 
 ## Region Specific
 
