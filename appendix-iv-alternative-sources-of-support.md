@@ -241,6 +241,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | CIPESA | [ICT4Democracy Fellowship Programme](https://cipesa.org/2018/03/cipesa-ict4democracy-media-fellowship-programme/) |
 | New America | [Public Interest Technology Fellowship](https://www.newamerica.org/public-interest-technology/public-interest-technology-fellowship/) |
 | TechCongress | [Congressional Innovation Fellowship](https://www.techcongress.io/) |
+| Coding it Forward | [Civic Digital Fellowship](https://www.codingitforward.com/fellowship/) |
 
 ## Coding
 
