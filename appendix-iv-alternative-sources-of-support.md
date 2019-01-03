@@ -194,21 +194,30 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Matter | [Entrepreneur program](https://matter.vc/) |
 | SecondMuse | [M-Corps](http://www.manufacturenewyork.com/faq/) |
 
-## Coding
+## Fellowships \(Research and Multidisciplinary\)
 
 | Organization | Fund |
 | :--- | :--- |
-| Outreachy | [Mentorships and internships](https://www.outreachy.org/) |
-| Rails Girls | [Summer of Code](https://railsgirlssummerofcode.org/) |
-| Google | [Summer of Code](https://summerofcode.withgoogle.com/) |
-| Linux Foundation | [Linux Foundation Fellows](https://www.linuxfoundation.org/about/linux-foundation-fellows/) |
-| Code 2040 | [About](http://www.code2040.org/) |
-| General Assembly | [Social Impact](https://generalassemb.ly/how-we-work/social-impact) |
-| Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
-| The Walkley Foundation | [Coding Scholarships for Journalists](http://www.walkleys.com/codingscholarships/) |
-| Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
+| National Science Foundation \(NSF\) | [Graduate Research Opportunities Worldwide \(GROW\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) |
+|   | [Graduate Research Fellowship Program](https://www.nsfgrfp.org/) |
+| The Horowitz Foundation for Social Policy | [Grants for current PhD candidates](https://www.horowitz-foundation.org/) |
+| Alfred P. Sloan Foundation | [Sloan Research Fellowships](https://sloan.org/fellowships/) |
+| Tinker Foundation Incorporated | [Field Research Grants](https://www.tinker.org/content/field-research-grants) |
+| Google | [Computer Science programs](https://edu.google.com/computer-science/?modal_active=none) |
+| Alexander von Humboldt Institute for Internet and Society \(HIIG\) | [Internet and Society Fellowship](https://www.hiig.de/en/fellow-programme/) |
+| Harvard Library Innovation Lab | [Summer Fellowship](https://lil.law.harvard.edu/collaborate/2018/summer/fellows/apply/) |
+| Berkman Klein Center & MIT Media Lab | [Assembly](http://bkmla.org/) |
+| Stanford PACS Digital Civil Society Lab | [Non-Resident Fellowship](https://pacscenter.stanford.edu/dcsl-non-resident-fellowships/) |
+| Koya Partners  | [ReWork](https://koyapartners.com/services/rework-by-koya/)  |
+| Venture for America \(VFA\) | [VFA Fellowship](https://ventureforamerica.org/apply/) |
+| American Association for the Advancement of Science \(AAAS\) | [Science & Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) |
+| Azavea | [Summer of Maps](https://www.summerofmaps.com/) |
+| Eisenhower Fellowships | [Global Programs](https://www.efworld.org/our-programs/international) |
+|   | [USA Programs](https://www.efworld.org/our-programs/usa) |
+| Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
+|   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
 
-## Policy
+## Fellowships \(Policy\)
 
 | Organization | Fund |
 | :--- | :--- |
@@ -233,28 +242,19 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | New America | [Public Interest Technology Fellowship](https://www.newamerica.org/public-interest-technology/public-interest-technology-fellowship/) |
 | TechCongress | [Congressional Innovation Fellowship](https://www.techcongress.io/) |
 
-## Fellowships \(Research and Multidisciplinary\)
+## Coding
 
 | Organization | Fund |
 | :--- | :--- |
-| National Science Foundation \(NSF\) | [Graduate Research Opportunities Worldwide \(GROW\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) |
-|   | [Graduate Research Fellowship Program](https://www.nsfgrfp.org/) |
-| The Horowitz Foundation for Social Policy | [Grants for current PhD candidates](https://www.horowitz-foundation.org/) |
-| Alfred P. Sloan Foundation | [Sloan Research Fellowships](https://sloan.org/fellowships/) |
-| Tinker Foundation Incorporated | [Field Research Grants](https://www.tinker.org/content/field-research-grants) |
-| Google | [Computer Science programs](https://edu.google.com/computer-science/?modal_active=none) |
-| Alexander von Humboldt Institute for Internet and Society \(HIIG\) | [Internet and Society Fellowship](https://www.hiig.de/en/fellow-programme/) |
-| Harvard Library Innovation Lab | [Summer Fellowship](https://lil.law.harvard.edu/collaborate/2018/summer/fellows/apply/) |
-| Berkman Klein Center & MIT Media Lab | [Assembly](http://bkmla.org/) |
-| Stanford PACS Digital Civil Society Lab | [Non-Resident Fellowship](https://pacscenter.stanford.edu/dcsl-non-resident-fellowships/) |
-| Koya Partners  | [ReWork](https://koyapartners.com/services/rework-by-koya/)  |
-| Venture for America \(VFA\) | [VFA Fellowship](https://ventureforamerica.org/apply/) |
-| American Association for the Advancement of Science \(AAAS\) | [Science & Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) |
-| Azavea | [Summer of Maps](https://www.summerofmaps.com/) |
-| Eisenhower Fellowships | [Global Programs](https://www.efworld.org/our-programs/international) |
-|   | [USA Programs](https://www.efworld.org/our-programs/usa) |
-| Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
-|   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
+| Outreachy | [Mentorships and internships](https://www.outreachy.org/) |
+| Rails Girls | [Summer of Code](https://railsgirlssummerofcode.org/) |
+| Google | [Summer of Code](https://summerofcode.withgoogle.com/) |
+| Linux Foundation | [Linux Foundation Fellows](https://www.linuxfoundation.org/about/linux-foundation-fellows/) |
+| Code 2040 | [About](http://www.code2040.org/) |
+| General Assembly | [Social Impact](https://generalassemb.ly/how-we-work/social-impact) |
+| Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
+| The Walkley Foundation | [Coding Scholarships for Journalists](http://www.walkleys.com/codingscholarships/) |
+| Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
 
 ## Software and Development
 
