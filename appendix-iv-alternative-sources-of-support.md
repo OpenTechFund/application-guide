@@ -216,6 +216,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [USA Programs](https://www.efworld.org/our-programs/usa) |
 | Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
 |   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
+| Partnership on AI \(PAI\) | [PAI Labs Research Fellowship](https://www.partnershiponai.org/fellowship-program/) |
 
 ## Fellowships \(Policy\)
 
