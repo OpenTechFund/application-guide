@@ -20,6 +20,7 @@
   * [Learning Lab](our-labs/learning-lab.md)
 * [Topical Guidance](topical-guidance/README.md)
   * [Digital Security Capacity-Building Criteria](topical-guidance/digital-security-capacity-building-criteria.md)
+  * [Online Harassment and Internet Freedom](topical-guidance/online-harassment-and-internet-freedom.md)
 * [More about the Program](more-about-the-program/README.md)
   * [Values & Principles](more-about-the-program/values-and-principles.md)
   * [Creating a More Inclusive, Diverse Community](more-about-the-program/creating-a-more-inclusive-diverse-community.md)
