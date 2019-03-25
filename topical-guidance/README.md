@@ -8,3 +8,5 @@ In this section, you'll find issue-specific guidelines related to areas of our w
 
 {% page-ref page="digital-security-capacity-building-criteria.md" %}
 
+{% page-ref page="online-harassment-and-internet-freedom.md" %}
+
