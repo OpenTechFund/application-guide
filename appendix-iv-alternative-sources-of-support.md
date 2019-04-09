@@ -99,6 +99,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Facebook | [Secure the Internet Grants](https://research.fb.com/programs/research-awards/proposals/secure-the-internet-grants/) |
 | Facebook | [Research Awards](https://research.fb.com/programs/research-awards/) |
 | Cisco | [Research & Open Innovation](http://research.cisco.com/research) |
+| Next Generation Internet \(NGI\) | [NGI Open Calls](https://www.ngi.eu/opencalls/) |
 
 ## Digital Democracy & Human Rights
 
@@ -146,6 +147,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Microsoft | [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) |
 | Microsoft | [AI for Accessibility](https://www.microsoft.com/en-us/ai-for-accessibility) |
 | Bond | [Funding Opportunities](https://www.bond.org.uk/hubs/funding-opportunities) |
+| Ariadne: European Funders for Social Change and Human Rights | [About](http://www.ariadne-network.eu/what-we-do/) |
 
 ## Digital Safety
 
@@ -230,6 +232,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | National Endowment for Democracy \(NED\) | [Fellowships](https://www.ned.org/fellowships/) |
 | Echoing Green | [Social Entrepreneurship Fellowship and Leadership Development Programs](https://www.echoinggreen.org/fellowship) |
 | Berkman Klein Center for Internet & Society | [Fellowship Program](https://cyber.harvard.edu/getinvolved/fellowships) |
+| Ash Center for Democratic Governance and Innovation, Harvard Kennedy School | [Technology and Democracy Fellowship](https://ash.harvard.edu/technology-and-democracy-fellowship) |
 | Ashoka | [Venture and Fellowship](https://www.ashoka.org/en/program/ashoka-venture-and-fellowship) |
 | Data & Society | [Fellows Program](https://datasociety.net/initiatives/fellows-program/) |
 | Internet Law & Policy Foundry | [Foundry Fellows](https://www.ilpfoundry.us/about/fellows/) |
@@ -347,6 +350,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | The Guatemala Human Rights Commission \(GHRC\) | [About](http://www.ghrc-usa.org/) |
 | Somos Defensores Program | [About](https://www.somosdefensores.org/index.php/en/) |
 | Unidad de Protección a Defensoras y Defensores de Derechos Humanos – Guatemala | [About](http://udefegua.org/) |
+| Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
 | **Africa** |   |
 | The East and Horn of Africa Human Rights Defenders Project \(ENAHRDP\) | [DefendDefenders](https://www.defenddefenders.org/) |
 | RAITH Foundation | [Funding](http://www.raith.org.za/funding-guidelines)  |
@@ -381,6 +385,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
 | Siegel Family Endowment | [About](https://siegelendowment.org/) |
 | Pineapple Fund \(closed\) | [About](https://pineapplefund.org/) |
+| ZCash Foundation | [ZF Grants](https://grants.zfnd.org/) |
 
 
 
