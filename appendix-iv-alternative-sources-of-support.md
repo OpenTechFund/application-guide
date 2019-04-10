@@ -270,6 +270,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Mozilla | [Research Grants](https://research.mozilla.org/research-grants/) |
 | Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
 | SAGE | [Concept Grants](https://ocean.sagepub.com/concept-grants/) |
+| Protocol Labs | [Research RFPs and Grants](https://github.com/protocol/research-RFPs) |
 
 ## Women & LGBTQ
 
