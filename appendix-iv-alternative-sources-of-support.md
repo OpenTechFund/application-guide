@@ -219,6 +219,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
 |   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
 | Partnership on AI \(PAI\) | [PAI Labs Research Fellowship](https://www.partnershiponai.org/fellowship-program/) |
+| UC Irvine School of Law | [Digital Rights Fellow](https://recruit.ap.uci.edu/JPF05253) |
 
 ## Fellowships \(Policy\)
 
@@ -382,6 +383,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Laura and John Arnold Foundation \(LJAF\) | [Grants](http://www.arnoldfoundation.org/grants/) |
 | Omidyar Network | [About](http://www.omidyar.com/) |
 | Knight Foundation | [Technology Innovation](http://www.knightfoundation.org/programs/technology) |
+| Knight Foundation | [Governance, Norms and Values - Research on the Future Internet](https://www.knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms) |
 | The Reva & David Logan Foundation | [Social Justice, Scholarship, the Arts and Investigative Journalism](http://www.loganfdn.org/ourapproach.html) |
 | Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
 | Siegel Family Endowment | [About](https://siegelendowment.org/) |
