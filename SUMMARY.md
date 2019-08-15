@@ -8,6 +8,7 @@
   * [Internet Freedom Fund](our-funds-and-fellowships/internet-freedom-fund.md)
   * [Core Infrastructure Fund](our-funds-and-fellowships/core-infrastructure-fund.md)
   * [Rapid Response Fund](our-funds-and-fellowships/rapid-response-fund.md)
+  * [Community Prototype Fund](our-funds-and-fellowships/community-prototype-fund.md)
   * [Information Controls Fellowship Program \(ICFP\)](our-funds-and-fellowships/information-controls-fellowship-program-icfp.md)
   * [Digital Integrity Fellowship Program \(DIFP\)](our-funds-and-fellowships/digital-integrity-fellowship-program-difp.md)
 * [Our Labs](our-labs/README.md)
