@@ -66,7 +66,7 @@ Keep in mind that the concept note is the first step in the process, and if your
 
 ### _When to Apply_
 
-Concept notes for the Internet Freedom Fund are accepted on a rolling basis. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Concept notes must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.
+Concept notes for the Internet Freedom Fund are accepted on a rolling basis. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Concept notes must be submitted no later than 23:59 \(11:59PM\) GMT+1 on the date of the deadline in order to be considered as part of that round.
 
 ### _Review Process_
 
