@@ -6,7 +6,7 @@ description: OTF's flagship funding mechanism
 
 The Internet Freedom Fund \(IFF\) is OTF’s primary way to support projects advancing Internet freedom for users in repressive environments. Through the Internet Freedom Fund, we support development, research, and implementation projects creating or promoting the use of tools that allow users - including journalists, human rights defenders, activists, and regular people - to circumvent Internet censorship, communicate safely, or otherwise access Information that is blocked. Applied research efforts supported through the IFF may track how, why, or where censorship is happening, study specific Internet freedom tools and ways to improve them, advance understanding around what types of content censors target, or concentrate on assessing threats to Internet freedom in a specific geographic context.
 
-## _Key Questions_
+### _Key Questions_
 
 Beyond determining whether a proposed effort fits within our remit, there are a few questions we always ask ourselves when reviewing an Internet Freedom Fund concept note. These are some of the most important:
 
@@ -46,7 +46,7 @@ Ideal projects bring with them a community-based, collaborative approach from th
 The best ideas are novel and ambitious while maintaining a realistic game plan. We want to know the dream end state, but need to see the road map showing how you plan to get there.
 {% endhint %}
 
-## _Important Considerations_
+### _Important Considerations_
 
 {% hint style="success" %}
 Ideal applicants seek funding for between $50,000 and $200,000 for efforts between 6 and 12 months.
@@ -64,11 +64,11 @@ Preference is given to organizations and individuals without a history of prior 
 Keep in mind that the concept note is the first step in the process, and if your idea seems like a good fit, you’ll have the chance to expand upon it during the proposal stage.
 {% endhint %}
 
-## _When to Apply_
+### _When to Apply_
 
 Concept notes for the Internet Freedom Fund are accepted on a rolling basis. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Concept notes must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.
 
-## _Review Process_
+### _Review Process_
 
 1. **Concept Note Submission and Review**: Once a round deadline has passed, we review and respond to all concept notes submitted during that round. This means we conduct six distinct review periods per year. So, for example, for the January 1 round, whether you submit your concept note on November 2 or December 31, all concept notes for that round are reviewed only after the deadline has passed. During the initial concept note review phase, we may reach out to ask some clarifying questions. 
 2. **Concept Note Determination**: Once we’ve had the chance to review your concept note and ask clarifying questions if needed, we’ll then contact you \(along with all applicants for that round\) via email and let you know whether your concept note has been invited to submit a proposal or declined. If we’re inviting you to submit a proposal, we’ll specify a date by which you’ll need to submit that. If we’ve declined your concept note, we’ll provide you with feedback on why your concept was not approved. 

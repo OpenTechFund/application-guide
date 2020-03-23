@@ -396,6 +396,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Pineapple Fund \(closed\) | [About](https://pineapplefund.org/) |
 | ZCash Foundation | [ZF Grants](https://grants.zfnd.org/) |
 | Amazon | [AWS Imagine Grant Program](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/) |
+| Twilio | [Twilio.org](https://www.twilio.org/) |
+| Google | [Impact and Community Grants](https://www.google.org/) |
+| Global Innovation Fund | [globalinnovation.fund](https://www.globalinnovation.fund/) |
 
 
 
