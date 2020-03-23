@@ -34,17 +34,3 @@
 * [Appendix III: Evaluation Worksheet](appendix-iii-evaluation-worksheet.md)
 * [Appendix IV: Alternative Sources of Support](appendix-iv-alternative-sources-of-support.md)
 
-## Advisory Council
-
-* [Introduction](advisory-council/introduction.md)
-* [FAQ](advisory-council/faq.md)
-* [Designations, benefits, expectations](advisory-council/designations-benefits-expectations.md)
-* [Nominations and terms](advisory-council/nominations-and-terms.md)
-* [Communications and engagement](advisory-council/communications-and-engagement.md)
-* [Reviewing applications](advisory-council/reviewing-applications/README.md)
-  * [Internet Freedom and Core Infrastructure Funds](advisory-council/reviewing-applications/internet-freedom-and-core-infrastructure-funds.md)
-* [Representing OTF](advisory-council/representing-otf.md)
-* [Confidentiality and non-disclosure](advisory-council/confidentiality-and-non-disclosure.md)
-* [Conflicts of interest](advisory-council/conflicts-of-interest.md)
-* [Additional resources](advisory-council/additional-resources.md)
-

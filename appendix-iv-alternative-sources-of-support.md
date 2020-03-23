@@ -116,6 +116,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Finland Ministry of Foreign Affairs | [INGO Support](https://um.fi/support-for-international-non-governmental-organizations-ingos-) |
 | Norwegian Agency for Development Cooperation \(Norad\) | [Grants](https://www.norad.no/en/front/funding/) |
 | Cisco | [Cisco Foundation](https://www.cisco.com/c/en/us/about/csr/impact/cisco-foundation.html) |
+|  | [Global Impact Cash Grants](https://www.cisco.com/c/en/us/about/csr/community/nonprofits/global-impact-cash-grants.html) |
 | Dropbox | [Dropbox Foundation](https://dropbox.foundation/) |
 | CIPE/NDI/CIMA | [Open Internet for Democracy Leaders Program](https://openinternet.global/open-internet-democracy-leaders-program) |
 | Humanity United | [Grants](https://humanityunited.org/grants/) |
@@ -135,6 +136,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Democracy Council | [About](http://demcouncil.org/?page_id=572) |
 | Comic Relief | [Tech For Good](https://www.comicrelief.com/your-impact/how-we-make-grants/tech-for-good) |
 | UNICEF | [Innovation Fund](https://unicefinnovationfund.org/) |
+| Cybersecurity Tech Accord/UN Office of Disarmament Affairs | [Apps 4 Digital Peace](https://cybertechaccord.org/cybersecurity-tech-accord-announces-new-contest-in-partnership-with-the-un-office-of-disarmament-affairs/) |
 |  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
 | Human Rights Foundation \(HRF\) | [About](https://www.themaven.net/humanrightsfoundation/) |
 | Open Knowledge International | [About](https://okfn.org/) |
@@ -148,6 +150,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Microsoft | [AI for Accessibility](https://www.microsoft.com/en-us/ai-for-accessibility) |
 | Bond | [Funding Opportunities](https://www.bond.org.uk/hubs/funding-opportunities) |
 | Ariadne: European Funders for Social Change and Human Rights | [About](http://www.ariadne-network.eu/what-we-do/) |
+| Reset | [reset.tech](https://www.reset.tech/) |
 
 ## Digital Safety
 
@@ -195,6 +198,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | The Thiel Foundation | [The Thiel Fellowship](http://thielfellowship.org/) |
 | Matter | [Entrepreneur program](https://matter.vc/) |
 | SecondMuse | [M-Corps](http://www.manufacturenewyork.com/faq/) |
+| Samsung | [Samsung Next](https://samsungnext.com/) |
+| Draper Richards Kaplan Foundation | [Grants](https://www.drkfoundation.org/apply-for-funding/) |
 
 ## Fellowships \(Research and Multidisciplinary\)
 
@@ -261,6 +266,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
 | The Walkley Foundation | [Coding Scholarships for Journalists](http://www.walkleys.com/codingscholarships/) |
 | Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
+| Motorola | [Motorola Solutions Foundation](https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html) |
 
 ## Software and Development
 
@@ -389,6 +395,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Siegel Family Endowment | [About](https://siegelendowment.org/) |
 | Pineapple Fund \(closed\) | [About](https://pineapplefund.org/) |
 | ZCash Foundation | [ZF Grants](https://grants.zfnd.org/) |
+| Amazon | [AWS Imagine Grant Program](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/) |
 
 
 
