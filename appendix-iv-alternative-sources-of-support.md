@@ -14,6 +14,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 **You can stay up to date on all OTF submission deadlines and open submissions windows for other alternative funders by joining the OTF-announce mailing list, where we send a monthly update on upcoming application deadlines.** [**Click here to join the OTF-announce mailing list**](https://groups.google.com/a/opentech.fund/forum/#!forum/otf-announce/join)**.**
 {% endhint %}
 
+## Categories
+
 * \*\*\*\*[**Rapid Response**](appendix-iv-alternative-sources-of-support.md#rapid-response)\*\*\*\*
 * \*\*\*\*[**US Government Internet Freedom and Security**](appendix-iv-alternative-sources-of-support.md#us-government-internet-freedom-and-security)\*\*\*\*
 * \*\*\*\*[**Privacy and Security**](appendix-iv-alternative-sources-of-support.md#privacy-and-security)\*\*\*\*
