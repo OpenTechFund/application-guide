@@ -28,7 +28,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 * \*\*\*\*[**Coding and Software and Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
 * \*\*\*\*[**Community or Region-specific**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)\*\*\*\*
 * \*\*\*\*[**Community & Inclusion**](appendix-iv-alternative-sources-of-support.md#community-and-inclusion)\*\*\*\*
-* \*\*\*\*[**Miscellaneous**](appendix-iv-alternative-sources-of-support.md#miscellaneous)\*\*\*\*
+* \*\*\*\*[**Miscellaneous**](appendix-iv-alternative-sources-of-support.md#miscellaneous)
 
 ## Rapid Response
 
@@ -105,7 +105,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Internet Hardening Fund](https://nlnet.nl/internethardening/) |
 |   | [Standards in Real-Time Communication](https://nlnet.nl/realtime/) |
 |   | [DNSSEC Fund](https://nlnet.nl/dnssec/) |
-|  Linux Foundation | [Linux Foundation](https://www.linuxfoundation.org/) |
+| Linux Foundation | [Linux Foundation](https://www.linuxfoundation.org/) |
 | AirVPN | [Project Support](https://airvpn.org/mission/) |
 | Network of Excellence in Internet Science | [Network of Excellence in Internet Science](http://www.internet-science.eu/) |
 | Kantara Initiative | [Identity/Data/IoT](https://kantarainitiative.org/) |
@@ -166,6 +166,14 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Bond | [Funding Opportunities](https://www.bond.org.uk/hubs/funding-opportunities) |
 | Ariadne: European Funders for Social Change and Human Rights | [About](http://www.ariadne-network.eu/what-we-do/) |
 | Reset | [reset.tech](https://www.reset.tech/) |
+| Mozilla | [Grants](https://www.mozilla.org/en-US/grants/) |
+| Laura and John Arnold Foundation \(LJAF\) | [Grants](http://www.arnoldfoundation.org/grants/) |
+| Omidyar Network | [About](http://www.omidyar.com/) |
+| Knight Foundation | [Technology Innovation](http://www.knightfoundation.org/programs/technology) |
+| Knight Foundation | [Governance, Norms and Values - Research on the Future Internet](https://www.knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms) |
+| The Reva & David Logan Foundation | [Social Justice, Scholarship, the Arts and Investigative Journalism](http://www.loganfdn.org/ourapproach.html) |
+| Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
+| Siegel Family Endowment | [About](https://siegelendowment.org/) |
 
 ## Digital Safety
 
@@ -287,7 +295,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | TechCongress | [Congressional Innovation Fellowship](https://www.techcongress.io/) |
 | Coding it Forward | [Civic Digital Fellowship](https://www.codingitforward.com/fellowship/) |
 
-## Coding and Software and Development
+## Coding and Software Development
 
 | Organization | Fund |
 | :--- | :--- |
@@ -407,16 +415,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Organization | Fund |
 | :--- | :--- |
 | TechSoup | [TechSoup Global Network](http://meet.techsoup.org/about-us/techsoup-global-network) |
-| Mozilla | [Grants](https://www.mozilla.org/en-US/grants/) |
 | MIT | [Solve](https://solve.mit.edu/) |
 | Skoll Global Threats Fund | [About](http://www.skollglobalthreats.org/about-us/activities/) |
-| Laura and John Arnold Foundation \(LJAF\) | [Grants](http://www.arnoldfoundation.org/grants/) |
-| Omidyar Network | [About](http://www.omidyar.com/) |
-| Knight Foundation | [Technology Innovation](http://www.knightfoundation.org/programs/technology) |
-| Knight Foundation | [Governance, Norms and Values - Research on the Future Internet](https://www.knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms) |
-| The Reva & David Logan Foundation | [Social Justice, Scholarship, the Arts and Investigative Journalism](http://www.loganfdn.org/ourapproach.html) |
-| Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
-| Siegel Family Endowment | [About](https://siegelendowment.org/) |
 | Pineapple Fund \(closed\) | [About](https://pineapplefund.org/) |
 | ZCash Foundation | [ZF Grants](https://grants.zfnd.org/) |
 | Amazon | [AWS Imagine Grant Program](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/) |
