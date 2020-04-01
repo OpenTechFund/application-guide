@@ -74,7 +74,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund |
 | :--- | :--- |
-| Web We Want | [Grants](https://webwewant.org/grants/) |
 | Renewable Freedom Foundation | [Grants](https://renewablefreedom.org/grants/) |
 |   | [Funding Sources List](https://renewablefreedom.org/grants/alternative-funding-sources/) |
 | Mozilla Foundation | [Mozilla Open Source Support \(MOSS\)](https://wiki.mozilla.org/MOSS) |
@@ -85,7 +84,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Jigsaw \(Google\) | [Jigsaw](https://jigsaw.google.com/) |
 | Data Transparency Lab | [Grants Program](http://datatransparencylab.org/call-for-tools/) |
 | Library Freedom Project | [Library Freedom Institute](https://libraryfreedomproject.org/lfi/) |
-| Core Infrastructure Initiative | [Grants](https://applications.coreinfrastructure.org/) |
+| Core Infrastructure Initiative | [Grants](https://www.coreinfrastructure.org/programs/assistance-program/) |
 | NLNet Foundation | [Open Call - Network and Internet Technology](https://nlnet.nl/news/2017/20170201-call-en.html) |
 |   | [Internet Hardening Fund](https://nlnet.nl/internethardening/) |
 |   | [Standards in Real-Time Communication](https://nlnet.nl/realtime/) |
@@ -101,13 +100,12 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Cisco | [Research & Open Innovation](http://research.cisco.com/research) |
 | Next Generation Internet \(NGI\) | [NGI Open Calls](https://www.ngi.eu/opencalls/) |
 
-## Digital Democracy & Human Rights
+## Digital Rights
 
 | Organization | Fund |
 | :--- | :--- |
 | Ford Foundation | [Internet Freedom](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/) |
 | Media Democracy Fund | [Grants](http://mediademocracyfund.org/) |
-|  | [Technology Exchange Matching Fund/PhDX Fellowship Program](http://mediademocracyfund.org/matching-technology-talent-with-frontline-social-justice-organizations/) |
 | National Endowment for Democracy \(NED\) | [Grants](https://www.ned.org/apply-for-grant/en/) |
 | Swedish International Development Agency \(Sida\) | [Research Calls and Grants](https://www.sida.se/English/partners/resources-for-all-partners/Calls-and-announcements/) |
 | European Commission | [Digital Single Market Funding](https://ec.europa.eu/digital-single-market/en/newsroom-agenda/funding-opportunity) |
@@ -115,6 +113,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Grants](https://www.opensocietyfoundations.org/grants) |
 | Finland Ministry of Foreign Affairs | [INGO Support](https://um.fi/support-for-international-non-governmental-organizations-ingos-) |
 | Norwegian Agency for Development Cooperation \(Norad\) | [Grants](https://www.norad.no/en/front/funding/) |
+| Enabel \(Belgian Development Agency\) | [Grants](https://www.enabel.be/) |
 | Cisco | [Cisco Foundation](https://www.cisco.com/c/en/us/about/csr/impact/cisco-foundation.html) |
 |  | [Global Impact Cash Grants](https://www.cisco.com/c/en/us/about/csr/community/nonprofits/global-impact-cash-grants.html) |
 | Dropbox | [Dropbox Foundation](https://dropbox.foundation/) |
@@ -164,7 +163,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Defend Defenders | [East African Women’s Digital Safety Fellowship](https://www.defenddefenders.org/2017/04/become-safe-sister/) |
 | Reporters Without Borders \(RSF\) | [Scholarship training journalists in digital security](https://rsf.org/en/news/rsf-new-scholarship-program-trains-journalists-digital-security) |
 
-## Internet Access
+## **Information and Communications Technologies for Development \(ICT4D\) including Deploying Internet Access**
 
 | Organization | Fund |
 | :--- | :--- |
@@ -174,8 +173,27 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Comcast | [Innovation Fund](http://innovationfund.comcast.com/) |
 | Internet Society | [Grants & Awards](https://www.internetsociety.org/grants-and-awards) |
 | OpenCellular | [OpenCellular Grants](http://oc.telecominfraproject.com/opencellular-grant-program/) |
+| Catholic Relief Services | [ICT4D](https://www.crs.org/our-work-overseas/ict4d) |
+| CRDF Global | [Grants](https://www.crdfglobal.org/grants/funding-opportunities) |
+| Asia Pacific Telecommunity \(APT\) | [ICT](https://www.apt.int/ICT-project) |
+| USAID Development Innovations | [Grants](https://www.development-innovations.org/funding/) |
+| Peace Corps Small Grants Program | [Grants](https://pclive.peacecorps.gov/pclive/index.php/small-grants-program) |
+| Bill and Melinda Gates Foundation | [Global Grand Challenges](https://gcgh.grandchallenges.org/) |
+| Google | [Impact Challenge](https://www.google.org/our-work/google-impact-challenge/) |
+| Inveneo | [Advice](http://www.inveneo.org/connect/client-intake/) |
+| Mercy Corps | [Grants](https://www.mercycorps.org/) |
+| SPIDER | [Grants](https://spidercenter.org/) |
+| International Development Evaluation Association \(IDEAS\) | [Grants](https://ideas-global.org/award/) |
+| Wehubit | [Grants](https://www.wehubit.be/en/node/7#grants-anchor) |
+| GSM Association | [Connected Society Innovation Fund for Rural Connectivity](https://www.gsma.com/mobilefordevelopment/connected-society-innovation-fund/) |
+| NetHope | [Devices for Impact](https://solutionscenter.nethope.org/devices-for-impact#q/keywords=&num=10&channel=devices_for_impact&orderby=webinar_start_time+desc&category=&inclusive_categories=yes/P0&page=devices-for-impact) |
+| Digital Frontiers | [Grants](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) |
+| European Commission | [Affordable High-Tech for Humanitarian Aid](https://ec.europa.eu/research/eic/index.cfm?pg=prizes_aid) |
+| Engineering and Physical Sciences Research Council \(UK\) | [Research Grants](https://epsrc.ukri.org/research/ourportfolio/themes/ict/) |
+| Newton Fund | [Grants](http://www.newtonfund.ac.uk/funding/funding-opportunities/) |
+| World Wide Web Foundation | [Web We Want](https://webwewant.org/grants/) |
 
-## Startup Assistance/Incubators
+## Startup Incubators and Entrepreneurship
 
 | Organization | Fund |
 | :--- | :--- |
@@ -253,10 +271,16 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | TechCongress | [Congressional Innovation Fellowship](https://www.techcongress.io/) |
 | Coding it Forward | [Civic Digital Fellowship](https://www.codingitforward.com/fellowship/) |
 
-## Coding
+## Coding and Software and Development
 
-| Organization | Fund |
+|  |  |
 | :--- | :--- |
+| Python Software Foundation \(PSF\) | [PSF Grants Program](https://www.python.org/psf/grants/) |
+| Google | [Faculty Research Awards](https://ai.google/research/outreach/faculty-research-awards/) |
+| Mozilla | [Research Grants](https://research.mozilla.org/research-grants/) |
+| Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
+| SAGE | [Concept Grants](https://ocean.sagepub.com/concept-grants/) |
+| Protocol Labs | [Research RFPs and Grants](https://github.com/protocol/research-RFPs) |
 | Outreachy | [Mentorships and internships](https://www.outreachy.org/) |
 | Rails Girls | [Summer of Code](https://railsgirlssummerofcode.org/) |
 | Google | [Summer of Code](https://summerofcode.withgoogle.com/) |
@@ -268,21 +292,11 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
 | Motorola | [Motorola Solutions Foundation](https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html) |
 
-## Software and Development
+## Community or Region-specific
 
 | Organization | Fund |
 | :--- | :--- |
-| Python Software Foundation \(PSF\) | [PSF Grants Program](https://www.python.org/psf/grants/) |
-| Google | [Faculty Research Awards](https://ai.google/research/outreach/faculty-research-awards/) |
-| Mozilla | [Research Grants](https://research.mozilla.org/research-grants/) |
-| Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
-| SAGE | [Concept Grants](https://ocean.sagepub.com/concept-grants/) |
-| Protocol Labs | [Research RFPs and Grants](https://github.com/protocol/research-RFPs) |
-
-## Women & LGBTQ
-
-| Organization | Fund |
-| :--- | :--- |
+| **Gender & LGBTQ** |  |
 | American Refugee Committee | [Gender-based Violence and Response](http://arcrelief.org/protection/) |
 | Astraea Lesbian Foundation for Justice | [Grants](https://www.astraeafoundation.org/apply/) |
 | Coalition of African Lesbians | [About](http://www.cal.org.za/) |
@@ -303,16 +317,15 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Overbrook Foundation | [Gender Rights](https://www.overbrook.org/gender-rights/) |
 | GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
 
-## Journalism & Media
-
 | Organization | Fund |
 | :--- | :--- |
+| **Journalism & Media** |  |
 | Knight Foundation/Mozilla | [The Knight-Mozilla Fellowship](https://opennews.org/what/fellowships/) |
 | Reporters Committee for Freedom of the Press \(RCFP\) | [First Look Media Technology Fellowship](https://www.rcfp.org/flm_technology_fellowship) |
 |   | [Legal Fellowships](https://www.rcfp.org/about-us/fellowships) |
 | Scripps Howard Foundation | [Grants](http://www.scripps.com/foundation/grants) |
 | Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/journalism-foundation/) |
-| Media Development Investment Fund |  |
+| Media Development Investment Fund | [Financing](https://www.mdif.org/) |
 | Free Press Unlimited | [About](https://www.freepressunlimited.org/en) |
 | Media Development Investment Fund \(MDIF\) | [About](https://www.mdif.org/) |
 | Open Society Foundations | [Program on Independent Journalism](https://www.opensocietyfoundations.org/about/programs/independent-journalism) |
@@ -339,8 +352,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
 | Swedish Institute | [Creative Force Grants](https://si.se/en/apply/funding-grants/) |
 | Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/news-notes/2018/apply-now/) |
-
-## Region Specific
 
 | Organization | Fund |
 | :--- | :--- |
