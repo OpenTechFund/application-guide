@@ -14,6 +14,20 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 **You can stay up to date on all OTF submission deadlines and open submissions windows for other alternative funders by joining the OTF-announce mailing list, where we send a monthly update on upcoming application deadlines.** [**Click here to join the OTF-announce mailing list**](https://groups.google.com/a/opentech.fund/forum/#!forum/otf-announce/join)**.**
 {% endhint %}
 
+* \*\*\*\*[**Rapid Response**](appendix-iv-alternative-sources-of-support.md#rapid-response)\*\*\*\*
+* \*\*\*\*[**US Government Internet Freedom and Security**](appendix-iv-alternative-sources-of-support.md#us-government-internet-freedom-and-security)\*\*\*\*
+* \*\*\*\*[**Privacy and Security**](appendix-iv-alternative-sources-of-support.md#privacy-and-security)\*\*\*\*
+* \*\*\*\*[**Digital Rights**](appendix-iv-alternative-sources-of-support.md#digital-rights)\*\*\*\*
+* \*\*\*\*[**Digital Safety**](appendix-iv-alternative-sources-of-support.md#digital-safety)\*\*\*\*
+* \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
+* \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
+* \*\*\*\*[**Fellowships \(Research and Multidisciplinary\)**](appendix-iv-alternative-sources-of-support.md#fellowships-research-and-multidisciplinary)\*\*\*\*
+* \*\*\*\*[**Fellowships \(Policy\)**](appendix-iv-alternative-sources-of-support.md#fellowships-policy)\*\*\*\*
+* \*\*\*\*[**Coding and Software and Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
+* \*\*\*\*[**Community or Region-specific**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)\*\*\*\*
+* \*\*\*\*[**Community & Inclusion**](appendix-iv-alternative-sources-of-support.md#community-and-inclusion)\*\*\*\*
+* \*\*\*\*[**Miscellaneous**](appendix-iv-alternative-sources-of-support.md#miscellaneous)\*\*\*\*
+
 ## Rapid Response
 
 | Organization | Fund  |
