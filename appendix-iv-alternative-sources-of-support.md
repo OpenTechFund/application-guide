@@ -273,7 +273,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 ## Coding and Software and Development
 
-|  |  |
+| Organization | Fund |
 | :--- | :--- |
 | Python Software Foundation \(PSF\) | [PSF Grants Program](https://www.python.org/psf/grants/) |
 | Google | [Faculty Research Awards](https://ai.google/research/outreach/faculty-research-awards/) |
@@ -316,9 +316,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Oak Foundation | [Issues Affecting Women](http://oakfnd.org/issues-affecting-women.html) |
 | Overbrook Foundation | [Gender Rights](https://www.overbrook.org/gender-rights/) |
 | GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
-
-| Organization | Fund |
-| :--- | :--- |
 | **Journalism & Media** |  |
 | Knight Foundation/Mozilla | [The Knight-Mozilla Fellowship](https://opennews.org/what/fellowships/) |
 | Reporters Committee for Freedom of the Press \(RCFP\) | [First Look Media Technology Fellowship](https://www.rcfp.org/flm_technology_fellowship) |
