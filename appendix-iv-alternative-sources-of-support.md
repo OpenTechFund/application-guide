@@ -33,10 +33,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund  |
 | :--- | :--- |
-| Human Rights Funders Network | [Resources for Grantseekers](https://www.hrfn.org/resources-for-grantseekers/) |
-| Digital Defenders Partnership | [Incidental Emergency Grants](https://www.digitaldefenders.org/sections/about-us/incidental-emergency-grants/) |
-|   | [Sustainable Emergency Grants](https://www.digitaldefenders.org/sections/direct-support-grants/) |
-|   | [Capacity Building Grants](https://www.digitaldefenders.org/sections/about-us/strategic-grants/) |
+| Digital Defenders Partnership | [Emergency Grants](https://www.digitaldefenders.org/sections/about-us/emergency-grants/) |
 | United Nations \(OCHA\) | [Central Emergency Response Fund \(CERF\)](https://cerf.un.org/apply-for-a-grant/rapid-response) |
 | Agir Ensemble pour les Droits de l'Homme \(AEDH\) | [Emergency Fund](http://www.aedh.org/en/home/what-we-do/emergency-fund-for-human-rights-defenders) |
 | University of York Centre for Applied Human Rights | [Protective Fellowship Scheme](https://www.york.ac.uk/cahr/defenders/) |
@@ -50,11 +47,15 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [RR - Latin America & the Caribbean ](http://www.urgentactionfund-latinamerica.org/rapid-response-grants-c16i) |
 |   | [RR - Africa](https://urgentactionfund-africa.or.ke/en/apply-for-a-grant/) |
 | Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Urgent Grants](http://emhrf.org/urgent-grants/) |
+| Justice and Peace Netherlands | [Shelter City](%20https://www.justiceandpeace.nl/shelter-city/) |
+| Frontline Defenders | [Protection Grants](https://www.frontlinedefenders.org/en/programme/protection-grants) |
 | ProtectDefenders.eu | [Emergency Support](https://www.protectdefenders.eu/en/supporting-defenders.html#) |
 | World Organisation Against Torture | [Emergency HRD Support](http://www.omct.org/human-rights-defenders/links/2015/10/d23598/) |
 | Joopea Foundation | [JAssist](https://jassist.eu/) |
 | Security Without Borders | [Security Assistance ](https://securitywithoutborders.org/) |
 | Renewable Freedom Foundation | [Digital Rights Fund](https://digitalrights.fund/details) |
+| Defend Defenders | [East and Horn of Africa](https://defenddefenders.org/get-help/) |
+| The Guatemala Human Rights Commission \(GHRC\) | [Human Rights Defenders Fund](http://www.ghrc-usa.org/our-work/support-for-human-rights-defenders/) |
 |  |  |
 
 #### Rapid Response for Journalists & Scholars
@@ -68,10 +69,13 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | International Women's Media Foundation \(IWMF\) | [IWMF Emergency Fund](https://www.iwmf.org/programs/emergency-fund/) |
 | La Maison Des Journalistes | [Assistance](http://www.maisondesjournalistes.org/) |
 | Reporters Without Borders \(RSF\) | [Individual Support](https://rsf.org/en/individual-support) |
+|  | [Berlin Scholarship Program](https://www.reporter-ohne-grenzen.de/en/stipendien/berlin-scholarship-program/) |
 | Rory Peck Trust | [Assistance Grants](https://rorypecktrust.org/freelance-assistance/Assistance-Grants) |
 | Media Legal Defence Initiative \(MLDI\) | [Legal Assistance](https://www.mediadefence.org/get-help) |
 | Scholars at Risk Network | [Support for Scholars Under Threat](https://www.scholarsatrisk.org/get-help/) |
 | Cara | [Support for Academics Under Threat](http://www.cara.ngo/what-we-do/a-lifeline-to-academics-at-risk/) |
+| International Cities of Refuge Network \(ICORN\) | [Writers/Artists at Risk](https://icorn.org/application-guide-writers-and-artists-risk) |
+| Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
 |  |  |
 
 #### In-Kind Digital Infrastructure 
@@ -108,50 +112,32 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Internet Hardening Fund](https://nlnet.nl/internethardening/) |
 |   | [Standards in Real-Time Communication](https://nlnet.nl/realtime/) |
 |   | [DNSSEC Fund](https://nlnet.nl/dnssec/) |
-| Library Freedom Project | [Library Freedom Institute](https://libraryfreedom.org/index.php/lfi/) |
-| Core Infrastructure Initiative | [Grants](https://www.coreinfrastructure.org/programs/assistance-program/) |
-|  |  |
-| Linux Foundation | [Linux Foundation](https://www.linuxfoundation.org/) |
-| AirVPN | [Project Support](https://airvpn.org/mission/) |
-| Network of Excellence in Internet Science | [Network of Excellence in Internet Science](http://www.internet-science.eu/) |
-| Kantara Initiative | [Identity/Data/IoT](https://kantarainitiative.org/) |
 | Prototype Fund | [Open Source Project Support \(Germany\)](https://prototypefund.de/en/) |
-| RIPE NCC  | [Community Projects Fund](https://www.ripe.net/support/cpf) |
 | Facebook | [Secure the Internet Grants](https://research.fb.com/programs/research-awards/proposals/secure-the-internet-grants/) |
 | Facebook | [Research Awards](https://research.fb.com/programs/research-awards/) |
 | Cisco | [Research & Open Innovation](http://research.cisco.com/research) |
 | Next Generation Internet \(NGI\) | [NGI Open Calls](https://www.ngi.eu/opencalls/) |
+| Core Infrastructure Initiative | [Grants](https://www.coreinfrastructure.org/programs/assistance-program/) |
+| Open Source Technology Improvement Fund \(OSTIF\) | [Grants](https://ostif.org/) |
+| AirVPN | [Project Support](https://airvpn.org/mission/) |
+| Network of Excellence in Internet Science | [Network of Excellence in Internet Science](http://www.internet-science.eu/) |
+| Library Freedom Project | [Library Freedom Institute](https://libraryfreedom.org/index.php/lfi/) |
 
 ## Digital Rights
 
 | Organization | Fund |
 | :--- | :--- |
-| Ford Foundation | [Internet Freedom](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/) |
-| Media Democracy Fund | [Grants](http://mediademocracyfund.org/) |
-| Freedom House | [Various Programs](https://freedomhouse.org/programs) |
-| Access Now | [Grants](https://www.accessnow.org/grants/) |
-| Sigrid Rausing Trust | [Human Rights Defenders](https://www.sigrid-rausing-trust.org/Grantees/Programmes/Human-Rights-Defenders) |
-|   | [Free Expression](https://www.sigrid-rausing-trust.org/Grantees/Programmes/Free-Expression) |
-| Hivos | [Freedom and Accountability ](https://www.hivos.org/focus-area/freedom-and-accountability/) |
-| Democracy Council | [About](http://demcouncil.org/?page_id=572) |
-| Comic Relief | [Tech For Good](https://www.comicrelief.com/your-impact/how-we-make-grants/tech-for-good) |
-| Cybersecurity Tech Accord/UN Office of Disarmament Affairs | [Apps 4 Digital Peace](https://cybertechaccord.org/cybersecurity-tech-accord-announces-new-contest-in-partnership-with-the-un-office-of-disarmament-affairs/) |
-|  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
 | Reset | [reset.tech](https://www.reset.tech/) |
 | Mozilla | [Grants](https://www.mozilla.org/en-US/grants/) |
+| Freedom House | [Various Programs](https://freedomhouse.org/programs) |
+| Access Now | [Grants](https://www.accessnow.org/grants/) |
+| Sigrid Rausing Trust | [Grants](https://www.sigrid-rausing-trust.org/) |
+| Hivos | [Freedom and Accountability ](https://www.hivos.org/focus-area/freedom-and-accountability/) |
+| Ford Foundation | [Internet Freedom](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/) |
+| Media Democracy Fund | [Grants](http://mediademocracyfund.org/) |
+| Democracy Council | [About](http://demcouncil.org/?page_id=572) |
+|  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
 | Renewable Freedom Foundation | [Funding Sources List](https://renewablefreedom.org/grants/alternative-funding-sources/) |
-
-## Digital Safety
-
-| Organization | Fund |
-| :--- | :--- |
-| Frontline Defenders | [Protection Grants](https://www.frontlinedefenders.org/en/programme/protection-grants) |
-| Hivos | [Digital Defenders Partnership](https://www.hivos.org/program/digital-defenders-partnership/) |
-|   | [Digital Integrity Fellowship](https://www.digitaldefenders.org/sections/about-us/fellowship-2/) |
-| Global Journalist Security | [Digital Safety](https://www.gjs-security.com/digital-safety-curriculum-for-newsrooms/) |
-| Justice and Peace Netherlands | [Initiatives](https://www.justiceandpeace.nl/initiatives/) |
-| Defend Defenders | [East African Women’s Digital Safety Fellowship](https://www.defenddefenders.org/2017/04/become-safe-sister/) |
-| Reporters Without Borders \(RSF\) | [Scholarship training journalists in digital security](https://rsf.org/en/news/rsf-new-scholarship-program-trains-journalists-digital-security) |
 
 ## **Information and Communications Technologies for Development \(ICT4D\) including Deploying Internet Access**
 
@@ -178,7 +164,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | SPIDER | [Grants](https://spidercenter.org/) |
 | International Development Evaluation Association \(IDEAS\) | [Grants](https://ideas-global.org/award/) |
 | Wehubit | [Grants](https://www.wehubit.be/en/node/7#grants-anchor) |
+| Comic Relief | [Tech For Good](https://www.comicrelief.com/your-impact/how-we-make-grants/tech-for-good) |
 | GSM Association | [Connected Society Innovation Fund for Rural Connectivity](https://www.gsma.com/mobilefordevelopment/connected-society-innovation-fund/) |
+| Motorola | [Motorola Solutions Foundation](https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html) |
 | NetHope | [Devices for Impact](https://solutionscenter.nethope.org/devices-for-impact#q/keywords=&num=10&channel=devices_for_impact&orderby=webinar_start_time+desc&category=&inclusive_categories=yes/P0&page=devices-for-impact) |
 | Digital Frontiers | [Grants](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) |
 | European Commission | [Affordable High-Tech for Humanitarian Aid](https://ec.europa.eu/research/eic/index.cfm?pg=prizes_aid) |
@@ -197,7 +185,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Organization | Fund |
 | :--- | :--- |
 | Garage 48 | [About](http://garage48.org/) |
-| CyberGhost | [Privacy Accelerator Program](https://www.cyberghostvpn.com/en_US/accelerator) |
 | Mach37 | [About](https://www.mach37.com/) |
 | iHub | [Support for Africa-based tech startups](https://ihub.co.ke/) |
 | Hackers/Founders | [Accelerator and Founders’ Cooperative](https://hf.cx/) |
@@ -205,18 +192,16 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | 3fs | [About](https://3fs.si/) |
 | National Science Foundation \(NSF\) | [America’s Seed Fund \(Small Business Innovation Research/Small Business Technology Transfer Program\)](https://seedfund.nsf.gov/) |
 | National Institute of Standards and Technology \(NIST\) | [Small Business Innovation Research Program \(SBIR\)](https://www.nist.gov/tpo/small-business-innovation-research-program) |
-| Google | [Google for Entrepreneurs](https://www.googleforentrepreneurs.com/startup-communities/) |
+| Global Innovation Fund | [About](https://www.globalinnovation.fund/) |
+| Google | [Google for Startups](https://startup.google.com/) |
 | PeaceTech Accelerator | [About](https://www.peacetechlab.org/peacetech-accelerator/) |
 | MIT | [Innovation & Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/) |
 | DevLabs | [About](https://devlabs.vc/) |
 | Coinbase | [Coinbase Ventures](https://ventures.coinbase.com/) |
-| Lumi Labs | [About](http://www.lumilabs.com/) |
 | Snap, Inc. | [Yellow](https://www.yellowla.com/about) |
 | The Thiel Foundation | [The Thiel Fellowship](http://thielfellowship.org/) |
-| Matter | [Entrepreneur program](https://matter.vc/) |
-| SecondMuse | [M-Corps](http://www.manufacturenewyork.com/faq/) |
 | Samsung | [Samsung Next](https://samsungnext.com/) |
-| Draper Richards Kaplan Foundation | [Grants](https://www.drkfoundation.org/apply-for-funding/) |
+| Comcast NBCUniversal  | [LIFT Labs](https://lift.comcast.com/) |
 
 ## Fellowships
 
@@ -229,15 +214,12 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | The Horowitz Foundation for Social Policy | [Grants for current PhD candidates](https://www.horowitz-foundation.org/) |
 | Alfred P. Sloan Foundation | [Sloan Research Fellowships](https://sloan.org/fellowships/) |
 | Tinker Foundation Incorporated | [Field Research Grants](https://www.tinker.org/content/field-research-grants) |
-| Google | [Computer Science programs](https://edu.google.com/computer-science/?modal_active=none) |
 | Alexander von Humboldt Institute for Internet and Society \(HIIG\) | [Internet and Society Fellowship](https://www.hiig.de/en/fellow-programme/) |
 | Harvard Library Innovation Lab | [Summer Fellowship](https://lil.law.harvard.edu/collaborate/2018/summer/fellows/apply/) |
 | Berkman Klein Center & MIT Media Lab | [Assembly](http://bkmla.org/) |
 | Stanford PACS Digital Civil Society Lab | [Non-Resident Fellowship](https://pacscenter.stanford.edu/dcsl-non-resident-fellowships/) |
 | Venture for America \(VFA\) | [VFA Fellowship](https://ventureforamerica.org/apply/) |
-| American Association for the Advancement of Science \(AAAS\) | [Science & Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) |
 | Azavea | [Summer of Maps](https://www.summerofmaps.com/) |
-| Partnership on AI \(PAI\) | [PAI Labs Research Fellowship](https://www.partnershiponai.org/fellowship-program/) |
 
 #### Policy & Advocacy
 
@@ -248,30 +230,23 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | CIPE/NDI/CIMA | [Open Internet for Democracy Leaders Program](https://openinternet.global/open-internet-democracy-leaders-program) |
 | Shuttleworth Foundation | [Fellowship](https://www.shuttleworthfoundation.org/fellows/) |
 | Human Rights Watch | [Fellowships \(pdf\)](https://careers.hrw.org/wp-content/uploads/2018/09/FAQs-General-and-SpecificPS-002.pdf) |
-| Google | [Public Policy Fellowship](https://www.google.com/policyfellowship/index.html) |
+| Google | [Public Policy Fellowship](https://www.google.com/policyfellowship/emea-fellowship/) |
 | National Endowment for Democracy \(NED\) | [Fellowships](https://www.ned.org/fellowships/) |
 | Echoing Green | [Social Entrepreneurship Fellowship and Leadership Development Programs](https://www.echoinggreen.org/fellowship) |
 | Berkman Klein Center for Internet & Society | [Fellowship Program](https://cyber.harvard.edu/getinvolved/fellowships) |
+| American Association for the Advancement of Science \(AAAS\) | [Science & Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) |
 | Ash Center for Democratic Governance and Innovation, Harvard Kennedy School | [Technology and Democracy Fellowship](https://ash.harvard.edu/technology-and-democracy-fellowship) |
+| Reporters Committee for Freedom of the Press \(RCFP\) | [Legal Fellowships](https://www.rcfp.org/work-at-rcfp/#fellow) |
 | Eisenhower Fellowships | [Global Programs](https://www.efworld.org/our-programs/international) |
-|   | [USA Programs](https://www.efworld.org/our-programs/usa) |
-| Ashoka | [Venture and Fellowship](https://www.ashoka.org/en/program/ashoka-venture-and-fellowship) |
-| Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
-|   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
-| Data & Society | [Fellows Program](https://datasociety.net/initiatives/fellows-program/) |
-| Internet Law & Policy Foundry | [Foundry Fellows](https://www.ilpfoundry.us/about/fellows/) |
-| UC Irvine School of Law | [Digital Rights Fellow](https://recruit.ap.uci.edu/JPF05253) |
-| Internet Society | [Fellowship to the Internet Engineering Task Force \(IETF\) Programme](https://www.internetsociety.org/leadership/fellowship-to-ietf/) |
+| Data & Society | [Fellows Program](https://datasociety.net/jobs-fellowships/) |
+| Internet Law & Policy Foundry | [Fellowships](https://www.ilpfoundry.us/jobs/) |
+| Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
 | Electronic Privacy Information Center \(EPIC\) | [EPIC Law Fellowship](https://epic.org/epic/jobs.html) |
-| International Association of Privacy Professionals \(IAPP\) | [Westin Fellows](https://iapp.org/westin-research-center/apply/) |
+| International Association of Privacy Professionals \(IAPP\) | [Westin Fellows](https://iapp.org/resources/article/become-a-westin-fellow/) |
 | Free Press | [C. Edwin Baker Media Policy Fellowship](https://www.freepress.net/c-edwin-baker-media-policy-fellowship) |
-| Internet Policy Observatory | [Research for Impact: Call For Proposals](http://globalnetpolicy.org/our-research/call-for-proposals/) |
-| Mozilla | [Network Tech Policy Fellowship](https://wiki.mozilla.org/Mozilla_Network_Tech_Policy_Fellowship) |
-| CIPESA | [ICT4Democracy Fellowship Programme](https://cipesa.org/2018/03/cipesa-ict4democracy-media-fellowship-programme/) |
-| New America | [Public Interest Technology Fellowship](https://www.newamerica.org/public-interest-technology/public-interest-technology-fellowship/) |
+| Mozilla | [Fellowships](https://foundation.mozilla.org/en/fellowships/) |
 | TechCongress | [Congressional Innovation Fellowship](https://www.techcongress.io/) |
-| Coding it Forward | [Civic Digital Fellowship](https://www.codingitforward.com/fellowship/) |
-| Citizen Engagement Laboratory | [Kairos Fellowship](http://www.kairosfellows.org/) |
+| Kairos Fellowship | [Fellowship](http://www.kairosfellows.org/) |
 
 ## Coding and Software Development
 
@@ -280,19 +255,14 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Python Software Foundation \(PSF\) | [PSF Grants Program](https://www.python.org/psf/grants/) |
 | Google | [Faculty Research Awards](https://ai.google/research/outreach/faculty-research-awards/) |
 | Mozilla | [Research Grants](https://research.mozilla.org/research-grants/) |
-| Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
 | SAGE | [Concept Grants](https://ocean.sagepub.com/concept-grants/) |
-| Protocol Labs | [Research RFPs and Grants](https://github.com/protocol/research-RFPs) |
+| Protocol Labs | [Research Grants](https://research.protocol.ai/) |
 | Outreachy | [Mentorships and internships](https://www.outreachy.org/) |
 | Rails Girls | [Summer of Code](https://railsgirlssummerofcode.org/) |
 | Google | [Summer of Code](https://summerofcode.withgoogle.com/) |
-| Code 2040 | [About](http://www.code2040.org/) |
 | General Assembly | [Social Impact](https://generalassemb.ly/how-we-work/social-impact) |
-| Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
-| The Walkley Foundation | [Coding Scholarships for Journalists](http://www.walkleys.com/codingscholarships/) |
-| Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
-| Motorola | [Motorola Solutions Foundation](https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html) |
-| ZCash Foundation | [ZF Grants](https://grants.zfnd.org/) |
+| Coding it Forward | [Civic Digital Fellowship](https://www.codingitforward.com/fellowship/) |
+| Cybersecurity Tech Accord/UN Office of Disarmament Affairs | [Apps 4 Digital Peace](https://cybertechaccord.org/cybersecurity-tech-accord-announces-new-contest-in-partnership-with-the-un-office-of-disarmament-affairs/) |
 
 ## Community
 
@@ -316,8 +286,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Elizabeth Neuffer Fellowship](https://www.iwmf.org/programs/neuffer/) |
 |   | [Fund For Women Journalists](https://www.iwmf.org/programs/fund-for-women-journalists/) |
 |   | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
-| Oak Foundation | [Issues Affecting Women](http://oakfnd.org/issues-affecting-women.html) |
-| Overbrook Foundation | [Gender Rights](https://www.overbrook.org/gender-rights/) |
 | GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
 |  |  |
 
@@ -325,20 +293,16 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund |
 | :--- | :--- |
-| Knight Foundation/Mozilla | [The Knight-Mozilla Fellowship](https://opennews.org/what/fellowships/) |
-| Reporters Committee for Freedom of the Press \(RCFP\) | [First Look Media Technology Fellowship](https://www.rcfp.org/flm_technology_fellowship) |
-|   | [Legal Fellowships](https://www.rcfp.org/about-us/fellowships) |
 | MacArthur Foundation | [Grants](https://www.macfound.org/info-grantseekers/grantmaking-guidelines/media-grant-guidelines/) |
 | Scripps Howard Foundation | [Grants](http://www.scripps.com/foundation/grants) |
-| Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/journalism-foundation/) |
-| Media Development Investment Fund | [Financing](https://www.mdif.org/) |
+| Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/) |
 | Free Press Unlimited | [About](https://www.freepressunlimited.org/en) |
 | Media Development Investment Fund \(MDIF\) | [About](https://www.mdif.org/) |
 | Open Society Foundations | [Program on Independent Journalism](https://www.opensocietyfoundations.org/about/programs/independent-journalism) |
-| Reporters Without Borders \(RSF\) | [About](https://rsf.org/en/presentation-0) |
+| Reporters Without Borders \(RSF\) | [About](https://rsf.org/en/overviews) |
 | Rory Peck Trust | [Support for freelance journalists](https://rorypecktrust.org/) |
 | Social Science Research Council/Japan Foundation Center for Global Partnership | [Abe Fellowship for Journalists](https://www.ssrc.org/fellowships/view/abe-fellowship-for-journalists/) |
-| University of Toronto, Munk School of Global Affairs | [Fellowship in Global Journalism](https://munkschool.utoronto.ca/journalism/) |
+| University of Toronto | [Fellowship in Global Journalism](https://munkschool.utoronto.ca/journalism/) |
 | Moment Magazine | [Daniel Pearl Investigative Journalism Initiative \(DPIJI\)](https://www.momentmag.com/the-daniel-pearl-investigative-journalism-initiative/) |
 | Mother Jones | [The Ben Bagdikian Fellowship Program](https://www.motherjones.com/jobs/fellowships/) |
 | University of Oxford | [Reuters Institute for the Study of Journalism](http://reutersinstitute.politics.ox.ac.uk/fellowships) |
@@ -346,18 +310,13 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Radio Free Europe/Radio Liberty \(RFE/RL\) | [Vaclav Havel Journalism Fellowship](https://pressroom.rferl.org/p/6120.html) |
 | Dutch Journalism Fund | [About](https://www.svdj.nl/dutch-journalism-fund/) |
 | International Media Support | [About](https://www.mediasupport.org/what-we-do/) |
-| The Walkley Foundation | [The Walkley Media Innovation Program](http://www.walkleys.com/innovationgrants/) |
+| The Walkley Foundation | [Grants](https://www.walkleys.com/) |
 | French Ministry of Foreign Affairs and International Development \(CFI\) | [Media Development](http://www.cfi.fr/en) |
-| DW Akademie | [Media Development](https://www.dw.com/en/dw-akademie/about-us/s-9519) |
 | UNESCO | [International Programme for the Development of Communication](https://en.unesco.org/programme/ipdc/) |
 | Pulitzer Center on Crisis Reporting | [Grants](https://pulitzercenter.org/grants) |
 | Thomson Foundation | [Media Training and Development](http://www.thomsonfoundation.org/) |
-| Ethics and Governance of Artificial Intelligence Initiative | [Challenge on News and Information Quality](https://aiethicsinitiative.org/news/2018/8/5/ai-initiative-announcing-750000-challenge-on-news-and-information-quality) |
-| Poynter | [International Fact-Checking Fellowship](https://www.poynter.org/news/apply-2018-international-fact-checking-network-fellowships) |
-| International Cities of Refuge Network \(ICORN\) | [Writers/Artists at Risk](https://icorn.org/icorn-writersartists) |
-| Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
-| Swedish Institute | [Creative Force Grants](https://si.se/en/apply/funding-grants/) |
-| Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/news-notes/2018/apply-now/) |
+| Poynter | [International Fact-Checking Network](https://www.poynter.org/ifcn/) |
+| Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/) |
 |  |  |
 
 #### Capacity Building
@@ -372,6 +331,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
 | Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
 | Linux Foundation | [CommunityBridge](https://communitybridge.org/) |
+| Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
+| RIPE NCC  | [Community Projects Fund](https://www.ripe.net/support/cpf) |
 
 ## Region-Specific
 
@@ -381,24 +342,19 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Arab Human Rights Fund \(AHRF\) | [Grants](https://www.ahrfund.org/grants/)  |
 | Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Standard grants](http://emhrf.org/standard-grants/) |
 | Department of State | [U.S.-Middle East Partnership Initiative \(MEPI\)](https://mepi.state.gov/funding-opportunities/) |
+|  |  |
 | **Asia-Pacific** |   |
-| Asian Forum for Human Rights and Development | [About](https://www.forum-asia.org/?page_id=21481) |
+| Asian Forum for Human Rights and Development | [Human Rights Defenders Programme](https://www.forum-asia.org/?page_id=7538) |
 | Network of Chinese Human Rights Defenders \(CHRD\) | [About](https://www.nchrd.org/about-chinese-human-rights-defenders/) |
 | Information Society Innovation Fund Asia \(ISIF Asia\) | [About](https://isif.asia/about-isif-asia/) |
-| GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
+|  |  |
 | **South and Latin America** |   |
-| The Colombian Commission of Jurists \(CCJ\) \(La Comisióna de Juristas\) | [About](http://www.coljuristas.org/index1.php?grupo=1) |
-| The Guatemala Human Rights Commission \(GHRC\) | [About](http://www.ghrc-usa.org/) |
-| Somos Defensores Program | [About](https://www.somosdefensores.org/index.php/en/) |
-| Unidad de Protección a Defensoras y Defensores de Derechos Humanos – Guatemala | [About](http://udefegua.org/) |
 | Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
+|  |  |
 | **Africa** |   |
-| The East and Horn of Africa Human Rights Defenders Project \(ENAHRDP\) | [DefendDefenders](https://www.defenddefenders.org/) |
-| RAITH Foundation | [Funding](http://www.raith.org.za/funding-guidelines)  |
-| BudgIT Nigeria | [Civic Tech Media Fellowship](http://yourbudgit.com/call-for-application-budgit-civic-tech-media-fellowship/) |
-| Fund for Internet Research and Development \(FIRE Africa\) | [Grants](https://fireafrica.org/grant) |
-| **Europe** |   |
-| Metamorphosis | [About](http://metamorphosis.org.mk/) |
+| RAITH Foundation | [Funding ](http://www.raith.org.za/index.php/apply) |
+| Fund for Internet Research and Development \(FIRE Africa\) | [Grants](https://fireafrica.org/home) |
+|  |  |
 
 ## Social Justice and Global Challenges
 
@@ -430,16 +386,19 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Overbrook Foundation | [Human Rights Defenders](https://www.overbrook.org/human-rights-defenders) |
 | Fund for Global Human Rights | [Grants](https://globalhumanrights.org/grants/types-of-grant/) |
 | Human Rights First | [Human Rights Defenders](https://www.humanrightsfirst.org/topics/human-rights-defenders) |
+| Oak Foundation | [Grants](https://oakfnd.org/grant-making/) |
 | FIDH | [Support for Local HRDs ](https://www.fidh.org/en/issues/human-rights-defenders/financial-support/support-fund-to-enhance-the-capacity-of-local-human-rights-defenders) |
 | Protection International | [About](https://www.protectioninternational.org/en/#ourwork) |
 | Human Rights Foundation \(HRF\) | [About](https://hrf.org/) |
 | European Endowment for Democracy \(EED\) | [Grants](https://www.democracyendowment.eu/support/) |
 | UN Democracy Fund \(UNDEF\) | [Grants](https://www.un.org/democracyfund/) |
+| Ashoka | [Changemakers](https://www.ashoka.org/en-us/program/ashoka-changemakers) |
 | Counterpart International | [Business Opportunities](https://www.counterpart.org/partner-with-us/business-opportunities/) |
+| Draper Richards Kaplan Foundation | [Grants](https://www.drkfoundation.org/apply-for-funding/) |
 | European Commission, Democracy and Human Rights | [Calls for Proposals](https://ec.europa.eu/europeaid/node/37623_en) |
 | MIT | [Solve](https://solve.mit.edu/) |
 | Skoll Global Threats Fund | [About](http://www.skollglobalthreats.org/about-us/activities/) |
-| Global Innovation Fund | [globalinnovation.fund](https://www.globalinnovation.fund/) |
+| Human Rights Funders Network | [Resources for Grantseekers](https://www.hrfn.org/resources-for-grantseekers/) |
 
 
 
