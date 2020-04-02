@@ -24,8 +24,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 * \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
 * \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
 * \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
-* \*\*\*\*[**Coding and Software and Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
-* \*\*\*\*[**Community or Region-specific**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)\*\*\*\*
+* \*\*\*\*[**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
+* \*\*\*\*[**Community or Region-Specific**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)\*\*\*\*
 * \*\*\*\*[**Community & Inclusion**](appendix-iv-alternative-sources-of-support.md#community-and-inclusion)\*\*\*\*
 * \*\*\*\*[**Miscellaneous**](appendix-iv-alternative-sources-of-support.md#miscellaneous)
 
@@ -316,7 +316,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Tidelift | [Support for open source maintainers](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) |
 | Motorola | [Motorola Solutions Foundation](https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html) |
 
-## Community or Region-specific
+## Community or Region-Specific
 
 | Organization | Fund |
 | :--- | :--- |
