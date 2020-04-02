@@ -25,9 +25,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 * \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
 * \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
 * \*\*\*\*[**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
-* \*\*\*\*[**Community or Region-Specific**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)\*\*\*\*
-* \*\*\*\*[**Community & Inclusion**](appendix-iv-alternative-sources-of-support.md#community-and-inclusion)\*\*\*\*
-* \*\*\*\*[**Miscellaneous**](appendix-iv-alternative-sources-of-support.md#miscellaneous)
+* \*\*\*\*[**Community**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)
+* \*\*\*\*[**Region-Specific**](appendix-iv-alternative-sources-of-support.md#region-specific)\*\*\*\*
+* \*\*\*\*[**Social Justice and Global Challenges**](appendix-iv-alternative-sources-of-support.md#social-justice-and-global-challenges)\*\*\*\*
 
 ## Rapid Response
 
