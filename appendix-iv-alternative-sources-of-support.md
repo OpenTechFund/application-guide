@@ -145,27 +145,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Comic Relief | [Tech For Good](https://www.comicrelief.com/your-impact/how-we-make-grants/tech-for-good) |
 | Cybersecurity Tech Accord/UN Office of Disarmament Affairs | [Apps 4 Digital Peace](https://cybertechaccord.org/cybersecurity-tech-accord-announces-new-contest-in-partnership-with-the-un-office-of-disarmament-affairs/) |
 |  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
-| Human Rights Foundation \(HRF\) | [About](https://hrf.org/) |
-|  |  |
-| European Endowment for Democracy \(EED\) | [Grants](https://www.democracyendowment.eu/support/) |
-| Counterpart International | [Business Opportunities](https://www.counterpart.org/partner-with-us/business-opportunities/) |
-| UN Democracy Fund \(UNDEF\) | [Grants](https://www.un.org/democracyfund/apply-funding) |
-| Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
-|    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
-| European Commission, Democracy and Human Rights | [Calls for Proposals](https://ec.europa.eu/europeaid/node/37623_en) |
-| Microsoft | [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) |
-| Microsoft | [AI for Accessibility](https://www.microsoft.com/en-us/ai-for-accessibility) |
-| Bond | [Funding Opportunities](https://www.bond.org.uk/hubs/funding-opportunities) |
-| Ariadne: European Funders for Social Change and Human Rights | [About](http://www.ariadne-network.eu/what-we-do/) |
 | Reset | [reset.tech](https://www.reset.tech/) |
 | Mozilla | [Grants](https://www.mozilla.org/en-US/grants/) |
-| Laura and John Arnold Foundation \(LJAF\) | [Grants](http://www.arnoldfoundation.org/grants/) |
-| Omidyar Network | [About](http://www.omidyar.com/) |
-| Knight Foundation | [Technology Innovation](http://www.knightfoundation.org/programs/technology) |
-| Knight Foundation | [Governance, Norms and Values - Research on the Future Internet](https://www.knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms) |
-| The Reva & David Logan Foundation | [Social Justice, Scholarship, the Arts and Investigative Journalism](http://www.loganfdn.org/ourapproach.html) |
-| Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
-| Siegel Family Endowment | [About](https://siegelendowment.org/) |
 
 ## Digital Safety
 
@@ -205,6 +186,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | NetHope | [Devices for Impact](https://solutionscenter.nethope.org/devices-for-impact#q/keywords=&num=10&channel=devices_for_impact&orderby=webinar_start_time+desc&category=&inclusive_categories=yes/P0&page=devices-for-impact) |
 | Digital Frontiers | [Grants](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) |
 | European Commission | [Affordable High-Tech for Humanitarian Aid](https://ec.europa.eu/research/eic/index.cfm?pg=prizes_aid) |
+| Microsoft | [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) |
+| Microsoft | [AI for Accessibility](https://www.microsoft.com/en-us/ai-for-accessibility) |
 | Engineering and Physical Sciences Research Council \(UK\) | [Research Grants](https://epsrc.ukri.org/research/ourportfolio/themes/ict/) |
 | Newton Fund | [Grants](http://www.newtonfund.ac.uk/funding/funding-opportunities/) |
 | World Wide Web Foundation | [Web We Want](https://webwewant.org/grants/) |
@@ -379,7 +362,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Bassel Khartabil Free Culture Fellowship](https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/) |
 | Open Knowledge International | [About](https://okfn.org/) |
 | Internet Freedom Festival \(IFF\) | [IFF Community Development Fellows Program](https://internetfreedomfestival.org/fellowship/) |
-|  |  |
+| Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
+|    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
+| Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
 
 ## Region-Specific
 
@@ -412,7 +397,14 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund |
 | :--- | :--- |
-| \*\*\*\* |  |
+| Laura and John Arnold Foundation \(LJAF\) | [Grants](http://www.arnoldfoundation.org/grants/) |
+| Omidyar Network | [About](http://www.omidyar.com/) |
+| Knight Foundation | [Technology Innovation](http://www.knightfoundation.org/programs/technology) |
+|  | [Governance, Norms and Values - Research on the Future Internet](https://www.knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms) |
+| The Reva & David Logan Foundation | [Social Justice, Scholarship, the Arts and Investigative Journalism](http://www.loganfdn.org/ourapproach.html) |
+| Siegel Family Endowment | [About](https://siegelendowment.org/) |
+| Bond | [Funding Opportunities](https://www.bond.org.uk/hubs/funding-opportunities) |
+| Ariadne: European Funders for Social Change and Human Rights | [About](http://www.ariadne-network.eu/what-we-do/) |
 | National Endowment for Democracy \(NED\) | [Grants](https://www.ned.org/apply-for-grant/en/) |
 | Swedish International Development Agency \(Sida\) | [Research Calls and Grants](https://www.sida.se/English/partners/resources-for-all-partners/Calls-and-announcements/) |
 | European Commission | [Digital Single Market Funding](https://ec.europa.eu/digital-single-market/en/newsroom-agenda/funding-opportunity) |
@@ -433,8 +425,11 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Human Rights First | [Human Rights Defenders](https://www.humanrightsfirst.org/topics/human-rights-defenders) |
 | FIDH | [Support for Local HRDs ](https://www.fidh.org/en/issues/human-rights-defenders/financial-support/support-fund-to-enhance-the-capacity-of-local-human-rights-defenders) |
 | Protection International | [About](https://www.protectioninternational.org/en/#ourwork) |
-|  |  |
-|  |  |
+| Human Rights Foundation \(HRF\) | [About](https://hrf.org/) |
+| European Endowment for Democracy \(EED\) | [Grants](https://www.democracyendowment.eu/support/) |
+| UN Democracy Fund \(UNDEF\) | [Grants](https://www.un.org/democracyfund/) |
+| Counterpart International | [Business Opportunities](https://www.counterpart.org/partner-with-us/business-opportunities/) |
+| European Commission, Democracy and Human Rights | [Calls for Proposals](https://ec.europa.eu/europeaid/node/37623_en) |
 | MIT | [Solve](https://solve.mit.edu/) |
 | Skoll Global Threats Fund | [About](http://www.skollglobalthreats.org/about-us/activities/) |
 | Global Innovation Fund | [globalinnovation.fund](https://www.globalinnovation.fund/) |
