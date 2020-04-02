@@ -24,8 +24,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 * \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
 * \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
 * \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
-* \*\*\*\*[**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
-* \*\*\*\*[**Community**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)
+* \*\*\*\*[**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-development)\*\*\*\*
+* [**Community**](appendix-iv-alternative-sources-of-support.md#community)\*\*\*\*
 * \*\*\*\*[**Region-Specific**](appendix-iv-alternative-sources-of-support.md#region-specific)\*\*\*\*
 * \*\*\*\*[**Social Justice and Global Challenges**](appendix-iv-alternative-sources-of-support.md#social-justice-and-global-challenges)\*\*\*\*
 
