@@ -305,6 +305,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | University of Toronto | [Fellowship in Global Journalism](https://munkschool.utoronto.ca/journalism/) |
 | Moment Magazine | [Daniel Pearl Investigative Journalism Initiative \(DPIJI\)](https://www.momentmag.com/the-daniel-pearl-investigative-journalism-initiative/) |
 | Mother Jones | [The Ben Bagdikian Fellowship Program](https://www.motherjones.com/jobs/fellowships/) |
+| Open Society Foundation | [Moving Walls Fellowship](https://www.opensocietyfoundations.org/grants/moving-walls-fellowship) |
 | University of Oxford | [Reuters Institute for the Study of Journalism](http://reutersinstitute.politics.ox.ac.uk/fellowships) |
 | World Press Institute \(WPI\) | [WPI Fellowship](https://worldpressinstitute.org/fellowships/) |
 | Radio Free Europe/Radio Liberty \(RFE/RL\) | [Vaclav Havel Journalism Fellowship](https://pressroom.rferl.org/p/6120.html) |
@@ -350,6 +351,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |  |  |
 | **South and Latin America** |   |
 | Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
+| Open Society Foundation | [Latin America Program](https://www.opensocietyfoundations.org/grants/latin-america-program-grant) |
 |  |  |
 | **Africa** |   |
 | RAITH Foundation | [Funding ](http://www.raith.org.za/index.php/apply) |
@@ -384,6 +386,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Open Society Foundations | [Human Rights Initiative](https://www.opensocietyfoundations.org/about/programs/human-rights-initiative) |
 | Nexus Fund | [Grants](https://www.nexus-fund.org/) |
 | Overbrook Foundation | [Human Rights Defenders](https://www.overbrook.org/human-rights-defenders) |
+| Hewlett Foundation | [About](https://hewlett.org/) |
 | Fund for Global Human Rights | [Grants](https://globalhumanrights.org/grants/types-of-grant/) |
 | Human Rights First | [Human Rights Defenders](https://www.humanrightsfirst.org/topics/human-rights-defenders) |
 | Oak Foundation | [Grants](https://oakfnd.org/grant-making/) |
