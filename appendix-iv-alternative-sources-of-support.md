@@ -23,8 +23,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 * \*\*\*\*[**Digital Safety**](appendix-iv-alternative-sources-of-support.md#digital-safety)\*\*\*\*
 * \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
 * \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
-* \*\*\*\*[**Fellowships \(Research and Multidisciplinary\)**](appendix-iv-alternative-sources-of-support.md#fellowships-research-and-multidisciplinary)\*\*\*\*
-* \*\*\*\*[**Fellowships \(Policy\)**](appendix-iv-alternative-sources-of-support.md#fellowships-policy)\*\*\*\*
+* \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
 * \*\*\*\*[**Coding and Software and Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-and-development)\*\*\*\*
 * \*\*\*\*[**Community or Region-specific**](appendix-iv-alternative-sources-of-support.md#community-or-region-specific)\*\*\*\*
 * \*\*\*\*[**Community & Inclusion**](appendix-iv-alternative-sources-of-support.md#community-and-inclusion)\*\*\*\*
@@ -243,7 +242,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Samsung | [Samsung Next](https://samsungnext.com/) |
 | Draper Richards Kaplan Foundation | [Grants](https://www.drkfoundation.org/apply-for-funding/) |
 
-## Fellowships \(Research and Multidisciplinary\)
+## Fellowships
+
+#### Research
 
 | Organization | Fund |
 | :--- | :--- |
@@ -257,18 +258,12 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Harvard Library Innovation Lab | [Summer Fellowship](https://lil.law.harvard.edu/collaborate/2018/summer/fellows/apply/) |
 | Berkman Klein Center & MIT Media Lab | [Assembly](http://bkmla.org/) |
 | Stanford PACS Digital Civil Society Lab | [Non-Resident Fellowship](https://pacscenter.stanford.edu/dcsl-non-resident-fellowships/) |
-| Koya Partners  | [ReWork](https://koyapartners.com/services/rework-by-koya/)  |
 | Venture for America \(VFA\) | [VFA Fellowship](https://ventureforamerica.org/apply/) |
 | American Association for the Advancement of Science \(AAAS\) | [Science & Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) |
 | Azavea | [Summer of Maps](https://www.summerofmaps.com/) |
-| Eisenhower Fellowships | [Global Programs](https://www.efworld.org/our-programs/international) |
-|   | [USA Programs](https://www.efworld.org/our-programs/usa) |
-| Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
-|   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
 | Partnership on AI \(PAI\) | [PAI Labs Research Fellowship](https://www.partnershiponai.org/fellowship-program/) |
-| UC Irvine School of Law | [Digital Rights Fellow](https://recruit.ap.uci.edu/JPF05253) |
 
-## Fellowships \(Policy\)
+#### Policy
 
 | Organization | Fund |
 | :--- | :--- |
@@ -281,9 +276,14 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Echoing Green | [Social Entrepreneurship Fellowship and Leadership Development Programs](https://www.echoinggreen.org/fellowship) |
 | Berkman Klein Center for Internet & Society | [Fellowship Program](https://cyber.harvard.edu/getinvolved/fellowships) |
 | Ash Center for Democratic Governance and Innovation, Harvard Kennedy School | [Technology and Democracy Fellowship](https://ash.harvard.edu/technology-and-democracy-fellowship) |
+| Eisenhower Fellowships | [Global Programs](https://www.efworld.org/our-programs/international) |
+|   | [USA Programs](https://www.efworld.org/our-programs/usa) |
 | Ashoka | [Venture and Fellowship](https://www.ashoka.org/en/program/ashoka-venture-and-fellowship) |
+| Educations Pioneers | [Summer Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-summer-fellowship/how-to-apply) |
+|   | [Impact Fellowship](https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship/how-apply) |
 | Data & Society | [Fellows Program](https://datasociety.net/initiatives/fellows-program/) |
 | Internet Law & Policy Foundry | [Foundry Fellows](https://www.ilpfoundry.us/about/fellows/) |
+| UC Irvine School of Law | [Digital Rights Fellow](https://recruit.ap.uci.edu/JPF05253) |
 | Internet Society | [Fellowship to the Internet Engineering Task Force \(IETF\) Programme](https://www.internetsociety.org/leadership/fellowship-to-ietf/) |
 | Electronic Privacy Information Center \(EPIC\) | [EPIC Law Fellowship](https://epic.org/epic/jobs.html) |
 | International Association of Privacy Professionals \(IAPP\) | [Westin Fellows](https://iapp.org/westin-research-center/apply/) |
