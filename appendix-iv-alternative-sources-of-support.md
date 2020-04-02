@@ -59,7 +59,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 #### Rapid Response for Journalists & Scholars
 
-|  |  |
+| Organization | Fund |
 | :--- | :--- |
 | Free Press Unlimited | [Reporters Respond](https://www.freepressunlimited.org/en/projects/reporters-respond-emergency-funding-for-the-media) |
 | International Federation of Journalists \(IFJ\) | [IFJ Safety Fund](http://ifj-safety.org/en/contents/the-ifj-safety-fund) |
@@ -95,29 +95,22 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | National Science Foundation \(NSF\) | [Secure and Trustworthy Cyberspace \(SaTC\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504709) |
 |   | [Computer Systems Research \(CSR\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503306&org=CNS&from=home) |
 | Department of Homeland Security \(DHS\) | [Cyber Security Solicitations](https://baa2.st.dhs.gov/portal/public/PublicSolicitation_retrieveCurrentSolicitation) |
-| Defense Advanced Research Projects Agency \(DARPA\) | [Resilient Anonymous Communication for Everyone \(RACE\)](https://www.fbo.gov/index?s=opportunity&mode=form&id=d5f5c9f270374532bcee11659221afa7&tab=core&_cview=1) |
-| U.S. Agency for International Development \(USAID\) | [Partnership Opportunities](https://www.usaid.gov/work-usaid/partnership-opportunities/search-for-opportunities) |
-|   | [Development Innovation Ventures \(DIV\)](https://www.usaid.gov/div) |
 
 ## Privacy and Security 
 
 | Organization | Fund |
 | :--- | :--- |
-| Renewable Freedom Foundation | [Grants](https://renewablefreedom.org/grants/) |
-|   | [Funding Sources List](https://renewablefreedom.org/grants/alternative-funding-sources/) |
 | Mozilla Foundation | [Mozilla Open Source Support \(MOSS\)](https://wiki.mozilla.org/MOSS) |
 |   | [MOSS - Foundational Technology](https://wiki.mozilla.org/MOSS/Foundational_Technology) |
 |   | [MOSS - Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners) |
 |   | [MOSS - Secure Open Source ](https://wiki.mozilla.org/MOSS/Secure_Open_Source) |
-| Access Now | [Grants](https://www.accessnow.org/grants/) |
-| Jigsaw \(Google\) | [Jigsaw](https://jigsaw.google.com/) |
-| Data Transparency Lab | [Grants Program](http://datatransparencylab.org/call-for-tools/) |
-| Library Freedom Project | [Library Freedom Institute](https://libraryfreedomproject.org/lfi/) |
-| Core Infrastructure Initiative | [Grants](https://www.coreinfrastructure.org/programs/assistance-program/) |
 | NLNet Foundation | [Open Call - Network and Internet Technology](https://nlnet.nl/news/2017/20170201-call-en.html) |
 |   | [Internet Hardening Fund](https://nlnet.nl/internethardening/) |
 |   | [Standards in Real-Time Communication](https://nlnet.nl/realtime/) |
 |   | [DNSSEC Fund](https://nlnet.nl/dnssec/) |
+| Library Freedom Project | [Library Freedom Institute](https://libraryfreedom.org/index.php/lfi/) |
+| Core Infrastructure Initiative | [Grants](https://www.coreinfrastructure.org/programs/assistance-program/) |
+|  |  |
 | Linux Foundation | [Linux Foundation](https://www.linuxfoundation.org/) |
 | AirVPN | [Project Support](https://airvpn.org/mission/) |
 | Network of Excellence in Internet Science | [Network of Excellence in Internet Science](http://www.internet-science.eu/) |
@@ -135,9 +128,8 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | :--- | :--- |
 | Ford Foundation | [Internet Freedom](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/) |
 | Media Democracy Fund | [Grants](http://mediademocracyfund.org/) |
-| CIPE/NDI/CIMA | [Open Internet for Democracy Leaders Program](https://openinternet.global/open-internet-democracy-leaders-program) |
 | Freedom House | [Various Programs](https://freedomhouse.org/programs) |
-| MacArthur Foundation | [Grants](https://www.macfound.org/info-grantseekers/grantmaking-guidelines/human_rights-grant-guidelines/) |
+| Access Now | [Grants](https://www.accessnow.org/grants/) |
 | Sigrid Rausing Trust | [Human Rights Defenders](https://www.sigrid-rausing-trust.org/Grantees/Programmes/Human-Rights-Defenders) |
 |   | [Free Expression](https://www.sigrid-rausing-trust.org/Grantees/Programmes/Free-Expression) |
 | Hivos | [Freedom and Accountability ](https://www.hivos.org/focus-area/freedom-and-accountability/) |
@@ -147,6 +139,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
 | Reset | [reset.tech](https://www.reset.tech/) |
 | Mozilla | [Grants](https://www.mozilla.org/en-US/grants/) |
+| Renewable Freedom Foundation | [Funding Sources List](https://renewablefreedom.org/grants/alternative-funding-sources/) |
 
 ## Digital Safety
 
@@ -165,10 +158,13 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Organization | Fund |
 | :--- | :--- |
 | International Development Research Center \(IDRC\) | [Funding](https://www.idrc.ca/en/funding) |
-| Microsoft | [Airband Initiative](https://www.microsoft.com/en-us/airband) |
+| Microsoft | [Grants](https://www.ibm.org/initiatives/impact-grants) |
+|  | [Airband Initiative](https://www.microsoft.com/en-us/airband) |
 | Association for Progressive Communications \(APC\) | [Access](https://www.apc.org/en/access-1) |
 | Comcast | [Innovation Fund](http://innovationfund.comcast.com/) |
 | Internet Society | [Grants & Awards](https://www.internetsociety.org/grants-and-awards) |
+| U.S. Agency for International Development \(USAID\) | [Partnership Opportunities](https://www.usaid.gov/work-usaid/partnership-opportunities/search-for-opportunities) |
+|   | [Development Innovation Ventures \(DIV\)](https://www.usaid.gov/div) |
 | OpenCellular | [OpenCellular Grants](http://oc.telecominfraproject.com/opencellular-grant-program/) |
 | Catholic Relief Services | [ICT4D](https://www.crs.org/our-work-overseas/ict4d) |
 | CRDF Global | [Grants](https://www.crdfglobal.org/grants/funding-opportunities) |
@@ -249,6 +245,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | :--- | :--- |
 | Ford Foundation/Mozilla | [Open Web Fellowship](https://advocacy.mozilla.org/en-US/open-web-fellows/overview) |
 | Open Society Foundations | [Open Society Fellowship](https://www.opensocietyfoundations.org/grants/open-society-fellowship) |
+| CIPE/NDI/CIMA | [Open Internet for Democracy Leaders Program](https://openinternet.global/open-internet-democracy-leaders-program) |
 | Shuttleworth Foundation | [Fellowship](https://www.shuttleworthfoundation.org/fellows/) |
 | Human Rights Watch | [Fellowships \(pdf\)](https://careers.hrw.org/wp-content/uploads/2018/09/FAQs-General-and-SpecificPS-002.pdf) |
 | Google | [Public Policy Fellowship](https://www.google.com/policyfellowship/index.html) |
@@ -289,7 +286,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Outreachy | [Mentorships and internships](https://www.outreachy.org/) |
 | Rails Girls | [Summer of Code](https://railsgirlssummerofcode.org/) |
 | Google | [Summer of Code](https://summerofcode.withgoogle.com/) |
-| Linux Foundation | [Linux Foundation Fellows](https://www.linuxfoundation.org/about/linux-foundation-fellows/) |
 | Code 2040 | [About](http://www.code2040.org/) |
 | General Assembly | [Social Impact](https://generalassemb.ly/how-we-work/social-impact) |
 | Voqal | [Fellowships](https://voqal.org/our-work/offering-fellowships/) |
@@ -300,9 +296,10 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 ## Community
 
+#### Gender & LGBTQ
+
 | Organization | Fund |
 | :--- | :--- |
-| **Gender & LGBTQ** |  |
 | American Refugee Committee | [Gender-based Violence and Response](http://arcrelief.org/protection/) |
 | Astraea Lesbian Foundation for Justice | [Grants](https://www.astraeafoundation.org/apply/) |
 | Coalition of African Lesbians | [About](http://www.cal.org.za/) |
@@ -323,10 +320,15 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Overbrook Foundation | [Gender Rights](https://www.overbrook.org/gender-rights/) |
 | GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
 |  |  |
-| **Journalism & Media** |  |
+
+#### Journalism & Media
+
+| Organization | Fund |
+| :--- | :--- |
 | Knight Foundation/Mozilla | [The Knight-Mozilla Fellowship](https://opennews.org/what/fellowships/) |
 | Reporters Committee for Freedom of the Press \(RCFP\) | [First Look Media Technology Fellowship](https://www.rcfp.org/flm_technology_fellowship) |
 |   | [Legal Fellowships](https://www.rcfp.org/about-us/fellowships) |
+| MacArthur Foundation | [Grants](https://www.macfound.org/info-grantseekers/grantmaking-guidelines/media-grant-guidelines/) |
 | Scripps Howard Foundation | [Grants](http://www.scripps.com/foundation/grants) |
 | Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/journalism-foundation/) |
 | Media Development Investment Fund | [Financing](https://www.mdif.org/) |
@@ -357,7 +359,11 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Swedish Institute | [Creative Force Grants](https://si.se/en/apply/funding-grants/) |
 | Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/news-notes/2018/apply-now/) |
 |  |  |
-| **Capacity Building** |  |
+
+#### Capacity Building
+
+| Organization | Fund |
+| :--- | :--- |
 | Creative Commons | [Community Activities Fund](https://creativecommons.org/2017/06/13/community-activities-fund/) |
 |   | [Bassel Khartabil Free Culture Fellowship](https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/) |
 | Open Knowledge International | [About](https://okfn.org/) |
@@ -365,6 +371,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
 |    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
 | Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
+| Linux Foundation | [CommunityBridge](https://communitybridge.org/) |
 
 ## Region-Specific
 
