@@ -17,17 +17,27 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 ## Categories
 
 * \*\*\*\*[**Rapid Response**](appendix-iv-alternative-sources-of-support.md#rapid-response)\*\*\*\*
+  * \*\*\*\*[Rapid Response for Journalists & Scholars](appendix-iv-alternative-sources-of-support.md#rapid-response-for-journalists-and-scholars)
+  * [In-Kind Digital Infrastructure](appendix-iv-alternative-sources-of-support.md#in-kind-digital-infrastructure)
 * \*\*\*\*[**US Government Internet Freedom and Security**](appendix-iv-alternative-sources-of-support.md#us-government-internet-freedom-and-security)\*\*\*\*
 * \*\*\*\*[**Privacy and Security**](appendix-iv-alternative-sources-of-support.md#privacy-and-security)\*\*\*\*
 * \*\*\*\*[**Digital Rights**](appendix-iv-alternative-sources-of-support.md#digital-rights)\*\*\*\*
-* \*\*\*\*[**Digital Safety**](appendix-iv-alternative-sources-of-support.md#digital-safety)\*\*\*\*
 * \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
 * \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
 * \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
+  * [Research](appendix-iv-alternative-sources-of-support.md#research)
+  * [Policy & Advocacy](appendix-iv-alternative-sources-of-support.md#policy-and-advocacy)
 * \*\*\*\*[**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-development)\*\*\*\*
+* [**Social Justice and Global Challenges**](appendix-iv-alternative-sources-of-support.md#social-justice-and-global-challenges)\*\*\*\*
 * [**Community**](appendix-iv-alternative-sources-of-support.md#community)\*\*\*\*
+  * [Gender & LGBTQ](appendix-iv-alternative-sources-of-support.md#gender-and-lgbtq)
+  * [Journalism & Media](appendix-iv-alternative-sources-of-support.md#journalism-and-media)
+  * [Capacity Building](appendix-iv-alternative-sources-of-support.md#capacity-building)
 * \*\*\*\*[**Region-Specific**](appendix-iv-alternative-sources-of-support.md#region-specific)\*\*\*\*
-* \*\*\*\*[**Social Justice and Global Challenges**](appendix-iv-alternative-sources-of-support.md#social-justice-and-global-challenges)\*\*\*\*
+  * [Middle East](appendix-iv-alternative-sources-of-support.md#middle-east)
+  * [Asia-Pacific](appendix-iv-alternative-sources-of-support.md#asia-pacific)
+  * [South and Latin America](appendix-iv-alternative-sources-of-support.md#south-and-latin-america)
+  * [Africa](appendix-iv-alternative-sources-of-support.md#africa)
 
 ## Rapid Response
 
@@ -56,7 +66,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Renewable Freedom Foundation | [Digital Rights Fund](https://digitalrights.fund/details) |
 | Defend Defenders | [East and Horn of Africa](https://defenddefenders.org/get-help/) |
 | The Guatemala Human Rights Commission \(GHRC\) | [Human Rights Defenders Fund](http://www.ghrc-usa.org/our-work/support-for-human-rights-defenders/) |
-|  |  |
 
 #### Rapid Response for Journalists & Scholars
 
@@ -76,11 +85,10 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Cara | [Support for Academics Under Threat](http://www.cara.ngo/what-we-do/a-lifeline-to-academics-at-risk/) |
 | International Cities of Refuge Network \(ICORN\) | [Writers/Artists at Risk](https://icorn.org/application-guide-writers-and-artists-risk) |
 | Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
-|  |  |
 
 #### In-Kind Digital Infrastructure 
 
-|  |  |
+| Organization | Fund |
 | :--- | :--- |
 | eQualit.ie | [Deflect](https://equalit.ie/portfolio/deflect/) |
 | Google | [Project Shield](https://projectshield.withgoogle.com/public/) |
@@ -264,100 +272,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Coding it Forward | [Civic Digital Fellowship](https://www.codingitforward.com/fellowship/) |
 | Cybersecurity Tech Accord/UN Office of Disarmament Affairs | [Apps 4 Digital Peace](https://cybertechaccord.org/cybersecurity-tech-accord-announces-new-contest-in-partnership-with-the-un-office-of-disarmament-affairs/) |
 
-## Community
-
-#### Gender & LGBTQ
-
-| Organization | Fund |
-| :--- | :--- |
-| American Refugee Committee | [Gender-based Violence and Response](http://arcrelief.org/protection/) |
-| Astraea Lesbian Foundation for Justice | [Grants](https://www.astraeafoundation.org/apply/) |
-| Coalition of African Lesbians | [About](http://www.cal.org.za/) |
-| Governments of Indonesia and Australia | [Komnas Perempuan \(Indonesia's National Commission on Violence Against Women\)](http://mampu.or.id/uncategorized/komnas-perempuan/) |
-| Mediterranean Women's Fund | [Mediterranean Women’s Fund](http://www.medwomensfund.org/en/Presentation.html) |
-| Third Wave Fund | [Mobilize Power Fund](http://thirdwavefund.org/mobilize-power-fund.html) |
-| Women Living Under Muslim Laws | [About](http://www.wluml.org/) |
-| Women's Rehabilitation Center \(Nepal\) | [About](http://www.worecnepal.org/index.php) |
-|  Women Development Advocacy Center \(Nepal\) | [Digital Empowerment Fellowship](http://www.wdac.org.np/digital-empowerment-fellowship/) |
-| Freedom House | [Dignity for All: LGBTI Assistance Program](https://freedomhouse.org/program/dignity-all-lgbti-assistance-program) |
-| Womanity Foundation | [About](https://womanity.org/) |
-| Mama Cash | [Grants](https://www.mamacash.org/en/apply-for-a-grant-1) |
-| International Women's Media Foundation \(IWMF\) | [Emergency Fund](https://www.iwmf.org/programs/emergency-fund/) |
-|   | [Elizabeth Neuffer Fellowship](https://www.iwmf.org/programs/neuffer/) |
-|   | [Fund For Women Journalists](https://www.iwmf.org/programs/fund-for-women-journalists/) |
-|   | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
-| GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
-|  |  |
-
-#### Journalism & Media
-
-| Organization | Fund |
-| :--- | :--- |
-| MacArthur Foundation | [Grants](https://www.macfound.org/info-grantseekers/grantmaking-guidelines/media-grant-guidelines/) |
-| Scripps Howard Foundation | [Grants](http://www.scripps.com/foundation/grants) |
-| Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/) |
-| Free Press Unlimited | [About](https://www.freepressunlimited.org/en) |
-| Media Development Investment Fund \(MDIF\) | [About](https://www.mdif.org/) |
-| Open Society Foundations | [Program on Independent Journalism](https://www.opensocietyfoundations.org/about/programs/independent-journalism) |
-| Reporters Without Borders \(RSF\) | [About](https://rsf.org/en/overviews) |
-| Rory Peck Trust | [Support for freelance journalists](https://rorypecktrust.org/) |
-| Social Science Research Council/Japan Foundation Center for Global Partnership | [Abe Fellowship for Journalists](https://www.ssrc.org/fellowships/view/abe-fellowship-for-journalists/) |
-| University of Toronto | [Fellowship in Global Journalism](https://munkschool.utoronto.ca/journalism/) |
-| Moment Magazine | [Daniel Pearl Investigative Journalism Initiative \(DPIJI\)](https://www.momentmag.com/the-daniel-pearl-investigative-journalism-initiative/) |
-| Mother Jones | [The Ben Bagdikian Fellowship Program](https://www.motherjones.com/jobs/fellowships/) |
-| Open Society Foundation | [Moving Walls Fellowship](https://www.opensocietyfoundations.org/grants/moving-walls-fellowship) |
-| University of Oxford | [Reuters Institute for the Study of Journalism](http://reutersinstitute.politics.ox.ac.uk/fellowships) |
-| World Press Institute \(WPI\) | [WPI Fellowship](https://worldpressinstitute.org/fellowships/) |
-| Radio Free Europe/Radio Liberty \(RFE/RL\) | [Vaclav Havel Journalism Fellowship](https://pressroom.rferl.org/p/6120.html) |
-| Dutch Journalism Fund | [About](https://www.svdj.nl/dutch-journalism-fund/) |
-| International Media Support | [About](https://www.mediasupport.org/what-we-do/) |
-| The Walkley Foundation | [Grants](https://www.walkleys.com/) |
-| French Ministry of Foreign Affairs and International Development \(CFI\) | [Media Development](http://www.cfi.fr/en) |
-| UNESCO | [International Programme for the Development of Communication](https://en.unesco.org/programme/ipdc/) |
-| Pulitzer Center on Crisis Reporting | [Grants](https://pulitzercenter.org/grants) |
-| Thomson Foundation | [Media Training and Development](http://www.thomsonfoundation.org/) |
-| Poynter | [International Fact-Checking Network](https://www.poynter.org/ifcn/) |
-| Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/) |
-|  |  |
-
-#### Capacity Building
-
-| Organization | Fund |
-| :--- | :--- |
-| Creative Commons | [Community Activities Fund](https://creativecommons.org/2017/06/13/community-activities-fund/) |
-|   | [Bassel Khartabil Free Culture Fellowship](https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/) |
-| Open Knowledge International | [About](https://okfn.org/) |
-| Internet Freedom Festival \(IFF\) | [IFF Community Development Fellows Program](https://internetfreedomfestival.org/fellowship/) |
-| Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
-|    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
-| Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
-| Linux Foundation | [CommunityBridge](https://communitybridge.org/) |
-| Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
-| RIPE NCC  | [Community Projects Fund](https://www.ripe.net/support/cpf) |
-
-## Region-Specific
-
-| Organization | Fund |
-| :--- | :--- |
-| **Middle East** |   |
-| Arab Human Rights Fund \(AHRF\) | [Grants](https://www.ahrfund.org/grants/)  |
-| Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Standard grants](http://emhrf.org/standard-grants/) |
-| Department of State | [U.S.-Middle East Partnership Initiative \(MEPI\)](https://mepi.state.gov/funding-opportunities/) |
-|  |  |
-| **Asia-Pacific** |   |
-| Asian Forum for Human Rights and Development | [Human Rights Defenders Programme](https://www.forum-asia.org/?page_id=7538) |
-| Network of Chinese Human Rights Defenders \(CHRD\) | [About](https://www.nchrd.org/about-chinese-human-rights-defenders/) |
-| Information Society Innovation Fund Asia \(ISIF Asia\) | [About](https://isif.asia/about-isif-asia/) |
-|  |  |
-| **South and Latin America** |   |
-| Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
-| Open Society Foundation | [Latin America Program](https://www.opensocietyfoundations.org/grants/latin-america-program-grant) |
-|  |  |
-| **Africa** |   |
-| RAITH Foundation | [Funding ](http://www.raith.org.za/index.php/apply) |
-| Fund for Internet Research and Development \(FIRE Africa\) | [Grants](https://fireafrica.org/home) |
-|  |  |
-
 ## Social Justice and Global Challenges
 
 | Organization | Fund |
@@ -402,6 +316,107 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | MIT | [Solve](https://solve.mit.edu/) |
 | Skoll Global Threats Fund | [About](http://www.skollglobalthreats.org/about-us/activities/) |
 | Human Rights Funders Network | [Resources for Grantseekers](https://www.hrfn.org/resources-for-grantseekers/) |
+
+## Community
+
+#### Gender & LGBTQ
+
+| Organization | Fund |
+| :--- | :--- |
+| American Refugee Committee | [Gender-based Violence and Response](http://arcrelief.org/protection/) |
+| Astraea Lesbian Foundation for Justice | [Grants](https://www.astraeafoundation.org/apply/) |
+| Coalition of African Lesbians | [About](http://www.cal.org.za/) |
+| Governments of Indonesia and Australia | [Komnas Perempuan \(Indonesia's National Commission on Violence Against Women\)](http://mampu.or.id/uncategorized/komnas-perempuan/) |
+| Mediterranean Women's Fund | [Mediterranean Women’s Fund](http://www.medwomensfund.org/en/Presentation.html) |
+| Third Wave Fund | [Mobilize Power Fund](http://thirdwavefund.org/mobilize-power-fund.html) |
+| Women Living Under Muslim Laws | [About](http://www.wluml.org/) |
+| Women's Rehabilitation Center \(Nepal\) | [About](http://www.worecnepal.org/index.php) |
+|  Women Development Advocacy Center \(Nepal\) | [Digital Empowerment Fellowship](http://www.wdac.org.np/digital-empowerment-fellowship/) |
+| Freedom House | [Dignity for All: LGBTI Assistance Program](https://freedomhouse.org/program/dignity-all-lgbti-assistance-program) |
+| Womanity Foundation | [About](https://womanity.org/) |
+| Mama Cash | [Grants](https://www.mamacash.org/en/apply-for-a-grant-1) |
+| International Women's Media Foundation \(IWMF\) | [Emergency Fund](https://www.iwmf.org/programs/emergency-fund/) |
+|   | [Elizabeth Neuffer Fellowship](https://www.iwmf.org/programs/neuffer/) |
+|   | [Fund For Women Journalists](https://www.iwmf.org/programs/fund-for-women-journalists/) |
+|   | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
+| GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
+
+#### Journalism & Media
+
+| Organization | Fund |
+| :--- | :--- |
+| MacArthur Foundation | [Grants](https://www.macfound.org/info-grantseekers/grantmaking-guidelines/media-grant-guidelines/) |
+| Scripps Howard Foundation | [Grants](http://www.scripps.com/foundation/grants) |
+| Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/) |
+| Free Press Unlimited | [About](https://www.freepressunlimited.org/en) |
+| Media Development Investment Fund \(MDIF\) | [About](https://www.mdif.org/) |
+| Open Society Foundations | [Program on Independent Journalism](https://www.opensocietyfoundations.org/about/programs/independent-journalism) |
+| Reporters Without Borders \(RSF\) | [About](https://rsf.org/en/overviews) |
+| Rory Peck Trust | [Support for freelance journalists](https://rorypecktrust.org/) |
+| Social Science Research Council/Japan Foundation Center for Global Partnership | [Abe Fellowship for Journalists](https://www.ssrc.org/fellowships/view/abe-fellowship-for-journalists/) |
+| University of Toronto | [Fellowship in Global Journalism](https://munkschool.utoronto.ca/journalism/) |
+| Moment Magazine | [Daniel Pearl Investigative Journalism Initiative \(DPIJI\)](https://www.momentmag.com/the-daniel-pearl-investigative-journalism-initiative/) |
+| Mother Jones | [The Ben Bagdikian Fellowship Program](https://www.motherjones.com/jobs/fellowships/) |
+| Open Society Foundation | [Moving Walls Fellowship](https://www.opensocietyfoundations.org/grants/moving-walls-fellowship) |
+| University of Oxford | [Reuters Institute for the Study of Journalism](http://reutersinstitute.politics.ox.ac.uk/fellowships) |
+| World Press Institute \(WPI\) | [WPI Fellowship](https://worldpressinstitute.org/fellowships/) |
+| Radio Free Europe/Radio Liberty \(RFE/RL\) | [Vaclav Havel Journalism Fellowship](https://pressroom.rferl.org/p/6120.html) |
+| Dutch Journalism Fund | [About](https://www.svdj.nl/dutch-journalism-fund/) |
+| International Media Support | [About](https://www.mediasupport.org/what-we-do/) |
+| The Walkley Foundation | [Grants](https://www.walkleys.com/) |
+| French Ministry of Foreign Affairs and International Development \(CFI\) | [Media Development](http://www.cfi.fr/en) |
+| UNESCO | [International Programme for the Development of Communication](https://en.unesco.org/programme/ipdc/) |
+| Pulitzer Center on Crisis Reporting | [Grants](https://pulitzercenter.org/grants) |
+| Thomson Foundation | [Media Training and Development](http://www.thomsonfoundation.org/) |
+| Poynter | [International Fact-Checking Network](https://www.poynter.org/ifcn/) |
+| Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/) |
+
+#### Capacity Building
+
+| Organization | Fund |
+| :--- | :--- |
+| Creative Commons | [Community Activities Fund](https://creativecommons.org/2017/06/13/community-activities-fund/) |
+|   | [Bassel Khartabil Free Culture Fellowship](https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/) |
+| Open Knowledge International | [About](https://okfn.org/) |
+| Internet Freedom Festival \(IFF\) | [IFF Community Development Fellows Program](https://internetfreedomfestival.org/fellowship/) |
+| Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
+|    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
+| Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
+| Linux Foundation | [CommunityBridge](https://communitybridge.org/) |
+| Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
+| RIPE NCC  | [Community Projects Fund](https://www.ripe.net/support/cpf) |
+
+## Region-Specific
+
+#### Middle East
+
+| Organization | Fund |
+| :--- | :--- |
+| Arab Human Rights Fund \(AHRF\) | [Grants](https://www.ahrfund.org/grants/)  |
+| Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Standard grants](http://emhrf.org/standard-grants/) |
+| Department of State | [U.S.-Middle East Partnership Initiative \(MEPI\)](https://mepi.state.gov/funding-opportunities/) |
+
+#### Asia-Pacific
+
+| Organization | Fund |
+| :--- | :--- |
+| Asian Forum for Human Rights and Development | [Human Rights Defenders Programme](https://www.forum-asia.org/?page_id=7538) |
+| Network of Chinese Human Rights Defenders \(CHRD\) | [About](https://www.nchrd.org/about-chinese-human-rights-defenders/) |
+| Information Society Innovation Fund Asia \(ISIF Asia\) | [About](https://isif.asia/about-isif-asia/) |
+
+#### South and Latin America
+
+| Organization | Fund |
+| :--- | :--- |
+| Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
+| Open Society Foundation | [Latin America Program](https://www.opensocietyfoundations.org/grants/latin-america-program-grant) |
+
+#### Africa
+
+| Organization | Fund |
+| :--- | :--- |
+| RAITH Foundation | [Funding ](http://www.raith.org.za/index.php/apply) |
+| Fund for Internet Research and Development \(FIRE Africa\) | [Grants](https://fireafrica.org/home) |
 
 
 

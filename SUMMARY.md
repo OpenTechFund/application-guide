@@ -27,6 +27,7 @@
   * [Creating a More Inclusive, Diverse Community](more-about-the-program/creating-a-more-inclusive-diverse-community.md)
   * [Annual & Monthly Reports](more-about-the-program/annual-and-monthly-reports.md)
   * [Keep in Touch](more-about-the-program/keep-in-touch.md)
+  * [Common Ineligible Areas of Focus](more-about-the-program/common-ineligible-areas-of-focus.md)
   * [Alternative Support Sources](more-about-the-program/alternative-support-sources.md)
 * [FAQ](faq.md)
 * [Appendix I: Concept Note Considerations](appendix-i-concept-note-considerations.md)
