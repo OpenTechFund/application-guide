@@ -22,7 +22,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 * \*\*\*\*[**US Government Internet Freedom and Security**](appendix-iv-alternative-sources-of-support.md#us-government-internet-freedom-and-security)\*\*\*\*
 * \*\*\*\*[**Privacy and Security**](appendix-iv-alternative-sources-of-support.md#privacy-and-security)\*\*\*\*
 * \*\*\*\*[**Digital Rights**](appendix-iv-alternative-sources-of-support.md#digital-rights)\*\*\*\*
-* \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
+* \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-connectivity)\*\*\*\*
 * \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
 * \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
   * [Research](appendix-iv-alternative-sources-of-support.md#research)
