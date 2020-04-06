@@ -147,7 +147,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
 | Renewable Freedom Foundation | [Funding Sources List](https://renewablefreedom.org/grants/alternative-funding-sources/) |
 
-## **Information and Communications Technologies for Development \(ICT4D\) including Deploying Internet Access**
+## **Information and Communications Technologies for Development \(ICT4D\) including Deploying Internet Connectivity**
 
 | Organization | Fund |
 | :--- | :--- |
