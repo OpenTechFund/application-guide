@@ -8,7 +8,7 @@ description: >-
 
 The following table contains alternate funding sources which support efforts relevant to the fields of Internet freedom, software development, journalism, and human rights, broadly speaking. Sources are organized by general subject matter. We're always seeking to grow this resource and make it as useful and inclusive as possible, so if you know of a funding source that should be on here, please let us know by contacting us at hello@opentech.fund. 
 
-_Note: This list is shared for information purposes only. OTF cannot assist with fundraising efforts of individual projects or refer projects to specific funders. Inclusion of a funding entity on this list does not represent an endorsement by OTF or Radio Free Asia._
+_Note: This list is shared for information purposes only. OTF cannot assist with fundraising efforts of individual projects or refer projects to specific funders. Inclusion of a funding entity on this list does not represent an endorsement by OTF._
 
 {% hint style="info" %}
 **You can stay up to date on all OTF submission deadlines and open submissions windows for other alternative funders by joining the OTF-announce mailing list, where we send a monthly update on upcoming application deadlines.** [**Click here to join the OTF-announce mailing list**](https://groups.google.com/a/opentech.fund/forum/#!forum/otf-announce/join)**.**
