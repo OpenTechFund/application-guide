@@ -2,7 +2,7 @@
 
 OTF knows our applicants’ time is valuable so we aim to make our application process as transparent and straightforward as possible. Part of this also means being transparent about what we don’t fund so that applicants do not expend unnecessary time and resources submitting applications that fall outside of OTF’s remit. In order to better reflect our respect for an applicant’s time and effort in submitting an application, we have detailed below common types of proposed projects that we are unable or very rarely support. If your project falls within one of these categories, we encourage you to explore our alternative sources of support [resources](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) to identify a more suitable funder.
 
-\*\*\*\*[**Providing Internet Access**](../appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
+\*\*\*\*[**Providing Internet Connectivity**](../appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-access)\*\*\*\*
 
 OTF does not provide support for basic connectivity except in limited cases around politically instigated internet shutdowns. Numerous U.S. Government programs outside of OTF provide support for bringing Internet connectivity to areas that have never had it previously. The framework OTF operates within ensures a clear distinction exists to protect against overlapping mandates which is why we do not support projects of this nature.
 
