@@ -350,6 +350,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Ethics & Excellence Journalism Foundation | [Grants](https://inasmuchfoundation.org/) |
 | Free Press Unlimited | [About](https://www.freepressunlimited.org/en) |
 | Media Development Investment Fund \(MDIF\) | [About](https://www.mdif.org/) |
+| Google | [Journalism Emergency Relief Fund](https://newsinitiative.withgoogle.com/journalism-emergency-relief-fund/) |
 | Open Society Foundations | [Program on Independent Journalism](https://www.opensocietyfoundations.org/about/programs/independent-journalism) |
 | Reporters Without Borders \(RSF\) | [About](https://rsf.org/en/overviews) |
 | Rory Peck Trust | [Support for freelance journalists](https://rorypecktrust.org/) |
