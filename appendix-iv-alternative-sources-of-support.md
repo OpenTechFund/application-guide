@@ -43,6 +43,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund  |
 | :--- | :--- |
+| Internet Society Foundation | [Emergency Response Grant Programme: COVID-19](https://www.isocfoundation.org/grant-programme/emergency-response-grant-programme-covid19/) |
 | Digital Defenders Partnership | [Emergency Grants](https://www.digitaldefenders.org/sections/about-us/emergency-grants/) |
 | United Nations \(OCHA\) | [Central Emergency Response Fund \(CERF\)](https://cerf.un.org/apply-for-a-grant/rapid-response) |
 | Agir Ensemble pour les Droits de l'Homme \(AEDH\) | [Emergency Fund](http://www.aedh.org/en/home/what-we-do/emergency-fund-for-human-rights-defenders) |
@@ -135,8 +136,10 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund |
 | :--- | :--- |
-| Reset | [reset.tech](https://www.reset.tech/) |
+| Reset | [reset.tech](https://www.reset.tech/open-calls/) |
 | Mozilla | [Grants](https://www.mozilla.org/en-US/grants/) |
+| Digital Defenders Partnership | [Sustainable Protection Funding](https://www.digitaldefenders.org/funding/sustainable-protection-funding/) |
+|  | [Regional Partnership Funding](https://www.digitaldefenders.org/funding/regional-partnership-funding/) |
 | Freedom House | [Various Programs](https://freedomhouse.org/programs) |
 | Access Now | [Grants](https://www.accessnow.org/grants/) |
 | Sigrid Rausing Trust | [Grants](https://www.sigrid-rausing-trust.org/) |
