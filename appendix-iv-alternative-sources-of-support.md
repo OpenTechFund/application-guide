@@ -414,6 +414,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | :--- | :--- |
 | Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
 | Open Society Foundation | [Latin America Program](https://www.opensocietyfoundations.org/grants/latin-america-program-grant) |
+| Fund for Internet Strengthening in Latin America and the Caribbean | [FRIDA Funds](https://programafrida.net/en) |
 
 #### Africa
 
