@@ -44,7 +44,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Organization | Fund  |
 | :--- | :--- |
 | Internet Society Foundation | [Emergency Response Grant Programme: COVID-19](https://www.isocfoundation.org/grant-programme/emergency-response-grant-programme-covid19/) |
-| Digital Defenders Partnership | [Emergency Grants](https://www.digitaldefenders.org/sections/about-us/emergency-grants/) |
+| Digital Defenders Partnership | [Emergency Grants](https://www.digitaldefenders.org/funding/incident-emergency-funding/) |
 | United Nations \(OCHA\) | [Central Emergency Response Fund \(CERF\)](https://cerf.un.org/apply-for-a-grant/rapid-response) |
 | Agir Ensemble pour les Droits de l'Homme \(AEDH\) | [Emergency Fund](http://www.aedh.org/en/home/what-we-do/emergency-fund-for-human-rights-defenders) |
 | University of York Centre for Applied Human Rights | [Protective Fellowship Scheme](https://www.york.ac.uk/cahr/defenders/) |
@@ -55,7 +55,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Embattled CSOs \(Advocacy\)](https://www.csolifeline.org/advocacy-grants) |
 |   | [LGBTI Assistance Program](https://freedomhouse.org/program/dignity-all-lgbti-assistance-program) |
 | Urgent Action Fund for Women's Human Rights | [Rapid Response Grant](https://urgentactionfund.org/apply-for-a-grant/criteriado-i-fit/) |
-|   | [RR - Latin America & the Caribbean ](http://www.urgentactionfund-latinamerica.org/rapid-response-grants-c16i) |
 |   | [RR - Africa](https://urgentactionfund-africa.or.ke/en/apply-for-a-grant/) |
 | Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Urgent Grants](http://emhrf.org/urgent-grants/) |
 | Justice and Peace Netherlands | [Shelter City](%20https://www.justiceandpeace.nl/shelter-city/) |
@@ -73,8 +72,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Organization | Fund |
 | :--- | :--- |
 | Free Press Unlimited | [Reporters Respond](https://www.freepressunlimited.org/en/projects/reporters-respond-emergency-funding-for-the-media) |
-| International Federation of Journalists \(IFJ\) | [IFJ Safety Fund](http://ifj-safety.org/en/contents/the-ifj-safety-fund) |
-| Doha Centre for Media Freedom | [Media Assistance](http://www.dc4mf.org/en/programmes/assistance/advocacy/) |
+| International Federation of Journalists \(IFJ\) | [IFJ Safety Fund](https://www.ifj.org/safety-fund.html) |
 | Canadian Journalists for Free Expression \(CJFE\) | [Journalists in Distress Fund](https://www.cjfe.org/journalists_in_distress_fund) |
 | International Women's Media Foundation \(IWMF\) | [IWMF Emergency Fund](https://www.iwmf.org/programs/emergency-fund/) |
 | La Maison Des Journalistes | [Assistance](http://www.maisondesjournalistes.org/) |
@@ -103,8 +101,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |  Organization |  Fund |
 | :--- | :--- |
 | Department of State | [Bureau of Democracy, Human Rights, and Labor \(DRL\)](https://www.state.gov/j/drl/p/c12302.htm) |
-| U.S. Agency for Global Media \(USAGM\) | [Office of Internet Freedom \(OIF\)](https://www.usagm.gov/worldwide-operations/office-internet-freedom/) |
-| ISC Project | [Information security and Internet freedom grants ](https://iscproject.org/request-funding/) |
+| ISC Project | [Information security and Internet freedom grants ](https://www.iscproject.org/) |
 | National Science Foundation \(NSF\) | [Secure and Trustworthy Cyberspace \(SaTC\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504709) |
 |   | [Computer Systems Research \(CSR\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503306&org=CNS&from=home) |
 | Department of Homeland Security \(DHS\) | [Cyber Security Solicitations](https://baa2.st.dhs.gov/portal/public/PublicSolicitation_retrieveCurrentSolicitation) |
@@ -129,7 +126,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Core Infrastructure Initiative | [Grants](https://www.coreinfrastructure.org/programs/assistance-program/) |
 | Open Source Technology Improvement Fund \(OSTIF\) | [Grants](https://ostif.org/) |
 | AirVPN | [Project Support](https://airvpn.org/mission/) |
-| Network of Excellence in Internet Science | [Network of Excellence in Internet Science](http://www.internet-science.eu/) |
 | Library Freedom Project | [Library Freedom Institute](https://libraryfreedom.org/index.php/lfi/) |
 
 ## Digital Rights
@@ -301,7 +297,6 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Humanity United | [Grants](https://humanityunited.org/grants/) |
 | Oak Foundation | [International Human Rights](http://oakfnd.org/international-human-rights.html) |
 | Open Society Foundations | [Human Rights Initiative](https://www.opensocietyfoundations.org/about/programs/human-rights-initiative) |
-| Nexus Fund | [Grants](https://www.nexus-fund.org/) |
 | Overbrook Foundation | [Human Rights Defenders](https://www.overbrook.org/human-rights-defenders) |
 | Hewlett Foundation | [About](https://hewlett.org/) |
 | Fund for Global Human Rights | [Grants](https://globalhumanrights.org/grants/types-of-grant/) |
@@ -319,6 +314,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | MIT | [Solve](https://solve.mit.edu/) |
 | Skoll Global Threats Fund | [About](http://www.skollglobalthreats.org/about-us/activities/) |
 | Human Rights Funders Network | [Resources for Grantseekers](https://www.hrfn.org/resources-for-grantseekers/) |
+| The Hague Institute for Innovation of Law | [Supporting Justice Innovation](https://www.hiil.org/what-we-do/the-justice-accelerator/)  |
 
 ## Community
 
@@ -343,6 +339,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 |   | [Fund For Women Journalists](https://www.iwmf.org/programs/fund-for-women-journalists/) |
 |   | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
 | GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
+| FRIDA | [The Young Feminist Fund](http://apply.youngfeministfund.org/) |
 
 #### Journalism & Media
 
@@ -374,6 +371,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Thomson Foundation | [Media Training and Development](http://www.thomsonfoundation.org/) |
 | Poynter | [International Fact-Checking Network](https://www.poynter.org/ifcn/) |
 | Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/) |
+| DW Akademie | [Media Development](https://www.dw.com/en/dw-akademie/media-development/s-12120) |
+| Journalists for Human Rights | [About](https://jhr.ca/about) |
+| BBC Media Action  | [About](https://www.bbc.co.uk/mediaaction/about) |
 
 #### Capacity Building
 
