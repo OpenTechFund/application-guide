@@ -14,7 +14,7 @@ description: >-
 
 ### [Rapid Response Fund](rapid-response-fund.md) - fast support for urgent digital emergencies
 
-### [Community Prototype Fund](https://guide.opentech.fund/our-funds-and-fellowships/community-prototype-fund) - supporting the rapid development of innovative Internet freedom technology prototypes that serve the immediate needs of the Internet freedom and human rights communities
+### [Community Prototype Fund](community-prototype-fund.md) - supporting the rapid development of innovative Internet freedom technology prototypes that serve the immediate needs of the Internet freedom and human rights communities
 {% endtab %}
 
 {% tab title="Fellowships" %}
