@@ -12,7 +12,7 @@ description: >-
 
 * Where is the organization physically and legally based? 
 * If the organization is distributed, where is the main point of contact? 
-* Does the organization have any conflicts of interest with RFA, OTF, the Advisory Council, or other RFA-OTF projects? 
+* Does the organization have any conflicts of interest with OTF, the Advisory Council, or other OTF projects? 
 * Is the project team an organization, community or an individual?
 
 #### Organizational Culture
