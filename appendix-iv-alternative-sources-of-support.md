@@ -44,6 +44,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Organization | Fund  |
 | :--- | :--- |
 | Internet Society Foundation | [Emergency Response Grant Programme: COVID-19](https://www.isocfoundation.org/grant-programme/emergency-response-grant-programme-covid19/) |
+| FOSS Responders | [COVID-19 Emergency Funds](https://fossresponders.com/) |
 | Digital Defenders Partnership | [Emergency Grants](https://www.digitaldefenders.org/funding/incident-emergency-funding/) |
 | United Nations \(OCHA\) | [Central Emergency Response Fund \(CERF\)](https://cerf.un.org/apply-for-a-grant/rapid-response) |
 | Agir Ensemble pour les Droits de l'Homme \(AEDH\) | [Emergency Fund](http://www.aedh.org/en/home/what-we-do/emergency-fund-for-human-rights-defenders) |
@@ -412,7 +413,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund |
 | :--- | :--- |
-| Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/en/about-us/) |
+| Indela \(Initiative for digital rights in Latin America\) | [About](https://indela.fund/) |
 | Open Society Foundation | [Latin America Program](https://www.opensocietyfoundations.org/grants/latin-america-program-grant) |
 | Fund for Internet Strengthening in Latin America and the Caribbean | [FRIDA Funds](https://programafrida.net/en) |
 
