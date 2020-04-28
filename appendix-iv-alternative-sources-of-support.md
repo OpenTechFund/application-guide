@@ -43,6 +43,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund  |
 | :--- | :--- |
+| The Social Science Research Council | [Rapid-Response Grants on Covid-19 and the Social Sciences](https://covid19research.ssrc.org/rapid-response-grants-on-covid-19-and-the-social-sciences/) |
 | Internet Society Foundation | [Emergency Response Grant Programme: COVID-19](https://www.isocfoundation.org/grant-programme/emergency-response-grant-programme-covid19/) |
 | FOSS Responders | [COVID-19 Emergency Funds](https://fossresponders.com/) |
 | Digital Defenders Partnership | [Emergency Grants](https://www.digitaldefenders.org/funding/incident-emergency-funding/) |
