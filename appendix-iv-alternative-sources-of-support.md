@@ -218,6 +218,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 | Organization | Fund |
 | :--- | :--- |
+| The Social Science Research Council | [Social Data Research and Dissertation Fellowships](https://www.ssrc.org/fellowships/view/social-data-research-and-dissertation-fellowships/) |
 | National Science Foundation \(NSF\) | [Graduate Research Opportunities Worldwide \(GROW\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) |
 |   | [Graduate Research Fellowship Program](https://www.nsfgrfp.org/) |
 | The Horowitz Foundation for Social Policy | [Grants for current PhD candidates](https://www.horowitz-foundation.org/) |
