@@ -100,7 +100,7 @@ OTF places high priority on funding tools that are open-source and freely availa
 {% hint style="info" %}
 ### Does OTF support overhead costs?
 
-OTF generally does not support standalone costs which are not directly associated with the completion of contractually stated objectives or deliverables. In the very limited instances where OTF determines that an overhead cost is permissible, such costs cannot be greater than 10% of the overall project cost. More information can be found [here under the "Overhead" section](https://www.opentech.fund/about/applying).
+OTF generally does not support standalone costs which are not directly associated with the completion of contractually stated objectives or deliverables. In the very limited instances where OTF determines that an overhead cost is permissible, such costs cannot be greater than 10% of the overall project cost. More information can be found [here under the "Overhead" section](https://guide.opentech.fund/general-funding-guidelines#overhead-costs).
 {% endhint %}
 
 {% hint style="info" %}
