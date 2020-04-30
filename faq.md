@@ -4,6 +4,8 @@ description: Frequently Asked Questions
 
 # FAQ
 
+
+
 {% hint style="info" %}
 ### **What types of efforts does OTF support?**
 
@@ -39,7 +41,7 @@ OTF supports both individuals and projects through several different funding mec
 {% hint style="info" %}
 ### Does my project sound like something OTF would support?
 
-OTF encourages any potential applicant to first explore OTF’s [**mission, goals, and primary focus areas**](https://www.opentech.fund/about/program). If it sounds like your project might be a good fit, you’ll want to identify which [**fund or fellowship**](https://www.opentech.fund/funding) is most appropriate for you. From there, submitting a concept note is the best next step.
+OTF encourages any potential applicant to first explore OTF’s [**mission, goals, and primary focus areas**](https://www.opentech.fund/about/program). If it sounds like your project might be a good fit, you’ll want to identify which [**fund or fellowship**](https://www.opentech.fund/funds/) is most appropriate for you. From there, submitting a concept note is the best next step.
 {% endhint %}
 
 {% hint style="info" %}
