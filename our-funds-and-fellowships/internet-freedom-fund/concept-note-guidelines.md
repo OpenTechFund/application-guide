@@ -18,14 +18,16 @@ We are looking for a short and clear description of the problem you are trying t
 
 ## How will you address this problem?
 
-The projects and people we support all fall into one or more of the following categories: research, development, and implementation. Some straddle the line between two of these categories, and some even touch on all three.
+The projects and people we support all fall into one or more of the following categories: applied research, developing technology, deploying technology and training.
+
+Some projects fall into two categories, and some even all four.
 
 * **Applied research**: Threats to Internet freedom are constantly evolving. OTF-supported research projects are advancing research into repressive Internet interference on modern communication networks and/or the methodologies and technologies that can best circumvent that interference. Research should be applied - that is, with direct feedback, insight, or applicability to the technology development process.
 * **Developing technology**: Technology development. OTF-supported development efforts are building a tool, whether it’s in alpha, beta, or live form. The tool should enable those in repressive environments to circumvent censorship, avoid surveillance, or otherwise increase users’ capacity to access information and communicate safety in some way.
-* **Implementation**: Getting Internet freedom tools into the hands of those who need them most. OTF-supported implementation efforts are enabling the widespread adoption and use of these tools among target audiences - those living in repressive environments and/or experiencing invasive censorship and surveillance.
+* **Deploying technology**: Getting Internet freedom tools into the hands of those who need them most. OTF-supported deployment and implementation efforts are enabling the widespread adoption and use of these tools among target audiences - those living in repressive environments and/or experiencing invasive censorship and surveillance.
 * **Training:** OTF supports digital security trainings when their focus conforms to the guidance provided in the digital security capacity building section. Training is also part of an effective and responsible technology deployment.  
 
-## Describe how you expect to achieve these goals.
+## Give a brief overview of he activities in this project.
 
 _Briefly list key milestones and activities you will carry out._
 
@@ -33,11 +35,13 @@ We are looking for an overview of the activities you are planning for the fundin
 
 ## How does this match the OTF Mission?
 
-The projects and people we support all work to increase one or more of the following: access, awareness, privacy, and security. Many projects we support fall under two or more of these categories. Here’s what we mean when we use these terms:
+The projects and people we support all work to increase one or more of the following: access, awareness, privacy, and security. Many projects we support fall into two or more of these categories.   
+  
+Here’s what we mean when we use these terms:
 
 * **Access**: to the internet, including tools to circumvent website blocks, connection blackouts, and widespread censorship.
-* **Awareness**: of access, privacy, or security threats and protective measures, including how-to guides, instructional apps, data collection platforms, and other efforts that increase the efficacy of Internet freedom tools.
 * **Privacy**: enhancement, including the ability to be free from repressive observation and the option to be anonymous when accessing the internet.
+* **Awareness**: of access, privacy, or security threats and protective measures, including how-to guides, instructional apps, data collection platforms, and other efforts that increase the efficacy of Internet freedom tools.
 * **Security**: from danger or threat when accessing the internet, including encryption tools.
 
 ## Are there similar projects that exist already? How is your project different or complementary to those projects?
@@ -69,7 +73,7 @@ _This estimate may be revised if a full proposal is required._
 
 We are looking for a rough estimate of the funding amount. If you are invited to make a full funding proposal, this figure will be reviewed and can be revised.
 
-## Please describe how you think the budget will be spent.
+## Describe how you think the budget will be spent.
 
 _This estimate may be revised if a full proposal is required._
 
@@ -104,7 +108,7 @@ We will use this name as the point of contact for this application. You can use 
 
 ## What email address should we use to contact you?
 
-This email address will be used to communicate with you about your Concept Note.
+This email address will be used to receive all notifications and updates, and communicate about your project concept note.
 
 ## How many people do you expect will be a part of this project?
 
