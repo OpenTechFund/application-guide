@@ -8,7 +8,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Funds" %}
-### [Internet Freedom Fund](internet-freedom-fund.md) - OTF's flagship funding mechanism
+### [Internet Freedom Fund](internet-freedom-fund/) - OTF's flagship funding mechanism
 
 ### [Core Infrastructure Fund](core-infrastructure-fund.md) - supporting the development and maintenance of essential 'building block' Internet freedom technologies
 
