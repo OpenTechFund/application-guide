@@ -27,7 +27,7 @@ Some projects fall into two categories, and some even all four.
 * **Deploying technology**: Getting Internet freedom tools into the hands of those who need them most. OTF-supported deployment and implementation efforts are enabling the widespread adoption and use of these tools among target audiences - those living in repressive environments and/or experiencing invasive censorship and surveillance.
 * **Training:** OTF supports digital security trainings when their focus conforms to the guidance provided in the digital security capacity building section. Training is also part of an effective and responsible technology deployment.  
 
-## Give a brief overview of he activities in this project.
+## Give a brief overview of the activities in this project.
 
 _Briefly list key milestones and activities you will carry out._
 
