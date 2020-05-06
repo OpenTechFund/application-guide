@@ -44,6 +44,10 @@ Here’s what we mean when we use these terms:
 * **Awareness**: of access, privacy, or security threats and protective measures, including how-to guides, instructional apps, data collection platforms, and other efforts that increase the efficacy of Internet freedom tools.
 * **Security**: from danger or threat when accessing the internet, including encryption tools.
 
+{% hint style="info" %}
+OTF does not support projects working on Internet connectivity, ICT4D, legal analysis or policy advocacy. Read more about our [common ineligible areas of focus](../../more-about-the-program/common-ineligible-areas-of-focus.md).
+{% endhint %}
+
 ## Are there similar projects that exist already? How is your project different or complementary to those projects?
 
 Provide links to websites, software repositories, articles about projects that are similar to yours.
