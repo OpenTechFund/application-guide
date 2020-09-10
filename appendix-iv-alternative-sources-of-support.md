@@ -6,7 +6,7 @@ description: >-
 
 # Appendix IV: Alternative Sources of Support
 
-The following table contains alternate funding sources which support efforts relevant to the fields of Internet freedom, software development, journalism, and human rights, broadly speaking. Sources are organized by general subject matter. We're always seeking to grow this resource and make it as useful and inclusive as possible, so if you know of a funding source that should be on here, please let us know by contacting us at hello@opentech.fund. 
+The following table contains alternate funding sources which support efforts relevant to the fields of Internet freedom, software development, journalism, and human rights, broadly speaking. Sources are organized by general subject matter. We're always seeking to grow this resource and make it as useful and inclusive as possible, so if you know of a funding source that should be on here, please let us know by contacting us at hello@opentech.fund.
 
 _Note: This list is shared for information purposes only. OTF cannot assist with fundraising efforts of individual projects or refer projects to specific funders. Inclusion of a funding entity on this list does not represent an endorsement by OTF._
 
@@ -41,7 +41,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 ## Rapid Response
 
-| Organization | Fund  |
+| Organization | Fund |
 | :--- | :--- |
 | Access Now | [Digital Security Helpline - Access Now](https://www.accessnow.org/help/) |
 | The Social Science Research Council | [Rapid-Response Grants on Covid-19 and the Social Sciences](https://covid19research.ssrc.org/rapid-response-grants-on-covid-19-and-the-social-sciences/) |
@@ -54,13 +54,13 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | International Media Support | [Safety Fund](https://www.mediasupport.org/about/safety-fund/) |
 | International Federation for Human Rights \(FIDH\) | [Grants for HRDs at Risk](https://www.fidh.org/en/issues/human-rights-defenders/financial-support/grant-application-for-human-rights-defenders-at-risk) |
 | Freedom House | [Emergency Assistance to Frontline Activists](https://freedomhouse.org/program/emergency-assistance-programs) |
-|   | [Embattled CSOs \(Emergency\)](https://www.csolifeline.org/emergency-assistance) |
-|   | [Embattled CSOs \(Advocacy\)](https://www.csolifeline.org/advocacy-grants) |
-|   | [LGBTI Assistance Program](https://freedomhouse.org/program/dignity-all-lgbti-assistance-program) |
+|  | [Embattled CSOs \(Emergency\)](https://www.csolifeline.org/emergency-assistance) |
+|  | [Embattled CSOs \(Advocacy\)](https://www.csolifeline.org/advocacy-grants) |
+|  | [LGBTI Assistance Program](https://freedomhouse.org/program/dignity-all-lgbti-assistance-program) |
 | Urgent Action Fund for Women's Human Rights | [Rapid Response Grant](https://urgentactionfund.org/apply-for-a-grant/criteriado-i-fit/) |
-|   | [RR - Africa](https://urgentactionfund-africa.or.ke/en/apply-for-a-grant/) |
+|  | [RR - Africa](https://urgentactionfund-africa.or.ke/en/apply-for-a-grant/) |
 | Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Urgent Grants](http://emhrf.org/urgent-grants/) |
-| Justice and Peace Netherlands | [Shelter City](%20https://www.justiceandpeace.nl/shelter-city/) |
+| Justice and Peace Netherlands | [Shelter City](https://github.com/OpenTechFund/application-guide/tree/b0176ee1522f83d9fa51e5264626b0b2d21ad130/shelter-city/README.md) |
 | Frontline Defenders | [Protection Grants](https://www.frontlinedefenders.org/en/programme/protection-grants) |
 | ProtectDefenders.eu | [Emergency Support](https://www.protectdefenders.eu/en/supporting-defenders.html#) |
 | World Organisation Against Torture | [Emergency HRD Support](http://www.omct.org/human-rights-defenders/links/2015/10/d23598/) |
@@ -70,7 +70,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Defend Defenders | [East and Horn of Africa](https://defenddefenders.org/get-help/) |
 | The Guatemala Human Rights Commission \(GHRC\) | [Human Rights Defenders Fund](http://www.ghrc-usa.org/our-work/support-for-human-rights-defenders/) |
 
-#### Rapid Response for Journalists & Scholars
+### Rapid Response for Journalists & Scholars
 
 | Organization | Fund |
 | :--- | :--- |
@@ -88,7 +88,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | International Cities of Refuge Network \(ICORN\) | [Writers/Artists at Risk](https://icorn.org/application-guide-writers-and-artists-risk) |
 | Institute of International Education | [Fellowships for Threatened Scholars Around the World](http://scholarrescuefund.org/) |
 
-#### In-Kind Digital Infrastructure 
+### In-Kind Digital Infrastructure
 
 | Organization | Fund |
 | :--- | :--- |
@@ -101,26 +101,26 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 ## US Government Internet Freedom and Security
 
-|  Organization |  Fund |
+| Organization | Fund |
 | :--- | :--- |
 | Department of State | [Bureau of Democracy, Human Rights, and Labor \(DRL\)](https://www.state.gov/j/drl/p/c12302.htm) |
 | ISC Project | [Information security and Internet freedom grants ](https://www.iscproject.org/) |
 | National Science Foundation \(NSF\) | [Secure and Trustworthy Cyberspace \(SaTC\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504709) |
-|   | [Computer Systems Research \(CSR\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503306&org=CNS&from=home) |
+|  | [Computer Systems Research \(CSR\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503306&org=CNS&from=home) |
 | Department of Homeland Security \(DHS\) | [Cyber Security Solicitations](https://baa2.st.dhs.gov/portal/public/PublicSolicitation_retrieveCurrentSolicitation) |
 
-## Privacy and Security 
+## Privacy and Security
 
 | Organization | Fund |
 | :--- | :--- |
 | Mozilla Foundation | [Mozilla Open Source Support \(MOSS\)](https://wiki.mozilla.org/MOSS) |
-|   | [MOSS - Foundational Technology](https://wiki.mozilla.org/MOSS/Foundational_Technology) |
-|   | [MOSS - Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners) |
-|   | [MOSS - Secure Open Source ](https://wiki.mozilla.org/MOSS/Secure_Open_Source) |
+|  | [MOSS - Foundational Technology](https://wiki.mozilla.org/MOSS/Foundational_Technology) |
+|  | [MOSS - Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners) |
+|  | [MOSS - Secure Open Source ](https://wiki.mozilla.org/MOSS/Secure_Open_Source) |
 | NLNet Foundation | [Open Call - Network and Internet Technology](https://nlnet.nl/news/2017/20170201-call-en.html) |
-|   | [Internet Hardening Fund](https://nlnet.nl/internethardening/) |
-|   | [Standards in Real-Time Communication](https://nlnet.nl/realtime/) |
-|   | [DNSSEC Fund](https://nlnet.nl/dnssec/) |
+|  | [Internet Hardening Fund](https://nlnet.nl/internethardening/) |
+|  | [Standards in Real-Time Communication](https://nlnet.nl/realtime/) |
+|  | [DNSSEC Fund](https://nlnet.nl/dnssec/) |
 | Prototype Fund | [Open Source Project Support \(Germany\)](https://prototypefund.de/en/) |
 | Facebook | [Secure the Internet Grants](https://research.fb.com/programs/research-awards/proposals/secure-the-internet-grants/) |
 | Facebook | [Research Awards](https://research.fb.com/programs/research-awards/) |
@@ -146,8 +146,9 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Ford Foundation | [Internet Freedom](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/) |
 | Media Democracy Fund | [Grants](http://mediademocracyfund.org/) |
 | Democracy Council | [About](http://demcouncil.org/?page_id=572) |
-|  American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
+| American Council of Learned Societies \(ACLS\) | [Digital Extension Grants](https://www.acls.org/programs/digitalextension/) |
 | Renewable Freedom Foundation | [Funding Sources List](https://renewablefreedom.org/grants/alternative-funding-sources/) |
+| Digital Freedom Fund | [Grants](https://digitalfreedomfund.org/grants/) |
 
 ## **Information and Communications Technologies for Development \(ICT4D\) including Deploying Internet Connectivity**
 
@@ -160,7 +161,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Comcast | [Innovation Fund](http://innovationfund.comcast.com/) |
 | Internet Society | [Grants & Awards](https://www.internetsociety.org/grants-and-awards) |
 | U.S. Agency for International Development \(USAID\) | [Partnership Opportunities](https://www.usaid.gov/work-usaid/partnership-opportunities/search-for-opportunities) |
-|   | [Development Innovation Ventures \(DIV\)](https://www.usaid.gov/div) |
+|  | [Development Innovation Ventures \(DIV\)](https://www.usaid.gov/div) |
 | OpenCellular | [OpenCellular Grants](http://oc.telecominfraproject.com/opencellular-grant-program/) |
 | Catholic Relief Services | [ICT4D](https://www.crs.org/our-work-overseas/ict4d) |
 | CRDF Global | [Grants](https://www.crdfglobal.org/grants/funding-opportunities) |
@@ -211,17 +212,17 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Snap, Inc. | [Yellow](https://www.yellowla.com/about) |
 | The Thiel Foundation | [The Thiel Fellowship](http://thielfellowship.org/) |
 | Samsung | [Samsung Next](https://samsungnext.com/) |
-| Comcast NBCUniversal  | [LIFT Labs](https://lift.comcast.com/) |
+| Comcast NBCUniversal | [LIFT Labs](https://lift.comcast.com/) |
 
 ## Fellowships
 
-#### Research
+### Research
 
 | Organization | Fund |
 | :--- | :--- |
 | The Social Science Research Council | [Social Data Research and Dissertation Fellowships](https://www.ssrc.org/fellowships/view/social-data-research-and-dissertation-fellowships/) |
 | National Science Foundation \(NSF\) | [Graduate Research Opportunities Worldwide \(GROW\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) |
-|   | [Graduate Research Fellowship Program](https://www.nsfgrfp.org/) |
+|  | [Graduate Research Fellowship Program](https://www.nsfgrfp.org/) |
 | The Horowitz Foundation for Social Policy | [Grants for current PhD candidates](https://www.horowitz-foundation.org/) |
 | Alfred P. Sloan Foundation | [Sloan Research Fellowships](https://sloan.org/fellowships/) |
 | Tinker Foundation Incorporated | [Field Research Grants](https://www.tinker.org/content/field-research-grants) |
@@ -232,7 +233,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Venture for America \(VFA\) | [VFA Fellowship](https://ventureforamerica.org/apply/) |
 | Azavea | [Summer of Maps](https://www.summerofmaps.com/) |
 
-#### Policy & Advocacy
+### Policy & Advocacy
 
 | Organization | Fund |
 | :--- | :--- |
@@ -291,7 +292,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Swedish International Development Agency \(Sida\) | [Research Calls and Grants](https://www.sida.se/English/partners/resources-for-all-partners/Calls-and-announcements/) |
 | European Commission | [Digital Single Market Funding](https://ec.europa.eu/digital-single-market/en/newsroom-agenda/funding-opportunity) |
 | Open Society Foundations | [Information Program](https://www.opensocietyfoundations.org/about/programs/information-program/) |
-|   | [Grants](https://www.opensocietyfoundations.org/grants) |
+|  | [Grants](https://www.opensocietyfoundations.org/grants) |
 | Finland Ministry of Foreign Affairs | [INGO Support](https://um.fi/support-for-international-non-governmental-organizations-ingos-) |
 | Norwegian Agency for Development Cooperation \(Norad\) | [Grants](https://www.norad.no/en/front/funding/) |
 | Enabel \(Belgian Development Agency\) | [Grants](https://www.enabel.be/) |
@@ -318,11 +319,11 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | MIT | [Solve](https://solve.mit.edu/) |
 | Skoll Global Threats Fund | [About](http://www.skollglobalthreats.org/about-us/activities/) |
 | Human Rights Funders Network | [Resources for Grantseekers](https://www.hrfn.org/resources-for-grantseekers/) |
-| The Hague Institute for Innovation of Law | [Supporting Justice Innovation](https://www.hiil.org/what-we-do/the-justice-accelerator/)  |
+| The Hague Institute for Innovation of Law | [Supporting Justice Innovation](https://www.hiil.org/what-we-do/the-justice-accelerator/) |
 
 ## Community
 
-#### Gender & LGBTQ
+### Gender & LGBTQ
 
 | Organization | Fund |
 | :--- | :--- |
@@ -334,18 +335,18 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Third Wave Fund | [Mobilize Power Fund](http://thirdwavefund.org/mobilize-power-fund.html) |
 | Women Living Under Muslim Laws | [About](http://www.wluml.org/) |
 | Women's Rehabilitation Center \(Nepal\) | [About](http://www.worecnepal.org/index.php) |
-|  Women Development Advocacy Center \(Nepal\) | [Digital Empowerment Fellowship](http://www.wdac.org.np/digital-empowerment-fellowship/) |
+| Women Development Advocacy Center \(Nepal\) | [Digital Empowerment Fellowship](http://www.wdac.org.np/digital-empowerment-fellowship/) |
 | Freedom House | [Dignity for All: LGBTI Assistance Program](https://freedomhouse.org/program/dignity-all-lgbti-assistance-program) |
 | Womanity Foundation | [About](https://womanity.org/) |
 | Mama Cash | [Grants](https://www.mamacash.org/en/apply-for-a-grant-1) |
 | International Women's Media Foundation \(IWMF\) | [Emergency Fund](https://www.iwmf.org/programs/emergency-fund/) |
-|   | [Elizabeth Neuffer Fellowship](https://www.iwmf.org/programs/neuffer/) |
-|   | [Fund For Women Journalists](https://www.iwmf.org/programs/fund-for-women-journalists/) |
-|   | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
+|  | [Elizabeth Neuffer Fellowship](https://www.iwmf.org/programs/neuffer/) |
+|  | [Fund For Women Journalists](https://www.iwmf.org/programs/fund-for-women-journalists/) |
+|  | [Kim Wall Memorial Fund](https://www.iwmf.org/programs/kim-wall-memorial-fund/) |
 | GiveOut | [The Suki Sandhu LGBTQI Asia Fund](https://giveout.org/asia-fund-news/) |
 | FRIDA | [The Young Feminist Fund](http://apply.youngfeministfund.org/) |
 
-#### Journalism & Media
+### Journalism & Media
 
 | Organization | Fund |
 | :--- | :--- |
@@ -377,34 +378,34 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Stanford University | [John S. Knight Journalism Fellowships](https://jsk.stanford.edu/) |
 | DW Akademie | [Media Development](https://www.dw.com/en/dw-akademie/media-development/s-12120) |
 | Journalists for Human Rights | [About](https://jhr.ca/about) |
-| BBC Media Action  | [About](https://www.bbc.co.uk/mediaaction/about) |
+| BBC Media Action | [About](https://www.bbc.co.uk/mediaaction/about) |
 
-#### Capacity Building
+### Capacity Building
 
 | Organization | Fund |
 | :--- | :--- |
 | Creative Commons | [Community Activities Fund](https://creativecommons.org/2017/06/13/community-activities-fund/) |
-|   | [Bassel Khartabil Free Culture Fellowship](https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/) |
+|  | [Bassel Khartabil Free Culture Fellowship](https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/) |
 | Open Knowledge International | [About](https://okfn.org/) |
 | Internet Freedom Festival \(IFF\) | [IFF Community Development Fellows Program](https://internetfreedomfestival.org/fellowship/) |
 | Digital Impact Alliance \(DIAL\) | [Open Source Center Strategic Grants](https://www.osc.dial.community/stratagrant.html) |
-|    | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
+|  | [Open Source Center Catalytic Grants](https://www.osc.dial.community/catagrant.html) |
 | Arcadia Fund | [Open Access Grants](https://www.arcadiafund.org.uk/grants/open-access/) |
 | Linux Foundation | [CommunityBridge](https://communitybridge.org/) |
 | Software Freedom Conservancy | [Project Funding](https://sfconservancy.org/projects/apply/) |
-| RIPE NCC  | [Community Projects Fund](https://www.ripe.net/support/cpf) |
+| RIPE NCC | [Community Projects Fund](https://www.ripe.net/support/cpf) |
 
 ## Region-Specific
 
-#### Middle East
+### Middle East
 
 | Organization | Fund |
 | :--- | :--- |
-| Arab Human Rights Fund \(AHRF\) | [Grants](https://www.ahrfund.org/grants/)  |
+| Arab Human Rights Fund \(AHRF\) | [Grants](https://www.ahrfund.org/grants/) |
 | Euro-Mediterranean Foundation of Support to Human Rights Defenders \(EMHRF\) | [Standard grants](http://emhrf.org/standard-grants/) |
 | Department of State | [U.S.-Middle East Partnership Initiative \(MEPI\)](https://mepi.state.gov/funding-opportunities/) |
 
-#### Asia-Pacific
+### Asia-Pacific
 
 | Organization | Fund |
 | :--- | :--- |
@@ -412,7 +413,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Network of Chinese Human Rights Defenders \(CHRD\) | [About](https://www.nchrd.org/about-chinese-human-rights-defenders/) |
 | Information Society Innovation Fund Asia \(ISIF Asia\) | [About](https://isif.asia/about-isif-asia/) |
 
-#### South and Latin America
+### South and Latin America
 
 | Organization | Fund |
 | :--- | :--- |
@@ -420,12 +421,10 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Open Society Foundation | [Latin America Program](https://www.opensocietyfoundations.org/grants/latin-america-program-grant) |
 | Fund for Internet Strengthening in Latin America and the Caribbean | [FRIDA Funds](https://programafrida.net/en) |
 
-#### Africa
+### Africa
 
 | Organization | Fund |
 | :--- | :--- |
 | RAITH Foundation | [Funding ](http://www.raith.org.za/index.php/apply) |
 | Fund for Internet Research and Development \(FIRE Africa\) | [Grants](https://fireafrica.org/home) |
-
-
 
