@@ -16,24 +16,24 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 
 ## Categories
 
-* \*\*\*\*[**Rapid Response**](appendix-iv-alternative-sources-of-support.md#rapid-response)\*\*\*\*
-  * \*\*\*\*[Rapid Response for Journalists & Scholars](appendix-iv-alternative-sources-of-support.md#rapid-response-for-journalists-and-scholars)
+* [**Rapid Response**](appendix-iv-alternative-sources-of-support.md#rapid-response)
+  * [Rapid Response for Journalists & Scholars](appendix-iv-alternative-sources-of-support.md#rapid-response-for-journalists-and-scholars)
   * [In-Kind Digital Infrastructure](appendix-iv-alternative-sources-of-support.md#in-kind-digital-infrastructure)
-* \*\*\*\*[**US Government Internet Freedom and Security**](appendix-iv-alternative-sources-of-support.md#us-government-internet-freedom-and-security)\*\*\*\*
-* \*\*\*\*[**Privacy and Security**](appendix-iv-alternative-sources-of-support.md#privacy-and-security)\*\*\*\*
-* \*\*\*\*[**Digital Rights**](appendix-iv-alternative-sources-of-support.md#digital-rights)\*\*\*\*
-* \*\*\*\*[**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-connectivity)\*\*\*\*
-* \*\*\*\*[**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)\*\*\*\*
-* \*\*\*\*[**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)\*\*\*\*
+* [**US Government Internet Freedom and Security**](appendix-iv-alternative-sources-of-support.md#us-government-internet-freedom-and-security)
+* [**Privacy and Security**](appendix-iv-alternative-sources-of-support.md#privacy-and-security)
+* [**Digital Rights**](appendix-iv-alternative-sources-of-support.md#digital-rights)
+* [**ICT4D**](appendix-iv-alternative-sources-of-support.md#information-and-communications-technologies-for-development-ict-4-d-including-deploying-internet-connectivity)
+* [**Startup Incubators and Entrepreneurship**](appendix-iv-alternative-sources-of-support.md#startup-incubators-and-entrepreneurship)
+* [**Fellowships**](appendix-iv-alternative-sources-of-support.md#fellowships)
   * [Research](appendix-iv-alternative-sources-of-support.md#research)
   * [Policy & Advocacy](appendix-iv-alternative-sources-of-support.md#policy-and-advocacy)
-* \*\*\*\*[**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-development)\*\*\*\*
-* [**Social Justice and Global Challenges**](appendix-iv-alternative-sources-of-support.md#social-justice-and-global-challenges)\*\*\*\*
-* [**Community**](appendix-iv-alternative-sources-of-support.md#community)\*\*\*\*
+* [**Coding and Software Development**](appendix-iv-alternative-sources-of-support.md#coding-and-software-development)
+* [**Social Justice and Global Challenges**](appendix-iv-alternative-sources-of-support.md#social-justice-and-global-challenges)
+* [**Community**](appendix-iv-alternative-sources-of-support.md#community)
   * [Gender & LGBTQ](appendix-iv-alternative-sources-of-support.md#gender-and-lgbtq)
   * [Journalism & Media](appendix-iv-alternative-sources-of-support.md#journalism-and-media)
   * [Capacity Building](appendix-iv-alternative-sources-of-support.md#capacity-building)
-* \*\*\*\*[**Region-Specific**](appendix-iv-alternative-sources-of-support.md#region-specific)\*\*\*\*
+* [**Region-Specific**](appendix-iv-alternative-sources-of-support.md#region-specific)
   * [Middle East](appendix-iv-alternative-sources-of-support.md#middle-east)
   * [Asia-Pacific](appendix-iv-alternative-sources-of-support.md#asia-pacific)
   * [South and Latin America](appendix-iv-alternative-sources-of-support.md#south-and-latin-america)
