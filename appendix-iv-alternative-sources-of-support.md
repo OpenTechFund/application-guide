@@ -223,6 +223,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | The Social Science Research Council | [Social Data Research and Dissertation Fellowships](https://www.ssrc.org/fellowships/view/social-data-research-and-dissertation-fellowships/) |
 | National Science Foundation \(NSF\) | [Graduate Research Opportunities Worldwide \(GROW\)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) |
 |  | [Graduate Research Fellowship Program](https://www.nsfgrfp.org/) |
+| University of Illinois Fellowship Finder | [Database of Fellowships for Graduate Students](https://apps.grad.illinois.edu/fellowship-finder/) |
 | The Horowitz Foundation for Social Policy | [Grants for current PhD candidates](https://www.horowitz-foundation.org/) |
 | Alfred P. Sloan Foundation | [Sloan Research Fellowships](https://sloan.org/fellowships/) |
 | Tinker Foundation Incorporated | [Field Research Grants](https://www.tinker.org/content/field-research-grants) |
