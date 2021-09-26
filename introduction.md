@@ -10,5 +10,5 @@ This guide is designed to act as a starting point for understanding OTF's fundin
 
 **A Living Guide** 
 
-This guide is a living document. Much of the information found here here was informed by the numerous inquiries sent our way by curious would-be applicants in the past, so hopefully if you came here with a question you can find your answer. With that said, we recognize that this is an ongoing process, and we therefore welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. Feel free to comment directly within the guide as you see fit, or write to us at hello@opentech.fund.
+This guide is a living document. Much of the information found here was informed by the numerous inquiries sent our way by curious would-be applicants in the past, so hopefully if you came here with a question you can find your answer. With that said, we recognize that this is an ongoing process, and we therefore welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. Feel free to comment directly within the guide as you see fit, or write to us at hello@opentech.fund.
 
